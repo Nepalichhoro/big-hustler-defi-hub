@@ -1,0 +1,181 @@
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0.00 0.00 550.79 613.00">
+<g id="graph0" class="graph" transform="translate(4,609) scale(1)" style="transform: translate(4px, 99%) scale(0.98);">
+<title>G</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-609 546.7859,-609 546.7859,4 -4,4"/>
+<g id="clust1" class="cluster">
+<title>clusterERC721Permit</title>
+<polygon fill="#d3d3d3" stroke="#d3d3d3" points="8,-93 8,-460 534.7859,-460 534.7859,-93 8,-93"/>
+<text text-anchor="middle" x="271.393" y="-443.4" font-family="Times,serif" font-size="14.00" fill="#000000">ERC721Permit</text>
+</g>
+<g id="clust2" class="cluster">
+<title>clusterChainId</title>
+<polygon fill="none" stroke="#d3d3d3" points="451.793,-8 451.793,-85 521.793,-85 521.793,-8 451.793,-8"/>
+<text text-anchor="middle" x="486.793" y="-68.4" font-family="Times,serif" font-size="14.00" fill="#000000">ChainId</text>
+</g>
+<g id="clust3" class="cluster">
+<title>clusterAddress</title>
+<polygon fill="none" stroke="#d3d3d3" points="240.1926,-8 240.1926,-85 357.6495,-85 357.6495,-8 240.1926,-8"/>
+<text text-anchor="middle" x="298.921" y="-68.4" font-family="Times,serif" font-size="14.00" fill="#000000">Address</text>
+</g>
+<g id="clust4" class="cluster">
+<title>cluster_01</title>
+<polygon fill="none" stroke="#000000" points="10.5209,-468 10.5209,-597 333.921,-597 333.921,-468 10.5209,-468"/>
+<text text-anchor="middle" x="172.221" y="-580.4" font-family="Times,serif" font-size="14.00" fill="#000000">Legend</text>
+</g>
+<!-- ERC721Permit._getAndIncrementNonce -->
+<g id="node1" class="node">
+<title>ERC721Permit._getAndIncrementNonce</title>
+<ellipse fill="none" stroke="#000000" cx="298.921" cy="-119" rx="108.7729" ry="18"/>
+<text text-anchor="middle" x="298.921" y="-114.8" font-family="Times,serif" font-size="14.00" fill="#000000">_getAndIncrementNonce</text>
+</g>
+<!-- ERC721Permit.&lt;Constructor&gt; -->
+<g id="node2" class="node">
+<title>ERC721Permit.&lt;Constructor&gt;</title>
+<ellipse fill="none" stroke="#00ff00" cx="83.5209" cy="-354" rx="67.5419" ry="18"/>
+<text text-anchor="middle" x="83.5209" y="-349.8" font-family="Times,serif" font-size="14.00" fill="#000000">&lt;Constructor&gt;</text>
+</g>
+<!-- ERC721Permit.DOMAIN_SEPARATOR -->
+<g id="node3" class="node">
+<title>ERC721Permit.DOMAIN_SEPARATOR</title>
+<ellipse fill="none" stroke="#00ff00" cx="298.921" cy="-173" rx="111.7584" ry="18"/>
+<text text-anchor="middle" x="298.921" y="-168.8" font-family="Times,serif" font-size="14.00" fill="#000000">DOMAIN_SEPARATOR</text>
+</g>
+<!-- ERC721Permit.address -->
+<g id="node5" class="node">
+<title>ERC721Permit.address</title>
+<ellipse fill="none" stroke="#000000" cx="486.793" cy="-191" rx="39.9857" ry="18"/>
+<text text-anchor="middle" x="486.793" y="-186.8" font-family="Times,serif" font-size="14.00" fill="#000000">address</text>
+</g>
+<!-- ERC721Permit.DOMAIN_SEPARATOR&#45;&gt;ERC721Permit.address -->
+<g id="edge2" class="edge">
+<title>ERC721Permit.DOMAIN_SEPARATOR-&gt;ERC721Permit.address</title>
+<path fill="none" stroke="#00ff00" d="M395.0585,-182.2109C409.7331,-183.6169 424.3359,-185.016 437.4336,-186.2709"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="437.2994,-189.774 447.5876,-187.2437 437.967,-182.8059 437.2994,-189.774"/>
+</g>
+<!-- ChainId.get -->
+<g id="node10" class="node">
+<title>ChainId.get</title>
+<ellipse fill="none" stroke="#000000" cx="486.793" cy="-34" rx="27" ry="18"/>
+<text text-anchor="middle" x="486.793" y="-29.8" font-family="Times,serif" font-size="14.00" fill="#000000">get</text>
+</g>
+<!-- ERC721Permit.DOMAIN_SEPARATOR&#45;&gt;ChainId.get -->
+<g id="edge1" class="edge">
+<title>ERC721Permit.DOMAIN_SEPARATOR-&gt;ChainId.get</title>
+<path fill="none" stroke="#ffa500" d="M381.5886,-160.8424C391.985,-157.1247 402.0321,-152.288 410.8002,-146 435.149,-128.5383 429.9806,-113.7967 446.8002,-89 453.7009,-78.8265 461.6043,-67.8299 468.5531,-58.3629"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="471.4819,-60.2886 474.6101,-50.1661 465.8522,-56.1285 471.4819,-60.2886"/>
+</g>
+<!-- ERC721Permit.permit -->
+<g id="node4" class="node">
+<title>ERC721Permit.permit</title>
+<ellipse fill="none" stroke="#0000ff" cx="83.5209" cy="-228" rx="36.4936" ry="18"/>
+<text text-anchor="middle" x="83.5209" y="-223.8" font-family="Times,serif" font-size="14.00" fill="#000000">permit</text>
+</g>
+<!-- ERC721Permit.permit&#45;&gt;ERC721Permit._getAndIncrementNonce -->
+<g id="edge5" class="edge">
+<title>ERC721Permit.permit-&gt;ERC721Permit._getAndIncrementNonce</title>
+<path fill="none" stroke="#00ff00" d="M99.5334,-211.5736C118.6529,-192.9129 152.4146,-162.8705 187.0419,-146 195.7987,-141.7337 205.2775,-138.1131 214.8858,-135.0471"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="215.9402,-138.3849 224.5153,-132.1625 213.9314,-131.6793 215.9402,-138.3849"/>
+</g>
+<!-- ERC721Permit.permit&#45;&gt;ERC721Permit.DOMAIN_SEPARATOR -->
+<g id="edge4" class="edge">
+<title>ERC721Permit.permit-&gt;ERC721Permit.DOMAIN_SEPARATOR</title>
+<path fill="none" stroke="#00ff00" d="M115.7685,-219.7659C145.611,-212.146 190.9858,-200.56 229.1046,-190.8268"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="230.3104,-194.1313 239.1336,-188.2661 228.5785,-187.3489 230.3104,-194.1313"/>
+</g>
+<!-- ERC721Permit.permit&#45;&gt;ERC721Permit.address -->
+<g id="edge9" class="edge">
+<title>ERC721Permit.permit-&gt;ERC721Permit.address</title>
+<path fill="none" stroke="#00ff00" d="M119.3083,-225.0865C192.0647,-219.1389 355.0603,-205.6836 410.8002,-200 419.6348,-199.0992 429.0369,-198.0552 438.1077,-197.0042"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="438.6377,-200.4661 448.1604,-195.8219 437.82,-193.514 438.6377,-200.4661"/>
+</g>
+<!-- ERC721Permit._blockTimestamp -->
+<g id="node6" class="node">
+<title>ERC721Permit._blockTimestamp</title>
+<ellipse fill="none" stroke="#000000" cx="298.921" cy="-247" rx="80.5393" ry="18"/>
+<text text-anchor="middle" x="298.921" y="-242.8" font-family="Times,serif" font-size="14.00" fill="#000000">_blockTimestamp</text>
+</g>
+<!-- ERC721Permit.permit&#45;&gt;ERC721Permit._blockTimestamp -->
+<g id="edge3" class="edge">
+<title>ERC721Permit.permit-&gt;ERC721Permit._blockTimestamp</title>
+<path fill="none" stroke="#00ff00" d="M119.5741,-231.1802C145.1886,-233.4396 180.6984,-236.5718 213.367,-239.4535"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="213.1313,-242.9462 223.4001,-240.3385 213.7464,-235.9732 213.1313,-242.9462"/>
+</g>
+<!-- ERC721Permit.ownerOf -->
+<g id="node7" class="node">
+<title>ERC721Permit.ownerOf</title>
+<ellipse fill="none" stroke="#000000" cx="298.921" cy="-301" rx="45.2054" ry="18"/>
+<text text-anchor="middle" x="298.921" y="-296.8" font-family="Times,serif" font-size="14.00" fill="#000000">ownerOf</text>
+</g>
+<!-- ERC721Permit.permit&#45;&gt;ERC721Permit.ownerOf -->
+<g id="edge6" class="edge">
+<title>ERC721Permit.permit-&gt;ERC721Permit.ownerOf</title>
+<path fill="none" stroke="#00ff00" d="M108.9535,-240.859C129.5976,-250.9138 159.668,-264.7009 187.0419,-274 206.6972,-280.6771 228.825,-286.3814 248.1814,-290.8029"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="247.5012,-294.2371 258.0231,-292.9964 249.0241,-287.4047 247.5012,-294.2371"/>
+</g>
+<!-- ERC721Permit.IERC1271 -->
+<g id="node8" class="node">
+<title>ERC721Permit.IERC1271</title>
+<ellipse fill="none" stroke="#000000" cx="298.921" cy="-355" rx="52.1906" ry="18"/>
+<text text-anchor="middle" x="298.921" y="-350.8" font-family="Times,serif" font-size="14.00" fill="#000000">IERC1271</text>
+</g>
+<!-- ERC721Permit.permit&#45;&gt;ERC721Permit.IERC1271 -->
+<g id="edge8" class="edge">
+<title>ERC721Permit.permit-&gt;ERC721Permit.IERC1271</title>
+<path fill="none" stroke="#00ff00" d="M96.2388,-244.9885C114.0222,-267.4972 148.4981,-306.8206 187.0419,-328 202.9979,-336.7677 221.7688,-342.7145 239.3295,-346.7378"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="238.9905,-350.2436 249.4987,-348.8912 240.4407,-343.3954 238.9905,-350.2436"/>
+</g>
+<!-- ERC721Permit._approve -->
+<g id="node9" class="node">
+<title>ERC721Permit._approve</title>
+<ellipse fill="none" stroke="#000000" cx="298.921" cy="-409" rx="46.9342" ry="18"/>
+<text text-anchor="middle" x="298.921" y="-404.8" font-family="Times,serif" font-size="14.00" fill="#000000">_approve</text>
+</g>
+<!-- ERC721Permit.permit&#45;&gt;ERC721Permit._approve -->
+<g id="edge10" class="edge">
+<title>ERC721Permit.permit-&gt;ERC721Permit._approve</title>
+<path fill="none" stroke="#00ff00" d="M95.3302,-245.1025C108.8867,-264.7843 131.739,-298.1122 151.0419,-327 167.2734,-351.2913 163.1631,-365.1675 187.0419,-382 203.2386,-393.4173 223.6771,-400.0406 242.6399,-403.8708"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="242.2264,-407.3525 252.6879,-405.6769 243.4649,-400.4629 242.2264,-407.3525"/>
+</g>
+<!-- Address.isContract -->
+<g id="node11" class="node">
+<title>Address.isContract</title>
+<ellipse fill="none" stroke="#000000" cx="298.921" cy="-34" rx="50.958" ry="18"/>
+<text text-anchor="middle" x="298.921" y="-29.8" font-family="Times,serif" font-size="14.00" fill="#000000">isContract</text>
+</g>
+<!-- ERC721Permit.permit&#45;&gt;Address.isContract -->
+<g id="edge7" class="edge">
+<title>ERC721Permit.permit-&gt;Address.isContract</title>
+<path fill="none" stroke="#ffa500" d="M92.8568,-210.5325C108.8628,-181.9484 144.0136,-124.7874 187.0419,-89 206.6105,-72.7244 231.8092,-59.7958 253.3362,-50.5736"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="254.7244,-53.787 262.6216,-46.7241 252.0436,-47.3207 254.7244,-53.787"/>
+</g>
+<!-- key -->
+<g id="node12" class="node">
+<title>key</title>
+<text text-anchor="start" x="68.1569" y="-545.4" font-family="Times,serif" font-size="14.00" fill="#000000">Internal Call</text>
+<text text-anchor="start" x="64.2649" y="-525.4" font-family="Times,serif" font-size="14.00" fill="#000000">External Call</text>
+<text text-anchor="start" x="41.7263" y="-505.4" font-family="Times,serif" font-size="14.00" fill="#000000">Defined Contract</text>
+<text text-anchor="start" x="28.1236" y="-485.4" font-family="Times,serif" font-size="14.00" fill="#000000">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node13" class="node">
+<title>key2</title>
+<text text-anchor="start" x="286.6801" y="-545.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<text text-anchor="start" x="286.6801" y="-525.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="#d3d3d3" stroke="transparent" points="284.921,-500 284.921,-520 312.921,-520 312.921,-500 284.921,-500"/>
+<text text-anchor="start" x="286.6801" y="-505.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="none" stroke="#d3d3d3" points="286.921,-482 286.921,-498 310.921,-498 310.921,-482 286.921,-482"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge11" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#00ff00" d="M140.5209,-550C201.189,-550 218.8444,-550 274.808,-550"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="274.9211,-553.5001 284.921,-550 274.921,-546.5001 274.9211,-553.5001"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge12" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#ffa500" d="M140.5209,-530C201.189,-530 218.8444,-530 274.808,-530"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="274.9211,-533.5001 284.921,-530 274.921,-526.5001 274.9211,-533.5001"/>
+</g>
+</g>
+</svg>

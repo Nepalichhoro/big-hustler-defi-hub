@@ -1,0 +1,128 @@
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0.00 0.00 333.65 454.00">
+<g id="graph0" class="graph" transform="translate(4,450) scale(1)" style="transform: translate(4px, 99%) scale(0.98);">
+<title>G</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-450 329.6476,-450 329.6476,4 -4,4"/>
+<g id="clust1" class="cluster">
+<title>clusterPath</title>
+<polygon fill="#d3d3d3" stroke="#d3d3d3" points="8,-8 8,-301 181.2683,-301 181.2683,-8 8,-8"/>
+<text text-anchor="middle" x="94.6342" y="-284.4" font-family="Times,serif" font-size="14.00" fill="#000000">Path  (lib)</text>
+</g>
+<g id="clust2" class="cluster">
+<title>clusterpath</title>
+<polygon fill="none" stroke="#d3d3d3" points="201.2683,-8 201.2683,-193 317.6476,-193 317.6476,-8 201.2683,-8"/>
+<text text-anchor="middle" x="259.4579" y="-176.4" font-family="Times,serif" font-size="14.00" fill="#000000">path</text>
+</g>
+<g id="clust3" class="cluster">
+<title>cluster_01</title>
+<polygon fill="none" stroke="#000000" points="21.6342,-309 21.6342,-438 294.4579,-438 294.4579,-309 21.6342,-309"/>
+<text text-anchor="middle" x="158.046" y="-421.4" font-family="Times,serif" font-size="14.00" fill="#000000">Legend</text>
+</g>
+<!-- Path.hasMultiplePools -->
+<g id="node1" class="node">
+<title>Path.hasMultiplePools</title>
+<ellipse fill="none" stroke="#ffffff" cx="94.6342" cy="-250" rx="78.7685" ry="18"/>
+<text text-anchor="middle" x="94.6342" y="-245.8" font-family="Times,serif" font-size="14.00" fill="#000000">hasMultiplePools</text>
+</g>
+<!-- Path.numPools -->
+<g id="node2" class="node">
+<title>Path.numPools</title>
+<ellipse fill="none" stroke="#ffffff" cx="94.6342" cy="-196" rx="49.8407" ry="18"/>
+<text text-anchor="middle" x="94.6342" y="-191.8" font-family="Times,serif" font-size="14.00" fill="#000000">numPools</text>
+</g>
+<!-- Path.decodeFirstPool -->
+<g id="node3" class="node">
+<title>Path.decodeFirstPool</title>
+<ellipse fill="none" stroke="#ffffff" cx="94.6342" cy="-142" rx="73.5945" ry="18"/>
+<text text-anchor="middle" x="94.6342" y="-137.8" font-family="Times,serif" font-size="14.00" fill="#000000">decodeFirstPool</text>
+</g>
+<!-- path.toAddress -->
+<g id="node6" class="node">
+<title>path.toAddress</title>
+<ellipse fill="none" stroke="#000000" cx="259.4579" cy="-142" rx="50.38" ry="18"/>
+<text text-anchor="middle" x="259.4579" y="-137.8" font-family="Times,serif" font-size="14.00" fill="#000000">toAddress</text>
+</g>
+<!-- Path.decodeFirstPool&#45;&gt;path.toAddress -->
+<g id="edge1" class="edge">
+<title>Path.decodeFirstPool-&gt;path.toAddress</title>
+<path fill="none" stroke="#ffa500" d="M163.5793,-135.3307C176.398,-135.1758 189.6635,-135.2439 202.0896,-135.535"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="202.2044,-139.0397 212.3019,-135.832 202.4079,-132.0427 202.2044,-139.0397"/>
+</g>
+<!-- Path.decodeFirstPool&#45;&gt;path.toAddress -->
+<g id="edge3" class="edge">
+<title>Path.decodeFirstPool-&gt;path.toAddress</title>
+<path fill="none" stroke="#ffa500" d="M163.5793,-148.6693C176.398,-148.8242 189.6635,-148.7561 202.0896,-148.465"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="202.4079,-151.9573 212.3019,-148.168 202.2044,-144.9603 202.4079,-151.9573"/>
+</g>
+<!-- path.toUint24 -->
+<g id="node7" class="node">
+<title>path.toUint24</title>
+<ellipse fill="none" stroke="#000000" cx="259.4579" cy="-88" rx="45.2458" ry="18"/>
+<text text-anchor="middle" x="259.4579" y="-83.8" font-family="Times,serif" font-size="14.00" fill="#000000">toUint24</text>
+</g>
+<!-- Path.decodeFirstPool&#45;&gt;path.toUint24 -->
+<g id="edge2" class="edge">
+<title>Path.decodeFirstPool-&gt;path.toUint24</title>
+<path fill="none" stroke="#ffa500" d="M141.0268,-127.8266C154.0696,-123.7645 168.2464,-119.2764 181.2683,-115 192.4544,-111.3265 204.495,-107.2367 215.6955,-103.374"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="216.976,-106.6346 225.2795,-100.0542 214.6848,-100.0202 216.976,-106.6346"/>
+</g>
+<!-- Path.getFirstPool -->
+<g id="node4" class="node">
+<title>Path.getFirstPool</title>
+<ellipse fill="none" stroke="#ffffff" cx="94.6342" cy="-88" rx="58.0016" ry="18"/>
+<text text-anchor="middle" x="94.6342" y="-83.8" font-family="Times,serif" font-size="14.00" fill="#000000">getFirstPool</text>
+</g>
+<!-- path.slice -->
+<g id="node8" class="node">
+<title>path.slice</title>
+<ellipse fill="none" stroke="#000000" cx="259.4579" cy="-34" rx="28.9676" ry="18"/>
+<text text-anchor="middle" x="259.4579" y="-29.8" font-family="Times,serif" font-size="14.00" fill="#000000">slice</text>
+</g>
+<!-- Path.getFirstPool&#45;&gt;path.slice -->
+<g id="edge4" class="edge">
+<title>Path.getFirstPool-&gt;path.slice</title>
+<path fill="none" stroke="#ffa500" d="M136.1386,-75.3456C150.4662,-70.9028 166.5999,-65.8171 181.2683,-61 195.4029,-56.3582 210.9017,-51.0518 224.3461,-46.3788"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="225.8817,-49.55 234.17,-42.9503 223.5751,-42.9409 225.8817,-49.55"/>
+</g>
+<!-- Path.skipToken -->
+<g id="node5" class="node">
+<title>Path.skipToken</title>
+<ellipse fill="none" stroke="#ffffff" cx="94.6342" cy="-34" rx="51.6093" ry="18"/>
+<text text-anchor="middle" x="94.6342" y="-29.8" font-family="Times,serif" font-size="14.00" fill="#000000">skipToken</text>
+</g>
+<!-- Path.skipToken&#45;&gt;path.slice -->
+<g id="edge5" class="edge">
+<title>Path.skipToken-&gt;path.slice</title>
+<path fill="none" stroke="#ffa500" d="M146.7854,-34C170.6142,-34 198.3625,-34 220.3595,-34"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="220.6536,-37.5001 230.6536,-34 220.6535,-30.5001 220.6536,-37.5001"/>
+</g>
+<!-- key -->
+<g id="node9" class="node">
+<title>key</title>
+<text text-anchor="start" x="79.2702" y="-386.4" font-family="Times,serif" font-size="14.00" fill="#000000">Internal Call</text>
+<text text-anchor="start" x="75.3782" y="-366.4" font-family="Times,serif" font-size="14.00" fill="#000000">External Call</text>
+<text text-anchor="start" x="52.8396" y="-346.4" font-family="Times,serif" font-size="14.00" fill="#000000">Defined Contract</text>
+<text text-anchor="start" x="39.2369" y="-326.4" font-family="Times,serif" font-size="14.00" fill="#000000">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node10" class="node">
+<title>key2</title>
+<text text-anchor="start" x="247.217" y="-386.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<text text-anchor="start" x="247.217" y="-366.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="#d3d3d3" stroke="transparent" points="245.4579,-341 245.4579,-361 273.4579,-361 273.4579,-341 245.4579,-341"/>
+<text text-anchor="start" x="247.217" y="-346.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="none" stroke="#d3d3d3" points="247.4579,-323 247.4579,-339 271.4579,-339 271.4579,-323 247.4579,-323"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge6" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#00ff00" d="M151.6342,-391C189.7501,-391 201.7357,-391 235.3605,-391"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="235.458,-394.5001 245.4579,-391 235.4579,-387.5001 235.458,-394.5001"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge7" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#ffa500" d="M151.6342,-371C189.7501,-371 201.7357,-371 235.3605,-371"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="235.458,-374.5001 245.4579,-371 235.4579,-367.5001 235.458,-374.5001"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,217 @@
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0.00 0.00 543.92 678.00">
+<g id="graph0" class="graph" transform="translate(4,674) scale(1)" style="transform: translate(4px, 99%) scale(0.98);">
+<title>G</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-674 539.9237,-674 539.9237,4 -4,4"/>
+<g id="clust1" class="cluster">
+<title>clusterOracleLibrary</title>
+<polygon fill="#d3d3d3" stroke="#d3d3d3" points="8,-178 8,-525 518.8027,-525 518.8027,-178 8,-178"/>
+<text text-anchor="middle" x="263.4013" y="-508.4" font-family="Times,serif" font-size="14.00" fill="#000000">OracleLibrary  (lib)</text>
+</g>
+<g id="clust2" class="cluster">
+<title>clusterTickMath</title>
+<polygon fill="none" stroke="#d3d3d3" points="337.5104,-93 337.5104,-170 527.9237,-170 527.9237,-93 337.5104,-93"/>
+<text text-anchor="middle" x="432.717" y="-153.4" font-family="Times,serif" font-size="14.00" fill="#000000">TickMath</text>
+</g>
+<g id="clust3" class="cluster">
+<title>clusterFullMath</title>
+<polygon fill="none" stroke="#d3d3d3" points="384.1728,-8 384.1728,-85 481.2613,-85 481.2613,-8 384.1728,-8"/>
+<text text-anchor="middle" x="432.717" y="-68.4" font-family="Times,serif" font-size="14.00" fill="#000000">FullMath</text>
+</g>
+<g id="clust4" class="cluster">
+<title>cluster_01</title>
+<polygon fill="none" stroke="#000000" points="89.7552,-533 89.7552,-662 467.717,-662 467.717,-533 89.7552,-533"/>
+<text text-anchor="middle" x="278.7361" y="-645.4" font-family="Times,serif" font-size="14.00" fill="#000000">Legend</text>
+</g>
+<!-- OracleLibrary.consult -->
+<g id="node1" class="node">
+<title>OracleLibrary.consult</title>
+<ellipse fill="none" stroke="#ffffff" cx="162.7552" cy="-366" rx="38.8632" ry="18"/>
+<text text-anchor="middle" x="162.7552" y="-361.8" font-family="Times,serif" font-size="14.00" fill="#000000">consult</text>
+</g>
+<!-- OracleLibrary.IUniswapV3Pool -->
+<g id="node7" class="node">
+<title>OracleLibrary.IUniswapV3Pool</title>
+<ellipse fill="none" stroke="#000000" cx="432.717" cy="-420" rx="78.1714" ry="18"/>
+<text text-anchor="middle" x="432.717" y="-415.8" font-family="Times,serif" font-size="14.00" fill="#000000">IUniswapV3Pool</text>
+</g>
+<!-- OracleLibrary.consult&#45;&gt;OracleLibrary.IUniswapV3Pool -->
+<g id="edge1" class="edge">
+<title>OracleLibrary.consult-&gt;OracleLibrary.IUniswapV3Pool</title>
+<path fill="none" stroke="#00ff00" d="M199.3086,-372.3714C229.0397,-377.6386 272.052,-385.4521 309.5104,-393 328.2522,-396.7765 348.541,-401.1176 367.1416,-405.1988"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="366.4691,-408.6345 376.9882,-407.3694 367.9761,-401.7987 366.4691,-408.6345"/>
+</g>
+<!-- OracleLibrary.type -->
+<g id="node8" class="node">
+<title>OracleLibrary.type</title>
+<ellipse fill="none" stroke="#000000" cx="432.717" cy="-366" rx="27.8286" ry="18"/>
+<text text-anchor="middle" x="432.717" y="-361.8" font-family="Times,serif" font-size="14.00" fill="#000000">type</text>
+</g>
+<!-- OracleLibrary.consult&#45;&gt;OracleLibrary.type -->
+<g id="edge2" class="edge">
+<title>OracleLibrary.consult-&gt;OracleLibrary.type</title>
+<path fill="none" stroke="#00ff00" d="M201.7217,-366C253.2508,-366 343.486,-366 394.5905,-366"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="394.8738,-369.5001 404.8737,-366 394.8737,-362.5001 394.8738,-369.5001"/>
+</g>
+<!-- OracleLibrary.getQuoteAtTick -->
+<g id="node2" class="node">
+<title>OracleLibrary.getQuoteAtTick</title>
+<ellipse fill="none" stroke="#ffffff" cx="162.7552" cy="-312" rx="73.5753" ry="18"/>
+<text text-anchor="middle" x="162.7552" y="-307.8" font-family="Times,serif" font-size="14.00" fill="#000000">getQuoteAtTick</text>
+</g>
+<!-- OracleLibrary.getQuoteAtTick&#45;&gt;OracleLibrary.type -->
+<g id="edge4" class="edge">
+<title>OracleLibrary.getQuoteAtTick-&gt;OracleLibrary.type</title>
+<path fill="none" stroke="#00ff00" d="M222.8209,-322.5778C249.4222,-327.3843 281.0674,-333.2687 309.5104,-339 338.8117,-344.9043 371.8943,-352.1884 396.3952,-357.7024"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="395.8086,-361.158 406.3341,-359.9479 397.3513,-354.3301 395.8086,-361.158"/>
+</g>
+<!-- TickMath.getSqrtRatioAtTick -->
+<g id="node9" class="node">
+<title>TickMath.getSqrtRatioAtTick</title>
+<ellipse fill="none" stroke="#000000" cx="432.717" cy="-119" rx="87.4137" ry="18"/>
+<text text-anchor="middle" x="432.717" y="-114.8" font-family="Times,serif" font-size="14.00" fill="#000000">getSqrtRatioAtTick</text>
+</g>
+<!-- OracleLibrary.getQuoteAtTick&#45;&gt;TickMath.getSqrtRatioAtTick -->
+<g id="edge3" class="edge">
+<title>OracleLibrary.getQuoteAtTick-&gt;TickMath.getSqrtRatioAtTick</title>
+<path fill="none" stroke="#ffa500" d="M236.1123,-314.1872C262.2103,-311.254 289.9435,-303.3318 309.5104,-285 346.6398,-250.2142 306.8402,-214.5953 337.5104,-174 348.5723,-159.3584 364.7519,-147.9574 380.6456,-139.4278"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="382.584,-142.3698 389.9297,-134.7348 379.4261,-136.1225 382.584,-142.3698"/>
+</g>
+<!-- FullMath.mulDiv -->
+<g id="node10" class="node">
+<title>FullMath.mulDiv</title>
+<ellipse fill="none" stroke="#000000" cx="432.717" cy="-34" rx="40.5886" ry="18"/>
+<text text-anchor="middle" x="432.717" y="-29.8" font-family="Times,serif" font-size="14.00" fill="#000000">mulDiv</text>
+</g>
+<!-- OracleLibrary.getQuoteAtTick&#45;&gt;FullMath.mulDiv -->
+<g id="edge5" class="edge">
+<title>OracleLibrary.getQuoteAtTick-&gt;FullMath.mulDiv</title>
+<path fill="none" stroke="#ffa500" d="M177.8203,-294.2472C207.6819,-282.0264 274.5122,-285.4287 309.5104,-249 370.4743,-185.5444 288.2305,-125.902 337.5104,-53 355.4249,-26.4983 390.6821,-11.125 412.9004,-13.7648"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="412.0506,-17.162 422.627,-16.5379 413.9699,-10.4302 412.0506,-17.162"/>
+</g>
+<!-- OracleLibrary.getQuoteAtTick&#45;&gt;FullMath.mulDiv -->
+<g id="edge6" class="edge">
+<title>OracleLibrary.getQuoteAtTick-&gt;FullMath.mulDiv</title>
+<path fill="none" stroke="#ffa500" d="M219.9932,-300.5763C250.7064,-297.5016 286.8064,-290.6319 309.5104,-267 370.4743,-203.5444 288.2305,-143.902 337.5104,-71 348.5147,-54.7209 366.0627,-42.6408 383.1128,-35.1852"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="384.4487,-38.421 392.4892,-31.5217 381.9011,-31.901 384.4487,-38.421"/>
+</g>
+<!-- OracleLibrary.getQuoteAtTick&#45;&gt;FullMath.mulDiv -->
+<g id="edge7" class="edge">
+<title>OracleLibrary.getQuoteAtTick-&gt;FullMath.mulDiv</title>
+<path fill="none" stroke="#ffa500" d="M235.2694,-315.4495C262.055,-312.8349 290.4857,-304.8023 309.5104,-285 370.4743,-221.5444 288.2305,-161.902 337.5104,-89 350.0965,-70.3808 371.2429,-57.2546 390.4137,-48.5071"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="391.8085,-51.7173 399.62,-44.5597 389.0499,-45.2837 391.8085,-51.7173"/>
+</g>
+<!-- OracleLibrary.getQuoteAtTick&#45;&gt;FullMath.mulDiv -->
+<g id="edge8" class="edge">
+<title>OracleLibrary.getQuoteAtTick-&gt;FullMath.mulDiv</title>
+<path fill="none" stroke="#ffa500" d="M191.8702,-328.5929C225.2582,-336.2155 279.2683,-334.4781 309.5104,-303 370.4743,-239.5444 288.2305,-179.902 337.5104,-107 354.0669,-82.5072 385.4365,-67.5197 407.6361,-55.5152"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="409.5086,-58.4779 416.5189,-50.534 406.0848,-52.3724 409.5086,-58.4779"/>
+</g>
+<!-- OracleLibrary.getQuoteAtTick&#45;&gt;FullMath.mulDiv -->
+<g id="edge9" class="edge">
+<title>OracleLibrary.getQuoteAtTick-&gt;FullMath.mulDiv</title>
+<path fill="none" stroke="#ffa500" d="M171.9856,-329.9627C197.9217,-353.3325 271.9995,-360.0441 309.5104,-321 370.4743,-257.5444 288.2305,-197.902 337.5104,-125 357.4093,-95.5627 398.7057,-79.8558 419.7625,-59.6364"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="422.5484,-61.7685 426.5274,-51.9492 417.2935,-57.144 422.5484,-61.7685"/>
+</g>
+<!-- OracleLibrary.getOldestObservationSecondsAgo -->
+<g id="node3" class="node">
+<title>OracleLibrary.getOldestObservationSecondsAgo</title>
+<ellipse fill="none" stroke="#ffffff" cx="162.7552" cy="-474" rx="144.1045" ry="18"/>
+<text text-anchor="middle" x="162.7552" y="-469.8" font-family="Times,serif" font-size="14.00" fill="#000000">getOldestObservationSecondsAgo</text>
+</g>
+<!-- OracleLibrary.getOldestObservationSecondsAgo&#45;&gt;OracleLibrary.IUniswapV3Pool -->
+<g id="edge10" class="edge">
+<title>OracleLibrary.getOldestObservationSecondsAgo-&gt;OracleLibrary.IUniswapV3Pool</title>
+<path fill="none" stroke="#00ff00" d="M189.0516,-456.3016C218.459,-446.2723 267.4808,-437.469 309.5104,-429 320.9143,-426.7021 332.891,-424.1952 344.7116,-421.8258"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="345.4557,-425.2465 354.5881,-419.8755 344.0995,-418.3791 345.4557,-425.2465"/>
+</g>
+<!-- OracleLibrary.getOldestObservationSecondsAgo&#45;&gt;OracleLibrary.IUniswapV3Pool -->
+<g id="edge11" class="edge">
+<title>OracleLibrary.getOldestObservationSecondsAgo-&gt;OracleLibrary.IUniswapV3Pool</title>
+<path fill="none" stroke="#00ff00" d="M245.8939,-459.2095C266.6948,-455.37 288.9401,-451.145 309.5104,-447 328.2522,-443.2235 348.541,-438.8824 367.1416,-434.8012"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="367.9761,-438.2013 376.9882,-432.6306 366.4691,-431.3655 367.9761,-438.2013"/>
+</g>
+<!-- OracleLibrary.getOldestObservationSecondsAgo&#45;&gt;OracleLibrary.IUniswapV3Pool -->
+<g id="edge12" class="edge">
+<title>OracleLibrary.getOldestObservationSecondsAgo-&gt;OracleLibrary.IUniswapV3Pool</title>
+<path fill="none" stroke="#00ff00" d="M297.1486,-467.4577C301.3185,-466.6406 305.4471,-465.8188 309.5104,-465 341.3952,-458.5751 377.7574,-450.5163 402.6673,-441.3667"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="404.2857,-444.4889 412.2695,-437.5241 401.6849,-437.99 404.2857,-444.4889"/>
+</g>
+<!-- OracleLibrary.getBlockStartingTickAndLiquidity -->
+<g id="node4" class="node">
+<title>OracleLibrary.getBlockStartingTickAndLiquidity</title>
+<ellipse fill="none" stroke="#ffffff" cx="162.7552" cy="-420" rx="146.5108" ry="18"/>
+<text text-anchor="middle" x="162.7552" y="-415.8" font-family="Times,serif" font-size="14.00" fill="#000000">getBlockStartingTickAndLiquidity</text>
+</g>
+<!-- OracleLibrary.getBlockStartingTickAndLiquidity&#45;&gt;OracleLibrary.IUniswapV3Pool -->
+<g id="edge13" class="edge">
+<title>OracleLibrary.getBlockStartingTickAndLiquidity-&gt;OracleLibrary.IUniswapV3Pool</title>
+<path fill="none" stroke="#00ff00" d="M218.0375,-403.2876C265.5072,-398.4788 333.4654,-398.5726 380.1361,-403.569"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="379.9976,-407.0772 390.3419,-404.7867 380.827,-400.1265 379.9976,-407.0772"/>
+</g>
+<!-- OracleLibrary.getBlockStartingTickAndLiquidity&#45;&gt;OracleLibrary.IUniswapV3Pool -->
+<g id="edge14" class="edge">
+<title>OracleLibrary.getBlockStartingTickAndLiquidity-&gt;OracleLibrary.IUniswapV3Pool</title>
+<path fill="none" stroke="#00ff00" d="M298.9225,-413.2502C315.9065,-413.2569 332.8656,-413.406 348.7239,-413.6976"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="348.905,-417.202 358.9753,-413.9098 349.0499,-410.2035 348.905,-417.202"/>
+</g>
+<!-- OracleLibrary.getBlockStartingTickAndLiquidity&#45;&gt;OracleLibrary.IUniswapV3Pool -->
+<g id="edge15" class="edge">
+<title>OracleLibrary.getBlockStartingTickAndLiquidity-&gt;OracleLibrary.IUniswapV3Pool</title>
+<path fill="none" stroke="#00ff00" d="M298.9225,-426.7498C315.9065,-426.7431 332.8656,-426.594 348.7239,-426.3024"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="349.0499,-429.7965 358.9753,-426.0902 348.905,-422.798 349.0499,-429.7965"/>
+</g>
+<!-- OracleLibrary.getBlockStartingTickAndLiquidity&#45;&gt;OracleLibrary.IUniswapV3Pool -->
+<g id="edge16" class="edge">
+<title>OracleLibrary.getBlockStartingTickAndLiquidity-&gt;OracleLibrary.IUniswapV3Pool</title>
+<path fill="none" stroke="#00ff00" d="M218.0375,-436.7124C265.5072,-441.5212 333.4654,-441.4274 380.1361,-436.431"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="380.827,-439.8735 390.3419,-435.2133 379.9976,-432.9228 380.827,-439.8735"/>
+</g>
+<!-- OracleLibrary.getBlockStartingTickAndLiquidity&#45;&gt;OracleLibrary.type -->
+<g id="edge17" class="edge">
+<title>OracleLibrary.getBlockStartingTickAndLiquidity-&gt;OracleLibrary.type</title>
+<path fill="none" stroke="#00ff00" d="M246.2792,-405.1383C266.9693,-401.3178 289.067,-397.1194 309.5104,-393 338.8117,-387.0957 371.8943,-379.8116 396.3952,-374.2976"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="397.3513,-377.6699 406.3341,-372.0521 395.8086,-370.842 397.3513,-377.6699"/>
+</g>
+<!-- OracleLibrary.getWeightedArithmeticMeanTick -->
+<g id="node5" class="node">
+<title>OracleLibrary.getWeightedArithmeticMeanTick</title>
+<ellipse fill="none" stroke="#ffffff" cx="162.7552" cy="-258" rx="141.7917" ry="18"/>
+<text text-anchor="middle" x="162.7552" y="-253.8" font-family="Times,serif" font-size="14.00" fill="#000000">getWeightedArithmeticMeanTick</text>
+</g>
+<!-- OracleLibrary.getChainedPrice -->
+<g id="node6" class="node">
+<title>OracleLibrary.getChainedPrice</title>
+<ellipse fill="none" stroke="#ffffff" cx="162.7552" cy="-204" rx="74.7168" ry="18"/>
+<text text-anchor="middle" x="162.7552" y="-199.8" font-family="Times,serif" font-size="14.00" fill="#000000">getChainedPrice</text>
+</g>
+<!-- key -->
+<g id="node11" class="node">
+<title>key</title>
+<text text-anchor="start" x="147.3912" y="-610.4" font-family="Times,serif" font-size="14.00" fill="#000000">Internal Call</text>
+<text text-anchor="start" x="143.4992" y="-590.4" font-family="Times,serif" font-size="14.00" fill="#000000">External Call</text>
+<text text-anchor="start" x="120.9606" y="-570.4" font-family="Times,serif" font-size="14.00" fill="#000000">Defined Contract</text>
+<text text-anchor="start" x="107.3579" y="-550.4" font-family="Times,serif" font-size="14.00" fill="#000000">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node12" class="node">
+<title>key2</title>
+<text text-anchor="start" x="420.4761" y="-610.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<text text-anchor="start" x="420.4761" y="-590.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="#d3d3d3" stroke="transparent" points="418.717,-565 418.717,-585 446.717,-585 446.717,-565 418.717,-565"/>
+<text text-anchor="start" x="420.4761" y="-570.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="none" stroke="#d3d3d3" points="420.717,-547 420.717,-563 444.717,-563 444.717,-547 420.717,-547"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge18" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#00ff00" d="M219.7552,-615C304.7285,-615 328.4613,-615 408.6501,-615"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="408.7171,-618.5001 418.717,-615 408.717,-611.5001 408.7171,-618.5001"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge19" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#ffa500" d="M219.7552,-595C304.7285,-595 328.4613,-595 408.6501,-595"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="408.7171,-598.5001 418.717,-595 408.717,-591.5001 408.7171,-598.5001"/>
+</g>
+</g>
+</svg>

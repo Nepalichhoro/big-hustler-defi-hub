@@ -1,0 +1,753 @@
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0.00 0.00 1374.73 1282.00">
+<g id="graph0" class="graph" transform="translate(4,1278) scale(1)" style="transform: translate(4px, 99%) scale(0.98);">
+<title>G</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-1278 1370.7261,-1278 1370.7261,4 -4,4"/>
+<g id="clust1" class="cluster">
+<title>clusterNFTDescriptor</title>
+<polygon fill="#d3d3d3" stroke="#d3d3d3" points="8,-674 8,-1129 1345.1818,-1129 1345.1818,-674 8,-674"/>
+<text text-anchor="middle" x="676.5909" y="-1112.4" font-family="Times,serif" font-size="14.00" fill="#000000">NFTDescriptor  (lib)</text>
+</g>
+<g id="clust2" class="cluster">
+<title>clusterTickMath</title>
+<polygon fill="none" stroke="#d3d3d3" points="751.7895,-589 751.7895,-666 942.2028,-666 942.2028,-589 751.7895,-589"/>
+<text text-anchor="middle" x="846.9961" y="-649.4" font-family="Times,serif" font-size="14.00" fill="#000000">TickMath</text>
+</g>
+<g id="clust3" class="cluster">
+<title>clustervalue</title>
+<polygon fill="none" stroke="#d3d3d3" points="1275.1818,-589 1275.1818,-666 1345.1818,-666 1345.1818,-589 1275.1818,-589"/>
+<text text-anchor="middle" x="1310.1818" y="-649.4" font-family="Times,serif" font-size="14.00" fill="#000000">value</text>
+</g>
+<g id="clust4" class="cluster">
+<title>clustersqrtRatioX96</title>
+<polygon fill="none" stroke="#d3d3d3" points="1265.1818,-450 1265.1818,-581 1356.1818,-581 1356.1818,-450 1265.1818,-450"/>
+<text text-anchor="middle" x="1310.6818" y="-564.4" font-family="Times,serif" font-size="14.00" fill="#000000">sqrtRatioX96</text>
+</g>
+<g id="clust5" class="cluster">
+<title>clusterdifference</title>
+<polygon fill="none" stroke="#d3d3d3" points="1274.1818,-365 1274.1818,-442 1346.1818,-442 1346.1818,-365 1274.1818,-365"/>
+<text text-anchor="middle" x="1310.1818" y="-425.4" font-family="Times,serif" font-size="14.00" fill="#000000">difference</text>
+</g>
+<g id="clust6" class="cluster">
+<title>clusterFullMath</title>
+<polygon fill="none" stroke="#d3d3d3" points="1261.6376,-280 1261.6376,-357 1358.7261,-357 1358.7261,-280 1261.6376,-280"/>
+<text text-anchor="middle" x="1310.1818" y="-340.4" font-family="Times,serif" font-size="14.00" fill="#000000">FullMath</text>
+</g>
+<g id="clust7" class="cluster">
+<title>clusterdigits</title>
+<polygon fill="none" stroke="#d3d3d3" points="1082.4756,-507 1082.4756,-584 1152.4756,-584 1152.4756,-507 1082.4756,-507"/>
+<text text-anchor="middle" x="1117.4756" y="-567.4" font-family="Times,serif" font-size="14.00" fill="#000000">digits</text>
+</g>
+<g id="clust8" class="cluster">
+<title>clusternumSigfigs</title>
+<polygon fill="none" stroke="#d3d3d3" points="806.9961,-348 806.9961,-479 886.9961,-479 886.9961,-348 806.9961,-348"/>
+<text text-anchor="middle" x="846.9961" y="-462.4" font-family="Times,serif" font-size="14.00" fill="#000000">numSigfigs</text>
+</g>
+<g id="clust9" class="cluster">
+<title>clusternZeros</title>
+<polygon fill="none" stroke="#d3d3d3" points="811.9961,-263 811.9961,-340 881.9961,-340 881.9961,-263 811.9961,-263"/>
+<text text-anchor="middle" x="846.9961" y="-323.4" font-family="Times,serif" font-size="14.00" fill="#000000">nZeros</text>
+</g>
+<g id="clust10" class="cluster">
+<title>clusterNFTSVG</title>
+<polygon fill="none" stroke="#d3d3d3" points="529.0637,-535 529.0637,-666 671.1632,-666 671.1632,-535 529.0637,-535"/>
+<text text-anchor="middle" x="600.1134" y="-649.4" font-family="Times,serif" font-size="14.00" fill="#000000">NFTSVG</text>
+</g>
+<g id="clust11" class="cluster">
+<title>clustern</title>
+<polygon fill="none" stroke="#d3d3d3" points="811.9961,-178 811.9961,-255 881.9961,-255 881.9961,-178 811.9961,-178"/>
+<text text-anchor="middle" x="846.9961" y="-238.4" font-family="Times,serif" font-size="14.00" fill="#000000">n</text>
+</g>
+<g id="clust12" class="cluster">
+<title>clusteroutMx</title>
+<polygon fill="none" stroke="#d3d3d3" points="811.9961,-93 811.9961,-170 881.9961,-170 881.9961,-93 811.9961,-93"/>
+<text text-anchor="middle" x="846.9961" y="-153.4" font-family="Times,serif" font-size="14.00" fill="#000000">outMx</text>
+</g>
+<g id="clust13" class="cluster">
+<title>clusterinMx</title>
+<polygon fill="none" stroke="#d3d3d3" points="811.9961,-8 811.9961,-85 881.9961,-85 881.9961,-8 811.9961,-8"/>
+<text text-anchor="middle" x="846.9961" y="-68.4" font-family="Times,serif" font-size="14.00" fill="#000000">inMx</text>
+</g>
+<g id="clust14" class="cluster">
+<title>cluster_01</title>
+<polygon fill="none" stroke="#000000" points="30.731,-1137 30.731,-1266 384.5051,-1266 384.5051,-1137 30.731,-1137"/>
+<text text-anchor="middle" x="207.618" y="-1249.4" font-family="Times,serif" font-size="14.00" fill="#000000">Legend</text>
+</g>
+<!-- NFTDescriptor.constructTokenURI -->
+<g id="node1" class="node">
+<title>NFTDescriptor.constructTokenURI</title>
+<ellipse fill="none" stroke="#00ff00" cx="103.731" cy="-846" rx="87.9626" ry="18"/>
+<text text-anchor="middle" x="103.731" y="-841.8" font-family="Times,serif" font-size="14.00" fill="#000000">constructTokenURI</text>
+</g>
+<!-- NFTDescriptor.escapeQuotes -->
+<g id="node2" class="node">
+<title>NFTDescriptor.escapeQuotes</title>
+<ellipse fill="none" stroke="#000000" cx="600.1134" cy="-700" rx="64.2436" ry="18"/>
+<text text-anchor="middle" x="600.1134" y="-695.8" font-family="Times,serif" font-size="14.00" fill="#000000">escapeQuotes</text>
+</g>
+<!-- NFTDescriptor.constructTokenURI&#45;&gt;NFTDescriptor.escapeQuotes -->
+<g id="edge4" class="edge">
+<title>NFTDescriptor.constructTokenURI-&gt;NFTDescriptor.escapeQuotes</title>
+<path fill="none" stroke="#00ff00" d="M108.0093,-827.8849C120.9358,-789.0623 162.7216,-705.9057 227.462,-675 341.0042,-620.7975 497.0434,-652.969 565.5254,-679.4633"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="564.3973,-682.7831 574.9786,-683.3202 567.0417,-676.3018 564.3973,-682.7831"/>
+</g>
+<!-- NFTDescriptor.constructTokenURI&#45;&gt;NFTDescriptor.escapeQuotes -->
+<g id="edge5" class="edge">
+<title>NFTDescriptor.constructTokenURI-&gt;NFTDescriptor.escapeQuotes</title>
+<path fill="none" stroke="#00ff00" d="M111.7128,-827.9232C127.8515,-793.9413 167.9624,-721.4038 227.462,-693 331.1306,-643.5109 470.2266,-666.0269 545.7591,-684.4803"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="544.9884,-687.8954 555.5396,-686.9345 546.6921,-681.1059 544.9884,-687.8954"/>
+</g>
+<!-- NFTDescriptor.constructTokenURI&#45;&gt;NFTDescriptor.escapeQuotes -->
+<g id="edge8" class="edge">
+<title>NFTDescriptor.constructTokenURI-&gt;NFTDescriptor.escapeQuotes</title>
+<path fill="none" stroke="#00ff00" d="M117.8264,-828.1084C136.8099,-796.6784 174.4365,-736.3132 227.462,-711 323.4463,-665.1792 449.8005,-681.0846 527.9554,-693.5763"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="527.7529,-697.089 538.1838,-695.2323 528.8718,-690.179 527.7529,-697.089"/>
+</g>
+<!-- NFTDescriptor.generateDescriptionPartOne -->
+<g id="node3" class="node">
+<title>NFTDescriptor.generateDescriptionPartOne</title>
+<ellipse fill="none" stroke="#000000" cx="349.5051" cy="-720" rx="120.3608" ry="18"/>
+<text text-anchor="middle" x="349.5051" y="-715.8" font-family="Times,serif" font-size="14.00" fill="#000000">generateDescriptionPartOne</text>
+</g>
+<!-- NFTDescriptor.constructTokenURI&#45;&gt;NFTDescriptor.generateDescriptionPartOne -->
+<g id="edge3" class="edge">
+<title>NFTDescriptor.constructTokenURI-&gt;NFTDescriptor.generateDescriptionPartOne</title>
+<path fill="none" stroke="#00ff00" d="M120.7773,-828.006C143.1174,-805.5314 184.5294,-767.5417 227.462,-747 236.5851,-742.6349 246.4313,-738.9644 256.4349,-735.8801"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="257.4211,-739.2384 266.0559,-733.0991 255.4772,-732.5137 257.4211,-739.2384"/>
+</g>
+<!-- NFTDescriptor.generateDescriptionPartTwo -->
+<g id="node4" class="node">
+<title>NFTDescriptor.generateDescriptionPartTwo</title>
+<ellipse fill="none" stroke="#000000" cx="349.5051" cy="-774" rx="122.0862" ry="18"/>
+<text text-anchor="middle" x="349.5051" y="-769.8" font-family="Times,serif" font-size="14.00" fill="#000000">generateDescriptionPartTwo</text>
+</g>
+<!-- NFTDescriptor.constructTokenURI&#45;&gt;NFTDescriptor.generateDescriptionPartTwo -->
+<g id="edge7" class="edge">
+<title>NFTDescriptor.constructTokenURI-&gt;NFTDescriptor.generateDescriptionPartTwo</title>
+<path fill="none" stroke="#00ff00" d="M143.69,-829.9559C167.7121,-820.6916 199.0411,-809.2734 227.462,-801 239.9975,-797.3509 253.3816,-793.9257 266.5232,-790.8207"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="267.5538,-794.1748 276.5072,-788.5104 265.9756,-787.355 267.5538,-794.1748"/>
+</g>
+<!-- NFTDescriptor.generateName -->
+<g id="node5" class="node">
+<title>NFTDescriptor.generateName</title>
+<ellipse fill="none" stroke="#000000" cx="349.5051" cy="-828" rx="66.592" ry="18"/>
+<text text-anchor="middle" x="349.5051" y="-823.8" font-family="Times,serif" font-size="14.00" fill="#000000">generateName</text>
+</g>
+<!-- NFTDescriptor.constructTokenURI&#45;&gt;NFTDescriptor.generateName -->
+<g id="edge1" class="edge">
+<title>NFTDescriptor.constructTokenURI-&gt;NFTDescriptor.generateName</title>
+<path fill="none" stroke="#00ff00" d="M186.5963,-839.9311C215.1427,-837.8404 246.9236,-835.5129 274.7816,-833.4726"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="275.1367,-836.9561 284.8543,-832.7349 274.6253,-829.9748 275.1367,-836.9561"/>
+</g>
+<!-- NFTDescriptor.feeToPercentString -->
+<g id="node12" class="node">
+<title>NFTDescriptor.feeToPercentString</title>
+<ellipse fill="none" stroke="#000000" cx="600.1134" cy="-754" rx="86.2309" ry="18"/>
+<text text-anchor="middle" x="600.1134" y="-749.8" font-family="Times,serif" font-size="14.00" fill="#000000">feeToPercentString</text>
+</g>
+<!-- NFTDescriptor.constructTokenURI&#45;&gt;NFTDescriptor.feeToPercentString -->
+<g id="edge2" class="edge">
+<title>NFTDescriptor.constructTokenURI-&gt;NFTDescriptor.feeToPercentString</title>
+<path fill="none" stroke="#00ff00" d="M191.6861,-846.8321C292.9744,-851.6532 448.4654,-860.4399 471.5482,-846 502.5552,-826.603 479.5962,-795.5874 507.5482,-772 509.5632,-770.2996 511.6806,-768.7063 513.8802,-767.2154"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="515.9167,-770.0767 522.7292,-761.9625 512.3435,-764.0574 515.9167,-770.0767"/>
+</g>
+<!-- NFTDescriptor.constructTokenURI&#45;&gt;NFTDescriptor.feeToPercentString -->
+<g id="edge11" class="edge">
+<title>NFTDescriptor.constructTokenURI-&gt;NFTDescriptor.feeToPercentString</title>
+<path fill="none" stroke="#00ff00" d="M171.9878,-857.4511C271.3967,-868.3622 446.9085,-879.4138 471.5482,-864 502.5552,-844.603 479.5962,-813.5874 507.5482,-790 517.2393,-781.8221 529.2999,-776.1198 541.4792,-771.911"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="542.7444,-775.182 551.2292,-768.837 540.6396,-768.5059 542.7444,-775.182"/>
+</g>
+<!-- NFTDescriptor.addressToString -->
+<g id="node13" class="node">
+<title>NFTDescriptor.addressToString</title>
+<ellipse fill="none" stroke="#000000" cx="600.1134" cy="-862" rx="74.1566" ry="18"/>
+<text text-anchor="middle" x="600.1134" y="-857.8" font-family="Times,serif" font-size="14.00" fill="#000000">addressToString</text>
+</g>
+<!-- NFTDescriptor.constructTokenURI&#45;&gt;NFTDescriptor.addressToString -->
+<g id="edge6" class="edge">
+<title>NFTDescriptor.constructTokenURI-&gt;NFTDescriptor.addressToString</title>
+<path fill="none" stroke="#00ff00" d="M191.2991,-847.3048C203.395,-849.1486 215.7002,-850.8698 227.462,-852 328.5103,-861.7096 445.6481,-856.5155 521.2132,-855.1789"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="521.6494,-858.6727 531.5939,-855.0179 521.5408,-851.6735 521.6494,-858.6727"/>
+</g>
+<!-- NFTDescriptor.constructTokenURI&#45;&gt;NFTDescriptor.addressToString -->
+<g id="edge9" class="edge">
+<title>NFTDescriptor.constructTokenURI-&gt;NFTDescriptor.addressToString</title>
+<path fill="none" stroke="#00ff00" d="M161.619,-859.6068C182.2728,-863.8283 205.7898,-867.9175 227.462,-870 327.8951,-879.6505 444.2223,-874.5782 519.8284,-869.1372"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="520.5061,-872.5967 530.2206,-868.3685 519.9897,-865.6158 520.5061,-872.5967"/>
+</g>
+<!-- NFTDescriptor.constructTokenURI&#45;&gt;NFTDescriptor.addressToString -->
+<g id="edge10" class="edge">
+<title>NFTDescriptor.constructTokenURI-&gt;NFTDescriptor.addressToString</title>
+<path fill="none" stroke="#00ff00" d="M123.2764,-863.6323C147.5219,-874.915 190.2163,-884.4211 227.462,-888 341.9641,-899.0024 477.1253,-890.8682 549.049,-878.8422"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="549.9577,-882.2357 559.1919,-877.0415 548.734,-875.3435 549.9577,-882.2357"/>
+</g>
+<!-- NFTDescriptor.generateSVGImage -->
+<g id="node14" class="node">
+<title>NFTDescriptor.generateSVGImage</title>
+<ellipse fill="none" stroke="#000000" cx="349.5051" cy="-922" rx="87.3576" ry="18"/>
+<text text-anchor="middle" x="349.5051" y="-917.8" font-family="Times,serif" font-size="14.00" fill="#000000">generateSVGImage</text>
+</g>
+<!-- NFTDescriptor.constructTokenURI&#45;&gt;NFTDescriptor.generateSVGImage -->
+<g id="edge12" class="edge">
+<title>NFTDescriptor.constructTokenURI-&gt;NFTDescriptor.generateSVGImage</title>
+<path fill="none" stroke="#00ff00" d="M145.5262,-861.8639C169.3664,-870.66 199.9014,-881.5033 227.462,-890 245.3884,-895.5266 264.979,-900.9367 283.1142,-905.6898"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="282.4612,-909.1362 293.0197,-908.2594 284.2189,-902.3605 282.4612,-909.1362"/>
+</g>
+<!-- NFTDescriptor.generateName&#45;&gt;NFTDescriptor.escapeQuotes -->
+<g id="edge13" class="edge">
+<title>NFTDescriptor.generateName-&gt;NFTDescriptor.escapeQuotes</title>
+<path fill="none" stroke="#00ff00" d="M404.7178,-817.8641C427.4091,-813.9113 452.7213,-806.8505 471.5482,-792 500.2642,-769.3489 479.5962,-741.5874 507.5482,-718 513.2653,-713.1756 519.8071,-709.2127 526.7114,-706.0055"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="528.3706,-709.1087 536.3076,-702.0905 525.7263,-702.6274 528.3706,-709.1087"/>
+</g>
+<!-- NFTDescriptor.generateName&#45;&gt;NFTDescriptor.escapeQuotes -->
+<g id="edge14" class="edge">
+<title>NFTDescriptor.generateName-&gt;NFTDescriptor.escapeQuotes</title>
+<path fill="none" stroke="#00ff00" d="M413.4502,-833.2384C433.7189,-829.9971 455.1066,-822.969 471.5482,-810 500.2642,-787.3489 479.5962,-759.5874 507.5482,-736 518.5637,-726.7045 532.6404,-720.6076 546.4732,-716.2667"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="547.8123,-719.5235 556.4552,-713.3956 545.8773,-712.7962 547.8123,-719.5235"/>
+</g>
+<!-- NFTDescriptor.tickToDecimalString -->
+<g id="node7" class="node">
+<title>NFTDescriptor.tickToDecimalString</title>
+<ellipse fill="none" stroke="#000000" cx="600.1134" cy="-808" rx="92.6306" ry="18"/>
+<text text-anchor="middle" x="600.1134" y="-803.8" font-family="Times,serif" font-size="14.00" fill="#000000">tickToDecimalString</text>
+</g>
+<!-- NFTDescriptor.generateName&#45;&gt;NFTDescriptor.tickToDecimalString -->
+<g id="edge15" class="edge">
+<title>NFTDescriptor.generateName-&gt;NFTDescriptor.tickToDecimalString</title>
+<path fill="none" stroke="#00ff00" d="M404.8124,-817.8764C431.9964,-814.8008 465.6518,-811.8008 497.3231,-809.5511"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="497.7899,-813.0273 507.5255,-808.8478 497.3085,-806.0438 497.7899,-813.0273"/>
+</g>
+<!-- NFTDescriptor.generateName&#45;&gt;NFTDescriptor.tickToDecimalString -->
+<g id="edge16" class="edge">
+<title>NFTDescriptor.generateName-&gt;NFTDescriptor.tickToDecimalString</title>
+<path fill="none" stroke="#00ff00" d="M416.3343,-828.7156C448.0028,-827.0063 486.0949,-824.0684 519.3677,-820.7994"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="519.9281,-824.2607 529.5266,-819.7752 519.2259,-817.296 519.9281,-824.2607"/>
+</g>
+<!-- NFTDescriptor.generateDecimalString -->
+<g id="node6" class="node">
+<title>NFTDescriptor.generateDecimalString</title>
+<ellipse fill="none" stroke="#000000" cx="1117.4756" cy="-808" rx="100.1143" ry="18"/>
+<text text-anchor="middle" x="1117.4756" y="-803.8" font-family="Times,serif" font-size="14.00" fill="#000000">generateDecimalString</text>
+</g>
+<!-- NFTDescriptor.fixedPointToDecimalString -->
+<g id="node11" class="node">
+<title>NFTDescriptor.fixedPointToDecimalString</title>
+<ellipse fill="none" stroke="#000000" cx="846.9961" cy="-700" rx="118.1352" ry="18"/>
+<text text-anchor="middle" x="846.9961" y="-695.8" font-family="Times,serif" font-size="14.00" fill="#000000">fixedPointToDecimalString</text>
+</g>
+<!-- NFTDescriptor.tickToDecimalString&#45;&gt;NFTDescriptor.fixedPointToDecimalString -->
+<g id="edge18" class="edge">
+<title>NFTDescriptor.tickToDecimalString-&gt;NFTDescriptor.fixedPointToDecimalString</title>
+<path fill="none" stroke="#00ff00" d="M656.0389,-793.641C668.2703,-789.9617 681.0361,-785.6987 692.6787,-781 733.7453,-764.4264 778.2951,-740.328 808.9223,-722.7261"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="811.0642,-725.5301 817.9611,-717.4875 807.5541,-719.4738 811.0642,-725.5301"/>
+</g>
+<!-- TickMath.getSqrtRatioAtTick -->
+<g id="node20" class="node">
+<title>TickMath.getSqrtRatioAtTick</title>
+<ellipse fill="none" stroke="#000000" cx="846.9961" cy="-615" rx="87.4137" ry="18"/>
+<text text-anchor="middle" x="846.9961" y="-610.8" font-family="Times,serif" font-size="14.00" fill="#000000">getSqrtRatioAtTick</text>
+</g>
+<!-- NFTDescriptor.tickToDecimalString&#45;&gt;TickMath.getSqrtRatioAtTick -->
+<g id="edge17" class="edge">
+<title>NFTDescriptor.tickToDecimalString-&gt;TickMath.getSqrtRatioAtTick</title>
+<path fill="none" stroke="#ffa500" d="M669.4783,-796.0628C678.0316,-792.316 686.072,-787.4126 692.6787,-781 729.8939,-744.8779 694.3004,-708.8318 728.6787,-670 743.3911,-653.3817 764.174,-641.4274 784.2252,-633.0013"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="785.6623,-636.1967 793.6697,-629.259 783.0836,-629.689 785.6623,-636.1967"/>
+</g>
+<!-- NFTDescriptor.sigfigsRounded -->
+<g id="node8" class="node">
+<title>NFTDescriptor.sigfigsRounded</title>
+<ellipse fill="none" stroke="#ff0000" cx="1117.4756" cy="-754" rx="71.8124" ry="18"/>
+<text text-anchor="middle" x="1117.4756" y="-749.8" font-family="Times,serif" font-size="14.00" fill="#000000">sigfigsRounded</text>
+</g>
+<!-- value.div -->
+<g id="node21" class="node">
+<title>value.div</title>
+<ellipse fill="none" stroke="#000000" cx="1310.1818" cy="-615" rx="27" ry="18"/>
+<text text-anchor="middle" x="1310.1818" y="-610.8" font-family="Times,serif" font-size="14.00" fill="#000000">div</text>
+</g>
+<!-- NFTDescriptor.sigfigsRounded&#45;&gt;value.div -->
+<g id="edge19" class="edge">
+<title>NFTDescriptor.sigfigsRounded-&gt;value.div</title>
+<path fill="none" stroke="#ffa500" d="M1173.2752,-742.6351C1194.0143,-738.4939 1216.6148,-731.522 1233.6376,-718 1255.7383,-700.4444 1245.9375,-684.4552 1261.6376,-661 1267.801,-651.7921 1275.3818,-642.4906 1282.7047,-634.5757"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="1285.43,-636.7931 1289.8797,-627.1779 1280.4051,-631.9196 1285.43,-636.7931"/>
+</g>
+<!-- NFTDescriptor.sigfigsRounded&#45;&gt;value.div -->
+<g id="edge20" class="edge">
+<title>NFTDescriptor.sigfigsRounded-&gt;value.div</title>
+<path fill="none" stroke="#ffa500" d="M1188.6079,-756.5247C1204.6627,-752.7212 1220.7489,-746.2381 1233.6376,-736 1255.7383,-718.4444 1245.9375,-702.4552 1261.6376,-679 1270.7587,-665.3734 1282.984,-651.5417 1292.884,-640.0129"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="1295.8226,-641.9581 1299.6041,-632.0611 1290.4761,-637.4397 1295.8226,-641.9581"/>
+</g>
+<!-- NFTDescriptor.adjustForDecimalPrecision -->
+<g id="node9" class="node">
+<title>NFTDescriptor.adjustForDecimalPrecision</title>
+<ellipse fill="none" stroke="#ff0000" cx="1117.4756" cy="-700" rx="116.3242" ry="18"/>
+<text text-anchor="middle" x="1117.4756" y="-695.8" font-family="Times,serif" font-size="14.00" fill="#000000">adjustForDecimalPrecision</text>
+</g>
+<!-- NFTDescriptor.abs -->
+<g id="node10" class="node">
+<title>NFTDescriptor.abs</title>
+<ellipse fill="none" stroke="#000000" cx="1310.1818" cy="-700" rx="27" ry="18"/>
+<text text-anchor="middle" x="1310.1818" y="-695.8" font-family="Times,serif" font-size="14.00" fill="#000000">abs</text>
+</g>
+<!-- NFTDescriptor.adjustForDecimalPrecision&#45;&gt;NFTDescriptor.abs -->
+<g id="edge21" class="edge">
+<title>NFTDescriptor.adjustForDecimalPrecision-&gt;NFTDescriptor.abs</title>
+<path fill="none" stroke="#00ff00" d="M1233.7424,-700C1247.8615,-700 1261.384,-700 1273.0246,-700"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="1273.1491,-703.5001 1283.149,-700 1273.149,-696.5001 1273.1491,-703.5001"/>
+</g>
+<!-- sqrtRatioX96.mul -->
+<g id="node22" class="node">
+<title>sqrtRatioX96.mul</title>
+<ellipse fill="none" stroke="#000000" cx="1310.1818" cy="-530" rx="27" ry="18"/>
+<text text-anchor="middle" x="1310.1818" y="-525.8" font-family="Times,serif" font-size="14.00" fill="#000000">mul</text>
+</g>
+<!-- NFTDescriptor.adjustForDecimalPrecision&#45;&gt;sqrtRatioX96.mul -->
+<g id="edge22" class="edge">
+<title>NFTDescriptor.adjustForDecimalPrecision-&gt;sqrtRatioX96.mul</title>
+<path fill="none" stroke="#ffa500" d="M1201.7399,-687.4922C1213.4752,-682.852 1224.5914,-676.5486 1233.6376,-668 1261.9335,-641.2606 1242.1501,-618.703 1261.6376,-585 1268.5107,-573.1131 1278.2046,-561.4835 1287.1243,-552.0028"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="1289.8808,-554.1892 1294.3559,-544.5859 1284.8688,-549.3025 1289.8808,-554.1892"/>
+</g>
+<!-- sqrtRatioX96.div -->
+<g id="node23" class="node">
+<title>sqrtRatioX96.div</title>
+<ellipse fill="none" stroke="#000000" cx="1310.1818" cy="-476" rx="27" ry="18"/>
+<text text-anchor="middle" x="1310.1818" y="-471.8" font-family="Times,serif" font-size="14.00" fill="#000000">div</text>
+</g>
+<!-- NFTDescriptor.adjustForDecimalPrecision&#45;&gt;sqrtRatioX96.div -->
+<g id="edge25" class="edge">
+<title>NFTDescriptor.adjustForDecimalPrecision-&gt;sqrtRatioX96.div</title>
+<path fill="none" stroke="#ffa500" d="M1204.7202,-687.9612C1215.6261,-683.2233 1225.7117,-676.7672 1233.6376,-668 1283.5193,-612.8234 1218.6827,-563.725 1261.6376,-503 1265.6413,-497.34 1271.2246,-492.7296 1277.1846,-489.0258"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="1278.9165,-492.0682 1286.0461,-484.2311 1275.5854,-485.9116 1278.9165,-492.0682"/>
+</g>
+<!-- difference.div -->
+<g id="node24" class="node">
+<title>difference.div</title>
+<ellipse fill="none" stroke="#000000" cx="1310.1818" cy="-391" rx="27" ry="18"/>
+<text text-anchor="middle" x="1310.1818" y="-386.8" font-family="Times,serif" font-size="14.00" fill="#000000">div</text>
+</g>
+<!-- NFTDescriptor.adjustForDecimalPrecision&#45;&gt;difference.div -->
+<g id="edge23" class="edge">
+<title>NFTDescriptor.adjustForDecimalPrecision-&gt;difference.div</title>
+<path fill="none" stroke="#ffa500" d="M1187.8397,-685.6507C1205.0841,-680.5783 1221.929,-672.5199 1233.6376,-659 1298.7419,-583.8242 1220.6966,-527.6301 1261.6376,-437 1266.2384,-426.8152 1273.3888,-417.1504 1280.8004,-409.2082"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="1283.5595,-411.4024 1288.2142,-401.8848 1278.6402,-406.4224 1283.5595,-411.4024"/>
+</g>
+<!-- NFTDescriptor.adjustForDecimalPrecision&#45;&gt;difference.div -->
+<g id="edge26" class="edge">
+<title>NFTDescriptor.adjustForDecimalPrecision-&gt;difference.div</title>
+<path fill="none" stroke="#ffa500" d="M1217.5306,-690.6515C1223.5133,-686.889 1228.9815,-682.3763 1233.6376,-677 1298.7419,-601.8242 1220.6966,-545.6301 1261.6376,-455 1268.4537,-439.9114 1280.8654,-425.9641 1291.4321,-414.7114"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="1294.0422,-417.0451 1298.3613,-407.3706 1288.9518,-412.2401 1294.0422,-417.0451"/>
+</g>
+<!-- FullMath.mulDiv -->
+<g id="node25" class="node">
+<title>FullMath.mulDiv</title>
+<ellipse fill="none" stroke="#000000" cx="1310.1818" cy="-306" rx="40.5886" ry="18"/>
+<text text-anchor="middle" x="1310.1818" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">mulDiv</text>
+</g>
+<!-- NFTDescriptor.adjustForDecimalPrecision&#45;&gt;FullMath.mulDiv -->
+<g id="edge24" class="edge">
+<title>NFTDescriptor.adjustForDecimalPrecision-&gt;FullMath.mulDiv</title>
+<path fill="none" stroke="#ffa500" d="M1188.7573,-685.7376C1205.7886,-680.6539 1222.2982,-672.5594 1233.6376,-659 1277.5847,-606.4487 1234.5166,-414.9082 1261.6376,-352 1265.4515,-343.1536 1271.2496,-334.7332 1277.5265,-327.4916"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="1280.1486,-329.8124 1284.4543,-320.1319 1275.0515,-325.0145 1280.1486,-329.8124"/>
+</g>
+<!-- NFTDescriptor.adjustForDecimalPrecision&#45;&gt;FullMath.mulDiv -->
+<g id="edge27" class="edge">
+<title>NFTDescriptor.adjustForDecimalPrecision-&gt;FullMath.mulDiv</title>
+<path fill="none" stroke="#ffa500" d="M1217.7415,-690.831C1223.6754,-687.0269 1229.075,-682.4559 1233.6376,-677 1277.5847,-624.4487 1234.5166,-432.9082 1261.6376,-370 1268.0284,-355.1761 1279.991,-341.5486 1290.4414,-330.4743"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="1292.9793,-332.8846 1297.3476,-323.2321 1287.9134,-328.0537 1292.9793,-332.8846"/>
+</g>
+<!-- NFTDescriptor.fixedPointToDecimalString&#45;&gt;NFTDescriptor.generateDecimalString -->
+<g id="edge35" class="edge">
+<title>NFTDescriptor.fixedPointToDecimalString-&gt;NFTDescriptor.generateDecimalString</title>
+<path fill="none" stroke="#00ff00" d="M874.9932,-717.4994C905.1628,-735.6769 955.0839,-763.8166 1001.3136,-781 1013.0285,-785.3544 1025.6772,-789.1565 1038.1681,-792.4246"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="1037.5791,-795.8854 1048.1309,-794.9314 1039.2873,-789.097 1037.5791,-795.8854"/>
+</g>
+<!-- NFTDescriptor.fixedPointToDecimalString&#45;&gt;NFTDescriptor.sigfigsRounded -->
+<g id="edge32" class="edge">
+<title>NFTDescriptor.fixedPointToDecimalString-&gt;NFTDescriptor.sigfigsRounded</title>
+<path fill="none" stroke="#00ff00" d="M918.7695,-714.3292C959.8889,-722.5385 1011.1317,-732.7689 1051.2804,-740.7844"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="1050.744,-744.2463 1061.2357,-742.772 1052.1145,-737.3818 1050.744,-744.2463"/>
+</g>
+<!-- NFTDescriptor.fixedPointToDecimalString&#45;&gt;NFTDescriptor.adjustForDecimalPrecision -->
+<g id="edge28" class="edge">
+<title>NFTDescriptor.fixedPointToDecimalString-&gt;NFTDescriptor.adjustForDecimalPrecision</title>
+<path fill="none" stroke="#00ff00" d="M965.6324,-700C974.0081,-700 982.47,-700 990.8871,-700"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="991.1231,-703.5001 1001.123,-700 991.123,-696.5001 991.1231,-703.5001"/>
+</g>
+<!-- NFTDescriptor.fixedPointToDecimalString&#45;&gt;FullMath.mulDiv -->
+<g id="edge29" class="edge">
+<title>NFTDescriptor.fixedPointToDecimalString-&gt;FullMath.mulDiv</title>
+<path fill="none" stroke="#ffa500" d="M884.5136,-682.8341C977.0976,-652.6139 1210.6344,-597.3954 1233.6376,-570 1299.0054,-492.1509 1219.9156,-435.6968 1261.6376,-343 1264.3819,-336.9028 1268.0422,-330.9932 1272.1275,-325.606"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="1275.0821,-327.5298 1278.8263,-317.6186 1269.7186,-323.0316 1275.0821,-327.5298"/>
+</g>
+<!-- NFTDescriptor.fixedPointToDecimalString&#45;&gt;FullMath.mulDiv -->
+<g id="edge30" class="edge">
+<title>NFTDescriptor.fixedPointToDecimalString-&gt;FullMath.mulDiv</title>
+<path fill="none" stroke="#ffa500" d="M913.2249,-685.0397C1018.1044,-660.7339 1212.7409,-612.8867 1233.6376,-588 1299.0054,-510.1509 1219.9156,-453.6968 1261.6376,-361 1266.8126,-349.5024 1275.2449,-338.6721 1283.6413,-329.7125"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="1286.3807,-331.9202 1290.9279,-322.3508 1281.4056,-326.9959 1286.3807,-331.9202"/>
+</g>
+<!-- NFTDescriptor.fixedPointToDecimalString&#45;&gt;FullMath.mulDiv -->
+<g id="edge31" class="edge">
+<title>NFTDescriptor.fixedPointToDecimalString-&gt;FullMath.mulDiv</title>
+<path fill="none" stroke="#ffa500" d="M946.4401,-690.1846C1054.6265,-669.5656 1214.7912,-628.4448 1233.6376,-606 1299.0054,-528.1509 1219.9156,-471.6968 1261.6376,-379 1269.4295,-361.6882 1284.606,-345.8894 1295.9255,-332.1576"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="1298.9898,-333.9193 1302.3747,-323.8797 1293.4678,-329.6173 1298.9898,-333.9193"/>
+</g>
+<!-- digits.sub -->
+<g id="node26" class="node">
+<title>digits.sub</title>
+<ellipse fill="none" stroke="#000000" cx="1117.4756" cy="-533" rx="27" ry="18"/>
+<text text-anchor="middle" x="1117.4756" y="-528.8" font-family="Times,serif" font-size="14.00" fill="#000000">sub</text>
+</g>
+<!-- NFTDescriptor.fixedPointToDecimalString&#45;&gt;digits.sub -->
+<g id="edge33" class="edge">
+<title>NFTDescriptor.fixedPointToDecimalString-&gt;digits.sub</title>
+<path fill="none" stroke="#ffa500" d="M911.7969,-684.893C930.5108,-680.1086 949.9943,-672.8866 965.3136,-661 991.7121,-640.5168 978.2761,-619.2016 1001.3136,-595 1024.188,-570.9696 1056.9012,-551.9457 1081.7868,-541.1463"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="1083.3055,-544.3068 1091.2419,-537.2879 1080.6607,-537.8257 1083.3055,-544.3068"/>
+</g>
+<!-- NFTDescriptor.fixedPointToDecimalString&#45;&gt;digits.sub -->
+<g id="edge34" class="edge">
+<title>NFTDescriptor.fixedPointToDecimalString-&gt;digits.sub</title>
+<path fill="none" stroke="#ffa500" d="M947.055,-690.2489C953.538,-687.0786 959.7049,-683.3519 965.3136,-679 991.7121,-658.5168 978.2761,-637.2016 1001.3136,-613 1027.0029,-586.0124 1065.1015,-565.3394 1090.5854,-551.3361"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="1092.304,-554.3853 1099.3571,-546.4794 1088.9132,-548.2613 1092.304,-554.3853"/>
+</g>
+<!-- NFTDescriptor.feeToPercentString&#45;&gt;NFTDescriptor.generateDecimalString -->
+<g id="edge48" class="edge">
+<title>NFTDescriptor.feeToPercentString-&gt;NFTDescriptor.generateDecimalString</title>
+<path fill="none" stroke="#00ff00" d="M677.2883,-762.0552C768.7928,-771.606 921.3784,-787.5322 1020.7037,-797.8994"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="1020.4348,-801.3902 1030.7441,-798.9474 1021.1615,-794.4281 1020.4348,-801.3902"/>
+</g>
+<!-- NFTDescriptor.feeToPercentString&#45;&gt;digits.sub -->
+<g id="edge36" class="edge">
+<title>NFTDescriptor.feeToPercentString-&gt;digits.sub</title>
+<path fill="none" stroke="#ffa500" d="M607.5973,-735.8369C625.1391,-718.0756 669.1964,-715.3316 692.6787,-691 737.8919,-644.1515 680.0637,-592.3082 728.6787,-549 835.5692,-453.7776 1029.0652,-479.8738 1094.867,-512.1875"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="1093.5145,-515.4383 1103.9623,-517.1975 1096.8919,-509.3069 1093.5145,-515.4383"/>
+</g>
+<!-- NFTDescriptor.feeToPercentString&#45;&gt;digits.sub -->
+<g id="edge37" class="edge">
+<title>NFTDescriptor.feeToPercentString-&gt;digits.sub</title>
+<path fill="none" stroke="#ffa500" d="M632.0852,-737.1445C652.1017,-731.8804 676.9851,-725.2612 692.6787,-709 737.8919,-662.1515 680.0637,-610.3082 728.6787,-567 831.6691,-475.252 1015.0603,-496.1309 1087.1647,-517.7667"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="1086.3806,-521.1919 1096.9727,-520.951 1088.5423,-514.534 1086.3806,-521.1919"/>
+</g>
+<!-- NFTDescriptor.feeToPercentString&#45;&gt;digits.sub -->
+<g id="edge39" class="edge">
+<title>NFTDescriptor.feeToPercentString-&gt;digits.sub</title>
+<path fill="none" stroke="#ffa500" d="M668.9433,-742.8659C677.788,-739.0128 686.0525,-733.8659 692.6787,-727 737.8919,-680.1515 680.0637,-628.3082 728.6787,-585 828.9662,-495.6598 1005.4899,-513.1126 1081.2613,-525.8363"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="1080.8119,-529.3108 1091.2659,-527.5886 1082.0197,-522.4157 1080.8119,-529.3108"/>
+</g>
+<!-- NFTDescriptor.feeToPercentString&#45;&gt;digits.sub -->
+<g id="edge46" class="edge">
+<title>NFTDescriptor.feeToPercentString-&gt;digits.sub</title>
+<path fill="none" stroke="#ffa500" d="M685.5456,-751.3013C688.0792,-749.3862 690.47,-747.2886 692.6787,-745 737.8919,-698.1515 680.0637,-646.3082 728.6787,-603 828.7234,-513.8761 1004.6355,-531.0287 1080.7091,-535.5728"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="1080.5877,-539.0713 1090.7625,-536.118 1080.9667,-532.0816 1080.5877,-539.0713"/>
+</g>
+<!-- NFTDescriptor.feeToPercentString&#45;&gt;digits.sub -->
+<g id="edge47" class="edge">
+<title>NFTDescriptor.feeToPercentString-&gt;digits.sub</title>
+<path fill="none" stroke="#ffa500" d="M607.3388,-772.2013C624.7024,-790.1023 669.0801,-787.4521 692.6787,-763 737.8919,-716.1515 680.0637,-664.3082 728.6787,-621 830.9743,-529.8709 1012.5899,-549.8544 1085.6904,-545.1241"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="1086.4225,-548.5721 1096.0649,-544.1819 1085.7893,-541.6008 1086.4225,-548.5721"/>
+</g>
+<!-- numSigfigs.sub -->
+<g id="node27" class="node">
+<title>numSigfigs.sub</title>
+<ellipse fill="none" stroke="#000000" cx="846.9961" cy="-428" rx="27" ry="18"/>
+<text text-anchor="middle" x="846.9961" y="-423.8" font-family="Times,serif" font-size="14.00" fill="#000000">sub</text>
+</g>
+<!-- NFTDescriptor.feeToPercentString&#45;&gt;numSigfigs.sub -->
+<g id="edge38" class="edge">
+<title>NFTDescriptor.feeToPercentString-&gt;numSigfigs.sub</title>
+<path fill="none" stroke="#ffa500" d="M654.8818,-740.0932C669.0393,-735.768 683.0014,-729.1067 692.6787,-718 764.6899,-635.3526 663.1208,-561.8542 728.6787,-474 748.1991,-447.8407 783.2292,-433.7048 810.1252,-427.9498"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="810.7784,-431.3885 819.9857,-426.1469 809.5193,-424.5026 810.7784,-431.3885"/>
+</g>
+<!-- NFTDescriptor.feeToPercentString&#45;&gt;numSigfigs.sub -->
+<g id="edge40" class="edge">
+<title>NFTDescriptor.feeToPercentString-&gt;numSigfigs.sub</title>
+<path fill="none" stroke="#ffa500" d="M679.7788,-746.9624C684.5611,-743.9188 688.9397,-740.2912 692.6787,-736 764.6899,-653.3526 663.1208,-579.8542 728.6787,-492 749.3107,-464.3511 787.2689,-450.1339 814.6363,-441.2576"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="815.7227,-444.5849 824.1881,-438.2141 813.5975,-437.9153 815.7227,-444.5849"/>
+</g>
+<!-- numSigfigs.add -->
+<g id="node28" class="node">
+<title>numSigfigs.add</title>
+<ellipse fill="none" stroke="#000000" cx="846.9961" cy="-374" rx="27" ry="18"/>
+<text text-anchor="middle" x="846.9961" y="-369.8" font-family="Times,serif" font-size="14.00" fill="#000000">add</text>
+</g>
+<!-- NFTDescriptor.feeToPercentString&#45;&gt;numSigfigs.add -->
+<g id="edge42" class="edge">
+<title>NFTDescriptor.feeToPercentString-&gt;numSigfigs.add</title>
+<path fill="none" stroke="#ffa500" d="M655.6284,-740.1707C669.6227,-735.8441 683.3133,-729.1532 692.6787,-718 786.417,-606.367 631.6638,-500.7975 728.6787,-392 749.4756,-368.6773 785.8875,-363.3161 812.8412,-364.6827"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="812.7536,-368.1879 823.0163,-365.5563 813.3524,-361.2136 812.7536,-368.1879"/>
+</g>
+<!-- NFTDescriptor.feeToPercentString&#45;&gt;numSigfigs.add -->
+<g id="edge45" class="edge">
+<title>NFTDescriptor.feeToPercentString-&gt;numSigfigs.add</title>
+<path fill="none" stroke="#ffa500" d="M679.9569,-747.1147C684.698,-744.0359 689.0187,-740.3587 692.6787,-736 786.417,-624.367 631.6638,-518.7975 728.6787,-410 748.9185,-387.302 783.9481,-381.6162 810.6554,-379.3612"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="811.0818,-382.8394 820.7971,-378.6128 810.5666,-375.8583 811.0818,-382.8394"/>
+</g>
+<!-- nZeros.add -->
+<g id="node29" class="node">
+<title>nZeros.add</title>
+<ellipse fill="none" stroke="#000000" cx="846.9961" cy="-289" rx="27" ry="18"/>
+<text text-anchor="middle" x="846.9961" y="-284.8" font-family="Times,serif" font-size="14.00" fill="#000000">add</text>
+</g>
+<!-- NFTDescriptor.feeToPercentString&#45;&gt;nZeros.add -->
+<g id="edge41" class="edge">
+<title>NFTDescriptor.feeToPercentString-&gt;nZeros.add</title>
+<path fill="none" stroke="#ffa500" d="M634.7808,-737.4801C654.8024,-732.5819 678.7138,-725.9081 692.6787,-709 747.1171,-643.0882 679.3783,-395.8382 728.6787,-326 748.371,-298.1041 785.8963,-283.9904 813.4252,-280.7753"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="813.6991,-284.2647 823.4284,-280.0706 813.2072,-277.282 813.6991,-284.2647"/>
+</g>
+<!-- NFTDescriptor.feeToPercentString&#45;&gt;nZeros.add -->
+<g id="edge43" class="edge">
+<title>NFTDescriptor.feeToPercentString-&gt;nZeros.add</title>
+<path fill="none" stroke="#ffa500" d="M670.3975,-743.5454C678.9216,-739.5856 686.709,-734.2279 692.6787,-727 747.1171,-661.0882 679.3783,-413.8382 728.6787,-344 747.7339,-317.0066 783.4868,-302.9181 810.7228,-295.7919"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="811.7902,-299.135 820.6917,-293.3893 810.15,-292.3298 811.7902,-299.135"/>
+</g>
+<!-- NFTDescriptor.feeToPercentString&#45;&gt;nZeros.add -->
+<g id="edge44" class="edge">
+<title>NFTDescriptor.feeToPercentString-&gt;nZeros.add</title>
+<path fill="none" stroke="#ffa500" d="M686.0169,-751.7222C688.4186,-749.6893 690.6533,-747.4523 692.6787,-745 747.1171,-679.0882 679.3783,-431.8382 728.6787,-362 749.9703,-331.8386 792.1089,-317.7889 819.9196,-306.9159"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="821.5133,-310.0459 829.4522,-303.0299 818.8708,-303.5639 821.5133,-310.0459"/>
+</g>
+<!-- NFTDescriptor.generateSVGImage&#45;&gt;NFTDescriptor.feeToPercentString -->
+<g id="edge52" class="edge">
+<title>NFTDescriptor.generateSVGImage-&gt;NFTDescriptor.feeToPercentString</title>
+<path fill="none" stroke="#00ff00" d="M405.9952,-908.1919C428.7709,-900.2212 453.7998,-888.0782 471.5482,-870 501.4407,-839.552 475.8983,-809.617 507.5482,-781 512.3559,-776.653 517.8267,-773.0033 523.6501,-769.9394"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="525.4414,-772.9671 533.0468,-765.5909 522.5016,-766.6144 525.4414,-772.9671"/>
+</g>
+<!-- NFTDescriptor.generateSVGImage&#45;&gt;NFTDescriptor.addressToString -->
+<g id="edge50" class="edge">
+<title>NFTDescriptor.generateSVGImage-&gt;NFTDescriptor.addressToString</title>
+<path fill="none" stroke="#00ff00" d="M392.8716,-906.3628C429.5228,-895.9961 482.8287,-882.9126 526.1993,-873.4785"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="527.0988,-876.8652 536.1409,-871.3434 525.6289,-870.0213 527.0988,-876.8652"/>
+</g>
+<!-- NFTDescriptor.generateSVGImage&#45;&gt;NFTDescriptor.addressToString -->
+<g id="edge51" class="edge">
+<title>NFTDescriptor.generateSVGImage-&gt;NFTDescriptor.addressToString</title>
+<path fill="none" stroke="#00ff00" d="M419.9804,-911.2663C460.8708,-902.4477 511.4646,-890.1473 548.6123,-879.9077"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="550.0284,-883.1458 558.7141,-877.0788 548.1407,-876.4051 550.0284,-883.1458"/>
+</g>
+<!-- NFTDescriptor.overRange -->
+<g id="node15" class="node">
+<title>NFTDescriptor.overRange</title>
+<ellipse fill="none" stroke="#000000" cx="600.1134" cy="-970" rx="52.7315" ry="18"/>
+<text text-anchor="middle" x="600.1134" y="-965.8" font-family="Times,serif" font-size="14.00" fill="#000000">overRange</text>
+</g>
+<!-- NFTDescriptor.generateSVGImage&#45;&gt;NFTDescriptor.overRange -->
+<g id="edge53" class="edge">
+<title>NFTDescriptor.generateSVGImage-&gt;NFTDescriptor.overRange</title>
+<path fill="none" stroke="#00ff00" d="M413.7175,-934.2989C453.9217,-941.9993 505.2351,-951.8276 543.8404,-959.2218"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="543.3886,-962.6988 553.8685,-961.1425 544.7055,-955.8238 543.3886,-962.6988"/>
+</g>
+<!-- NFTDescriptor.scale -->
+<g id="node16" class="node">
+<title>NFTDescriptor.scale</title>
+<ellipse fill="none" stroke="#000000" cx="600.1134" cy="-916" rx="30.1727" ry="18"/>
+<text text-anchor="middle" x="600.1134" y="-911.8" font-family="Times,serif" font-size="14.00" fill="#000000">scale</text>
+</g>
+<!-- NFTDescriptor.generateSVGImage&#45;&gt;NFTDescriptor.scale -->
+<g id="edge58" class="edge">
+<title>NFTDescriptor.generateSVGImage-&gt;NFTDescriptor.scale</title>
+<path fill="none" stroke="#00ff00" d="M365.1818,-904.1914C407.8883,-882.5238 526.4571,-878.6312 576.9087,-895.9607"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="575.7402,-899.2648 586.3191,-899.8457 578.4114,-892.7945 575.7402,-899.2648"/>
+</g>
+<!-- NFTDescriptor.generateSVGImage&#45;&gt;NFTDescriptor.scale -->
+<g id="edge60" class="edge">
+<title>NFTDescriptor.generateSVGImage-&gt;NFTDescriptor.scale</title>
+<path fill="none" stroke="#00ff00" d="M388.6626,-905.875C437.7052,-897.6559 520.8716,-895.9726 566.9316,-902.5306"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="566.5453,-906.0145 576.986,-904.2139 567.7012,-899.1106 566.5453,-906.0145"/>
+</g>
+<!-- NFTDescriptor.generateSVGImage&#45;&gt;NFTDescriptor.scale -->
+<g id="edge62" class="edge">
+<title>NFTDescriptor.generateSVGImage-&gt;NFTDescriptor.scale</title>
+<path fill="none" stroke="#00ff00" d="M427.4254,-913.8331C471.4968,-911.9038 524.7393,-911.0324 560.3483,-911.8607"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="560.2532,-915.3593 570.3522,-912.1563 560.46,-908.3623 560.2532,-915.3593"/>
+</g>
+<!-- NFTDescriptor.generateSVGImage&#45;&gt;NFTDescriptor.scale -->
+<g id="edge64" class="edge">
+<title>NFTDescriptor.generateSVGImage-&gt;NFTDescriptor.scale</title>
+<path fill="none" stroke="#00ff00" d="M434.3496,-926.3957C477.0175,-926.0782 526.6968,-924.4418 560.4621,-922.0353"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="561.1384,-925.4934 570.8365,-921.2276 560.595,-918.5145 561.1384,-925.4934"/>
+</g>
+<!-- NFTDescriptor.generateSVGImage&#45;&gt;NFTDescriptor.scale -->
+<g id="edge66" class="edge">
+<title>NFTDescriptor.generateSVGImage-&gt;NFTDescriptor.scale</title>
+<path fill="none" stroke="#00ff00" d="M396.9372,-937.1339C447.146,-941.9019 524.991,-939.2926 568.297,-930.7945"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="569.2699,-934.1636 578.2698,-928.5731 567.748,-927.3311 569.2699,-934.1636"/>
+</g>
+<!-- NFTDescriptor.generateSVGImage&#45;&gt;NFTDescriptor.scale -->
+<g id="edge68" class="edge">
+<title>NFTDescriptor.generateSVGImage-&gt;NFTDescriptor.scale</title>
+<path fill="none" stroke="#00ff00" d="M366.7304,-939.7459C411.0102,-958.7749 528.772,-956.6317 577.999,-936.7166"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="579.6338,-939.8146 587.151,-932.3486 576.6186,-933.4973 579.6338,-939.8146"/>
+</g>
+<!-- NFTDescriptor.tokenToColorHex -->
+<g id="node17" class="node">
+<title>NFTDescriptor.tokenToColorHex</title>
+<ellipse fill="none" stroke="#000000" cx="600.1134" cy="-1024" rx="81.1052" ry="18"/>
+<text text-anchor="middle" x="600.1134" y="-1019.8" font-family="Times,serif" font-size="14.00" fill="#000000">tokenToColorHex</text>
+</g>
+<!-- NFTDescriptor.generateSVGImage&#45;&gt;NFTDescriptor.tokenToColorHex -->
+<g id="edge54" class="edge">
+<title>NFTDescriptor.generateSVGImage-&gt;NFTDescriptor.tokenToColorHex</title>
+<path fill="none" stroke="#00ff00" d="M419.2676,-932.8579C446.407,-944.288 478.0258,-958.7713 507.5482,-970 533.2305,-979.7681 564.0331,-988.1099 582.8319,-999.9557"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="580.9152,-1002.8926 591.0211,-1006.0739 585.1048,-997.2848 580.9152,-1002.8926"/>
+</g>
+<!-- NFTDescriptor.generateSVGImage&#45;&gt;NFTDescriptor.tokenToColorHex -->
+<g id="edge55" class="edge">
+<title>NFTDescriptor.generateSVGImage-&gt;NFTDescriptor.tokenToColorHex</title>
+<path fill="none" stroke="#00ff00" d="M393.6398,-937.7144C424.8878,-952.171 468.0904,-972.9924 507.5482,-988 523.2069,-993.9557 540.7691,-999.3812 556.3535,-1004.3186"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="555.6781,-1007.7773 566.2691,-1007.4933 557.8126,-1001.1106 555.6781,-1007.7773"/>
+</g>
+<!-- NFTDescriptor.generateSVGImage&#45;&gt;NFTDescriptor.tokenToColorHex -->
+<g id="edge56" class="edge">
+<title>NFTDescriptor.generateSVGImage-&gt;NFTDescriptor.tokenToColorHex</title>
+<path fill="none" stroke="#00ff00" d="M371.013,-939.5843C400.9864,-958.3521 457.3033,-986.8896 507.5482,-1006 512.1003,-1007.7314 516.8134,-1009.418 521.5919,-1011.0344"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="520.8697,-1014.4799 531.4619,-1014.2455 523.0354,-1007.8233 520.8697,-1014.4799"/>
+</g>
+<!-- NFTDescriptor.generateSVGImage&#45;&gt;NFTDescriptor.tokenToColorHex -->
+<g id="edge57" class="edge">
+<title>NFTDescriptor.generateSVGImage-&gt;NFTDescriptor.tokenToColorHex</title>
+<path fill="none" stroke="#00ff00" d="M358.8945,-940.244C383.0166,-967.0874 449.355,-1001.8665 507.5482,-1024 509.1617,-1024.6137 510.7955,-1025.2218 512.4452,-1025.8219"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="511.4438,-1029.1792 522.0386,-1029.1562 513.7419,-1022.5672 511.4438,-1029.1792"/>
+</g>
+<!-- NFTDescriptor.getCircleCoord -->
+<g id="node18" class="node">
+<title>NFTDescriptor.getCircleCoord</title>
+<ellipse fill="none" stroke="#000000" cx="600.1134" cy="-1078" rx="70.6432" ry="18"/>
+<text text-anchor="middle" x="600.1134" y="-1073.8" font-family="Times,serif" font-size="14.00" fill="#000000">getCircleCoord</text>
+</g>
+<!-- NFTDescriptor.generateSVGImage&#45;&gt;NFTDescriptor.getCircleCoord -->
+<g id="edge59" class="edge">
+<title>NFTDescriptor.generateSVGImage-&gt;NFTDescriptor.getCircleCoord</title>
+<path fill="none" stroke="#00ff00" d="M404.7977,-935.9553C433.4729,-957.1272 470.2457,-986.381 507.5482,-1006 536.1821,-1021.0598 574.3387,-1028.7694 591.3201,-1051.0058"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="588.4677,-1053.0593 596.5616,-1059.896 594.4977,-1049.5041 588.4677,-1053.0593"/>
+</g>
+<!-- NFTDescriptor.generateSVGImage&#45;&gt;NFTDescriptor.getCircleCoord -->
+<g id="edge61" class="edge">
+<title>NFTDescriptor.generateSVGImage-&gt;NFTDescriptor.getCircleCoord</title>
+<path fill="none" stroke="#00ff00" d="M387.5537,-938.3952C417.7375,-962.1475 462.2523,-1000.1769 507.5482,-1024 531.485,-1036.5894 562.0766,-1044.0423 581.3894,-1054.6145"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="579.5842,-1057.615 589.8856,-1060.0913 583.3768,-1051.7314 579.5842,-1057.615"/>
+</g>
+<!-- NFTDescriptor.generateSVGImage&#45;&gt;NFTDescriptor.getCircleCoord -->
+<g id="edge63" class="edge">
+<title>NFTDescriptor.generateSVGImage-&gt;NFTDescriptor.getCircleCoord</title>
+<path fill="none" stroke="#00ff00" d="M372.4768,-939.579C401.4366,-965.7212 453.9454,-1013.808 507.5482,-1042 521.6464,-1049.4149 538.053,-1055.0479 553.1042,-1059.6614"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="552.1775,-1063.0374 562.7613,-1062.5545 554.1863,-1056.3319 552.1775,-1063.0374"/>
+</g>
+<!-- NFTDescriptor.generateSVGImage&#45;&gt;NFTDescriptor.getCircleCoord -->
+<g id="edge65" class="edge">
+<title>NFTDescriptor.generateSVGImage-&gt;NFTDescriptor.getCircleCoord</title>
+<path fill="none" stroke="#00ff00" d="M361.737,-940.0289C386.7188,-969.8313 446.4222,-1027.8512 507.5482,-1060 512.8633,-1062.7955 518.5067,-1065.3377 524.2817,-1067.618"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="523.4967,-1071.0576 534.0905,-1071.2067 525.9019,-1064.4838 523.4967,-1071.0576"/>
+</g>
+<!-- NFTDescriptor.generateSVGImage&#45;&gt;NFTDescriptor.getCircleCoord -->
+<g id="edge67" class="edge">
+<title>NFTDescriptor.generateSVGImage-&gt;NFTDescriptor.getCircleCoord</title>
+<path fill="none" stroke="#00ff00" d="M355.7327,-940.1718C375.7087,-976.8995 440.7798,-1042.8836 507.5482,-1078 527.0837,-1088.2746 551.0516,-1095.1278 569.7035,-1095.6692"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="569.8738,-1099.1653 579.7266,-1095.2703 569.5953,-1092.1708 569.8738,-1099.1653"/>
+</g>
+<!-- NFTDescriptor.generateSVGImage&#45;&gt;NFTDescriptor.getCircleCoord -->
+<g id="edge69" class="edge">
+<title>NFTDescriptor.generateSVGImage-&gt;NFTDescriptor.getCircleCoord</title>
+<path fill="none" stroke="#00ff00" d="M352.7936,-940.0328C368.3822,-987.3667 437.0182,-1058.9052 507.5482,-1096 535.0431,-1110.4608 571.3182,-1118.1444 589.1952,-1104.135"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="592.2018,-1106.0024 596.0166,-1096.1182 586.8705,-1101.4661 592.2018,-1106.0024"/>
+</g>
+<!-- NFTSVG.SVGParams -->
+<g id="node30" class="node">
+<title>NFTSVG.SVGParams</title>
+<ellipse fill="none" stroke="#000000" cx="600.1134" cy="-615" rx="58.5444" ry="18"/>
+<text text-anchor="middle" x="600.1134" y="-610.8" font-family="Times,serif" font-size="14.00" fill="#000000">SVGParams</text>
+</g>
+<!-- NFTDescriptor.generateSVGImage&#45;&gt;NFTSVG.SVGParams -->
+<g id="edge49" class="edge">
+<title>NFTDescriptor.generateSVGImage-&gt;NFTSVG.SVGParams</title>
+<path fill="none" stroke="#ffa500" d="M397.7616,-906.8714C423.5118,-896.3473 453.5229,-879.6981 471.5482,-855 520.9289,-787.3388 459.3269,-738.4923 507.5482,-670 518.7163,-654.1371 536.0421,-642.0967 552.6975,-633.3865"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="554.412,-636.4437 561.8382,-628.8871 551.3205,-630.1633 554.412,-636.4437"/>
+</g>
+<!-- NFTSVG.generateSVG -->
+<g id="node31" class="node">
+<title>NFTSVG.generateSVG</title>
+<ellipse fill="none" stroke="#000000" cx="600.1134" cy="-561" rx="63.0996" ry="18"/>
+<text text-anchor="middle" x="600.1134" y="-556.8" font-family="Times,serif" font-size="14.00" fill="#000000">generateSVG</text>
+</g>
+<!-- NFTDescriptor.generateSVGImage&#45;&gt;NFTSVG.generateSVG -->
+<g id="edge70" class="edge">
+<title>NFTDescriptor.generateSVGImage-&gt;NFTSVG.generateSVG</title>
+<path fill="none" stroke="#ffa500" d="M398.9344,-907.018C424.7197,-896.6032 454.3855,-880.0126 471.5482,-855 539.2948,-756.2672 429.4516,-678.7673 507.5482,-588 513.9498,-580.5598 522.2747,-575.1114 531.3061,-571.1327"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="532.8067,-574.3072 540.9225,-567.4966 530.3309,-567.7596 532.8067,-574.3072"/>
+</g>
+<!-- n.sub -->
+<g id="node32" class="node">
+<title>n.sub</title>
+<ellipse fill="none" stroke="#000000" cx="846.9961" cy="-204" rx="27" ry="18"/>
+<text text-anchor="middle" x="846.9961" y="-199.8" font-family="Times,serif" font-size="14.00" fill="#000000">sub</text>
+</g>
+<!-- NFTDescriptor.scale&#45;&gt;n.sub -->
+<g id="edge71" class="edge">
+<title>NFTDescriptor.scale-&gt;n.sub</title>
+<path fill="none" stroke="#ffa500" d="M630.4732,-915.7318C651.3956,-913.7858 677.9837,-907.4711 692.6787,-889 779.9818,-779.2632 649.9203,-375.0221 728.6787,-259 747.2927,-231.579 783.2766,-217.5364 810.696,-210.5368"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="811.7933,-213.8746 820.7313,-208.1858 810.1966,-207.0591 811.7933,-213.8746"/>
+</g>
+<!-- outMx.sub -->
+<g id="node33" class="node">
+<title>outMx.sub</title>
+<ellipse fill="none" stroke="#000000" cx="846.9961" cy="-119" rx="27" ry="18"/>
+<text text-anchor="middle" x="846.9961" y="-114.8" font-family="Times,serif" font-size="14.00" fill="#000000">sub</text>
+</g>
+<!-- NFTDescriptor.scale&#45;&gt;outMx.sub -->
+<g id="edge72" class="edge">
+<title>NFTDescriptor.scale-&gt;outMx.sub</title>
+<path fill="none" stroke="#ffa500" d="M630.5111,-915.7619C651.4518,-913.8304 678.0463,-907.5207 692.6787,-889 791.3025,-764.168 639.773,-305.9298 728.6787,-174 747.1997,-146.5161 783.1969,-132.4825 810.6448,-125.5022"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="811.748,-128.8389 820.6916,-123.1589 810.1579,-122.0218 811.748,-128.8389"/>
+</g>
+<!-- inMx.sub -->
+<g id="node34" class="node">
+<title>inMx.sub</title>
+<ellipse fill="none" stroke="#000000" cx="846.9961" cy="-34" rx="27" ry="18"/>
+<text text-anchor="middle" x="846.9961" y="-29.8" font-family="Times,serif" font-size="14.00" fill="#000000">sub</text>
+</g>
+<!-- NFTDescriptor.scale&#45;&gt;inMx.sub -->
+<g id="edge73" class="edge">
+<title>NFTDescriptor.scale-&gt;inMx.sub</title>
+<path fill="none" stroke="#ffa500" d="M630.5411,-915.7855C651.4963,-913.8655 678.0958,-907.5597 692.6787,-889 747.6523,-819.0347 679.151,-162.9205 728.6787,-89 747.1263,-61.4668 783.134,-47.4402 810.6043,-40.475"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="811.7122,-43.8109 820.6602,-38.1378 810.1274,-36.9926 811.7122,-43.8109"/>
+</g>
+<!-- NFTDescriptor.sliceTokenHex -->
+<g id="node19" class="node">
+<title>NFTDescriptor.sliceTokenHex</title>
+<ellipse fill="none" stroke="#000000" cx="846.9961" cy="-1078" rx="69.4819" ry="18"/>
+<text text-anchor="middle" x="846.9961" y="-1073.8" font-family="Times,serif" font-size="14.00" fill="#000000">sliceTokenHex</text>
+</g>
+<!-- NFTDescriptor.getCircleCoord&#45;&gt;NFTDescriptor.sliceTokenHex -->
+<g id="edge74" class="edge">
+<title>NFTDescriptor.getCircleCoord-&gt;NFTDescriptor.sliceTokenHex</title>
+<path fill="none" stroke="#00ff00" d="M670.8601,-1078C700.8158,-1078 735.8682,-1078 766.7812,-1078"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="767.0927,-1081.5001 777.0927,-1078 767.0927,-1074.5001 767.0927,-1081.5001"/>
+</g>
+<!-- key -->
+<g id="node35" class="node">
+<title>key</title>
+<text text-anchor="start" x="88.367" y="-1214.4" font-family="Times,serif" font-size="14.00" fill="#000000">Internal Call</text>
+<text text-anchor="start" x="84.475" y="-1194.4" font-family="Times,serif" font-size="14.00" fill="#000000">External Call</text>
+<text text-anchor="start" x="61.9364" y="-1174.4" font-family="Times,serif" font-size="14.00" fill="#000000">Defined Contract</text>
+<text text-anchor="start" x="48.3337" y="-1154.4" font-family="Times,serif" font-size="14.00" fill="#000000">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node36" class="node">
+<title>key2</title>
+<text text-anchor="start" x="337.2642" y="-1214.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<text text-anchor="start" x="337.2642" y="-1194.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="#d3d3d3" stroke="transparent" points="335.5051,-1169 335.5051,-1189 363.5051,-1189 363.5051,-1169 335.5051,-1169"/>
+<text text-anchor="start" x="337.2642" y="-1174.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="none" stroke="#d3d3d3" points="337.5051,-1151 337.5051,-1167 361.5051,-1167 361.5051,-1151 337.5051,-1151"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge75" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#00ff00" d="M160.731,-1219C234.919,-1219 255.9654,-1219 325.379,-1219"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="325.5051,-1222.5001 335.5051,-1219 325.505,-1215.5001 325.5051,-1222.5001"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge76" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#ffa500" d="M160.731,-1199C234.919,-1199 255.9654,-1199 325.379,-1199"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="325.5051,-1202.5001 335.5051,-1199 325.505,-1195.5001 325.5051,-1202.5001"/>
+</g>
+</g>
+</svg>

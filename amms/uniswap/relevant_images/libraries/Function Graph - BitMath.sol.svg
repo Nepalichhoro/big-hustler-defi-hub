@@ -1,0 +1,93 @@
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0.00 0.00 299.33 292.00">
+<g id="graph0" class="graph" transform="translate(95.73647097404991,204.9314433052067) scale(0.5285090202806909)" style="transform: translate(4px, 99%) scale(0.98);">
+<title>G</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-288 295.3287,-288 295.3287,4 -4,4"/>
+<g id="clust1" class="cluster">
+<title>clusterBitMath</title>
+<polygon fill="#d3d3d3" stroke="#d3d3d3" points="8,-8 8,-139 283.3287,-139 283.3287,-8 8,-8"/>
+<text text-anchor="middle" x="145.6644" y="-122.4" font-family="Times,serif" font-size="14.00" fill="#000000">BitMath  (lib)</text>
+</g>
+<g id="clust2" class="cluster">
+<title>cluster_01</title>
+<polygon fill="none" stroke="#000000" points="27.0005,-147 27.0005,-276 282.6649,-276 282.6649,-147 27.0005,-147"/>
+<text text-anchor="middle" x="154.8327" y="-259.4" font-family="Times,serif" font-size="14.00" fill="#000000">Legend</text>
+</g>
+<!-- BitMath.mostSignificantBit -->
+<g id="node1" class="node">
+<title>BitMath.mostSignificantBit</title>
+<ellipse fill="none" stroke="#ffffff" cx="100.0005" cy="-88" rx="84.001" ry="18"/>
+<text text-anchor="middle" x="100.0005" y="-83.8" font-family="Times,serif" font-size="14.00" fill="#000000">mostSignificantBit</text>
+</g>
+<!-- BitMath.leastSignificantBit -->
+<g id="node2" class="node">
+<title>BitMath.leastSignificantBit</title>
+<ellipse fill="none" stroke="#ffffff" cx="100.0005" cy="-34" rx="82.8341" ry="18"/>
+<text text-anchor="middle" x="100.0005" y="-29.8" font-family="Times,serif" font-size="14.00" fill="#000000">leastSignificantBit</text>
+</g>
+<!-- BitMath.type -->
+<g id="node3" class="node">
+<title>BitMath.type</title>
+<ellipse fill="none" stroke="#000000" cx="247.6649" cy="-34" rx="27.8286" ry="18"/>
+<text text-anchor="middle" x="247.6649" y="-29.8" font-family="Times,serif" font-size="14.00" fill="#000000">type</text>
+</g>
+<!-- BitMath.leastSignificantBit&#45;&gt;BitMath.type -->
+<g id="edge1" class="edge">
+<title>BitMath.leastSignificantBit-&gt;BitMath.type</title>
+<path fill="none" stroke="#00ff00" d="M116.3674,-16.2697C142.8326,-4.7556 195.0778,-3.9679 225.0701,-13.9068"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="224.0929,-17.2898 234.6719,-17.8696 226.7635,-10.8193 224.0929,-17.2898"/>
+</g>
+<!-- BitMath.leastSignificantBit&#45;&gt;BitMath.type -->
+<g id="edge2" class="edge">
+<title>BitMath.leastSignificantBit-&gt;BitMath.type</title>
+<path fill="none" stroke="#00ff00" d="M156.6691,-20.8296C176.2016,-20.0669 197.4306,-20.6279 214.4673,-22.5124"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="214.1038,-25.995 224.4807,-23.8569 215.0354,-19.0572 214.1038,-25.995"/>
+</g>
+<!-- BitMath.leastSignificantBit&#45;&gt;BitMath.type -->
+<g id="edge3" class="edge">
+<title>BitMath.leastSignificantBit-&gt;BitMath.type</title>
+<path fill="none" stroke="#00ff00" d="M183.3267,-34C192.424,-34 201.3258,-34 209.4671,-34"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="209.6842,-37.5001 219.6841,-34 209.6841,-30.5001 209.6842,-37.5001"/>
+</g>
+<!-- BitMath.leastSignificantBit&#45;&gt;BitMath.type -->
+<g id="edge4" class="edge">
+<title>BitMath.leastSignificantBit-&gt;BitMath.type</title>
+<path fill="none" stroke="#00ff00" d="M156.6691,-47.1704C176.2016,-47.9331 197.4306,-47.3721 214.4673,-45.4876"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="215.0354,-48.9428 224.4807,-44.1431 214.1038,-42.005 215.0354,-48.9428"/>
+</g>
+<!-- BitMath.leastSignificantBit&#45;&gt;BitMath.type -->
+<g id="edge5" class="edge">
+<title>BitMath.leastSignificantBit-&gt;BitMath.type</title>
+<path fill="none" stroke="#00ff00" d="M116.3674,-51.7303C142.8326,-63.2444 195.0778,-64.0321 225.0701,-54.0932"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="226.7635,-57.1807 234.6719,-50.1304 224.0929,-50.7102 226.7635,-57.1807"/>
+</g>
+<!-- key -->
+<g id="node4" class="node">
+<title>key</title>
+<text text-anchor="start" x="84.6365" y="-224.4" font-family="Times,serif" font-size="14.00" fill="#000000">Internal Call</text>
+<text text-anchor="start" x="80.7445" y="-204.4" font-family="Times,serif" font-size="14.00" fill="#000000">External Call</text>
+<text text-anchor="start" x="58.2059" y="-184.4" font-family="Times,serif" font-size="14.00" fill="#000000">Defined Contract</text>
+<text text-anchor="start" x="44.6032" y="-164.4" font-family="Times,serif" font-size="14.00" fill="#000000">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node5" class="node">
+<title>key2</title>
+<text text-anchor="start" x="235.424" y="-224.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<text text-anchor="start" x="235.424" y="-204.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="#d3d3d3" stroke="transparent" points="233.6649,-179 233.6649,-199 261.6649,-199 261.6649,-179 233.6649,-179"/>
+<text text-anchor="start" x="235.424" y="-184.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="none" stroke="#d3d3d3" points="235.6649,-161 235.6649,-177 259.6649,-177 259.6649,-161 235.6649,-161"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge6" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#00ff00" d="M157.0005,-229C187.3468,-229 197.4227,-229 223.3349,-229"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="223.6649,-232.5001 233.6649,-229 223.6648,-225.5001 223.6649,-232.5001"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge7" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#ffa500" d="M157.0005,-209C187.3468,-209 197.4227,-209 223.3349,-209"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="223.6649,-212.5001 233.6649,-209 223.6648,-205.5001 223.6649,-212.5001"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,907 @@
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0.00 0.00 1058.93 2412.34">
+<g id="graph0" class="graph" transform="translate(4,2408.3447265625) scale(1)" style="transform: translate(4px, 99%) scale(0.98);">
+<title>G</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-2408.3447 1054.9343,-2408.3447 1054.9343,4 -4,4"/>
+<g id="clust1" class="cluster">
+<title>clusterPoolManager</title>
+<polygon fill="#d3d3d3" stroke="#d3d3d3" points="8,-787.3447 8,-2106.3447 748.8997,-2106.3447 748.8997,-787.3447 8,-787.3447"/>
+<text text-anchor="middle" x="378.4498" y="-2089.7447" font-family="Times,serif" font-size="14.00" fill="#000000">PoolManager</text>
+</g>
+<g id="clust2" class="cluster">
+<title>clusterPoolKey</title>
+<polygon fill="none" stroke="#d3d3d3" points="639.0933,-281.3447 639.0933,-358.3447 709.0933,-358.3447 709.0933,-281.3447 639.0933,-281.3447"/>
+<text text-anchor="middle" x="674.0933" y="-341.7447" font-family="Times,serif" font-size="14.00" fill="#000000">PoolKey</text>
+</g>
+<g id="clust3" class="cluster">
+<title>clusterLockers</title>
+<polygon fill="none" stroke="#d3d3d3" points="768.8997,-533.3447 768.8997,-934.3447 1042.9343,-934.3447 1042.9343,-533.3447 768.8997,-533.3447"/>
+<text text-anchor="middle" x="905.917" y="-917.7447" font-family="Times,serif" font-size="14.00" fill="#000000">Lockers</text>
+</g>
+<g id="clust4" class="cluster">
+<title>clusterHooks</title>
+<polygon fill="none" stroke="#d3d3d3" points="324.0168,-648.3447 324.0168,-779.3447 540.16,-779.3447 540.16,-648.3447 324.0168,-648.3447"/>
+<text text-anchor="middle" x="432.0884" y="-762.7447" font-family="Times,serif" font-size="14.00" fill="#000000">Hooks</text>
+</g>
+<g id="clust5" class="cluster">
+<title>clusterBalanceDelta</title>
+<polygon fill="none" stroke="#d3d3d3" points="621.2604,-121.3447 621.2604,-252.3447 726.9263,-252.3447 726.9263,-121.3447 621.2604,-121.3447"/>
+<text text-anchor="middle" x="674.0933" y="-235.7447" font-family="Times,serif" font-size="14.00" fill="#000000">BalanceDelta</text>
+</g>
+<g id="clust6" class="cluster">
+<title>clusterPool</title>
+<polygon fill="none" stroke="#d3d3d3" points="323.9994,-327.3447 323.9994,-458.3447 540.1774,-458.3447 540.1774,-327.3447 323.9994,-327.3447"/>
+<text text-anchor="middle" x="432.0884" y="-441.7447" font-family="Times,serif" font-size="14.00" fill="#000000">Pool</text>
+</g>
+<g id="clust7" class="cluster">
+<title>clusteramount</title>
+<polygon fill="none" stroke="#d3d3d3" points="622.3324,-702.3447 622.3324,-779.3447 725.8543,-779.3447 725.8543,-702.3447 622.3324,-702.3447"/>
+<text text-anchor="middle" x="674.0933" y="-762.7447" font-family="Times,serif" font-size="14.00" fill="#000000">amount</text>
+</g>
+<g id="clust8" class="cluster">
+<title>clusterCurrency</title>
+<polygon fill="none" stroke="#d3d3d3" points="599.8297,-563.3447 599.8297,-694.3447 748.357,-694.3447 748.357,-563.3447 599.8297,-563.3447"/>
+<text text-anchor="middle" x="674.0933" y="-677.7447" font-family="Times,serif" font-size="14.00" fill="#000000">Currency</text>
+</g>
+<g id="clust9" class="cluster">
+<title>clusterpaid</title>
+<polygon fill="none" stroke="#d3d3d3" points="622.3324,-2114.3447 622.3324,-2191.3447 725.8543,-2191.3447 725.8543,-2114.3447 622.3324,-2114.3447"/>
+<text text-anchor="middle" x="674.0933" y="-2174.7447" font-family="Times,serif" font-size="14.00" fill="#000000">paid</text>
+</g>
+<g id="clust10" class="cluster">
+<title>cluster_01</title>
+<polygon fill="none" stroke="#000000" points="63.4449,-2267.3447 63.4449,-2396.3447 467.0884,-2396.3447 467.0884,-2267.3447 63.4449,-2267.3447"/>
+<text text-anchor="middle" x="265.2666" y="-2379.7447" font-family="Times,serif" font-size="14.00" fill="#000000">Legend</text>
+</g>
+<!-- PoolManager.&lt;Constructor&gt; -->
+<g id="node1" class="node">
+<title>PoolManager.&lt;Constructor&gt;</title>
+<ellipse fill="none" stroke="#00ff00" cx="136.4449" cy="-2055.3447" rx="67.5419" ry="18"/>
+<text text-anchor="middle" x="136.4449" y="-2051.1447" font-family="Times,serif" font-size="14.00" fill="#000000">&lt;Constructor&gt;</text>
+</g>
+<!-- PoolManager._getPool -->
+<g id="node2" class="node">
+<title>PoolManager._getPool</title>
+<ellipse fill="none" stroke="#ff0000" cx="432.0884" cy="-1083.3447" rx="45.2458" ry="18"/>
+<text text-anchor="middle" x="432.0884" y="-1079.1447" font-family="Times,serif" font-size="14.00" fill="#000000">_getPool</text>
+</g>
+<!-- PoolKey.toId -->
+<g id="node46" class="node">
+<title>PoolKey.toId</title>
+<ellipse fill="none" stroke="#000000" cx="674.0933" cy="-307.3447" rx="27" ry="18"/>
+<text text-anchor="middle" x="674.0933" y="-303.1447" font-family="Times,serif" font-size="14.00" fill="#000000">toId</text>
+</g>
+<!-- PoolManager._getPool&#45;&gt;PoolKey.toId -->
+<g id="edge1" class="edge">
+<title>PoolManager._getPool-&gt;PoolKey.toId</title>
+<path fill="none" stroke="#ffa500" d="M476.2983,-1087.7042C507.6863,-1088.1308 548.2017,-1082.7569 571.287,-1056.3447 607.6884,-1014.6976 590.364,-613.842 599.8297,-559.3447 614.3789,-475.5804 647.1136,-380.1942 663.8372,-334.5208"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="667.1583,-335.6308 667.342,-325.0376 660.5924,-333.2041 667.1583,-335.6308"/>
+</g>
+<!-- PoolManager.getSlot0 -->
+<g id="node3" class="node">
+<title>PoolManager.getSlot0</title>
+<ellipse fill="none" stroke="#0000ff" cx="136.4449" cy="-2001.3447" rx="43.4571" ry="18"/>
+<text text-anchor="middle" x="136.4449" y="-1997.1447" font-family="Times,serif" font-size="14.00" fill="#000000">getSlot0</text>
+</g>
+<!-- PoolManager.getLiquidity -->
+<g id="node4" class="node">
+<title>PoolManager.getLiquidity</title>
+<ellipse fill="none" stroke="#0000ff" cx="136.4449" cy="-1947.3447" rx="58.5675" ry="18"/>
+<text text-anchor="middle" x="136.4449" y="-1943.1447" font-family="Times,serif" font-size="14.00" fill="#000000">getLiquidity</text>
+</g>
+<!-- PoolManager.getPosition -->
+<g id="node5" class="node">
+<title>PoolManager.getPosition</title>
+<ellipse fill="none" stroke="#0000ff" cx="136.4449" cy="-1893.3447" rx="54.4913" ry="18"/>
+<text text-anchor="middle" x="136.4449" y="-1889.1447" font-family="Times,serif" font-size="14.00" fill="#000000">getPosition</text>
+</g>
+<!-- PoolManager.getLock -->
+<g id="node6" class="node">
+<title>PoolManager.getLock</title>
+<ellipse fill="none" stroke="#0000ff" cx="136.4449" cy="-1029.3447" rx="42.8577" ry="18"/>
+<text text-anchor="middle" x="136.4449" y="-1025.1447" font-family="Times,serif" font-size="14.00" fill="#000000">getLock</text>
+</g>
+<!-- Lockers.getLocker -->
+<g id="node47" class="node">
+<title>Lockers.getLocker</title>
+<ellipse fill="none" stroke="#000000" cx="905.917" cy="-613.3447" rx="50.3606" ry="18"/>
+<text text-anchor="middle" x="905.917" y="-609.1447" font-family="Times,serif" font-size="14.00" fill="#000000">getLocker</text>
+</g>
+<!-- PoolManager.getLock&#45;&gt;Lockers.getLocker -->
+<g id="edge2" class="edge">
+<title>PoolManager.getLock-&gt;Lockers.getLocker</title>
+<path fill="none" stroke="#ffa500" d="M179.0008,-1031.5748C205.438,-1030.4795 237.8938,-1024.1643 256.8897,-1002.3447 320.7253,-929.0203 229.531,-640.0816 292.8897,-566.3447 359.7724,-488.5067 669.0674,-428.8555 748.8997,-493.3447 781.7879,-519.9121 738.7474,-556.7086 768.8997,-586.3447 789.0619,-606.1619 819.2833,-613.5278 846.2173,-615.6738"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="846.167,-619.1766 856.3512,-616.2558 846.5684,-612.1881 846.167,-619.1766"/>
+</g>
+<!-- PoolManager.initialize -->
+<g id="node7" class="node">
+<title>PoolManager.initialize</title>
+<ellipse fill="none" stroke="#0000ff" cx="136.4449" cy="-1731.3447" rx="44.6549" ry="18"/>
+<text text-anchor="middle" x="136.4449" y="-1727.1447" font-family="Times,serif" font-size="14.00" fill="#000000">initialize</text>
+</g>
+<!-- PoolManager.FeeTooLarge -->
+<g id="node26" class="node">
+<title>PoolManager.FeeTooLarge</title>
+<ellipse fill="none" stroke="#000000" cx="432.0884" cy="-2055.3447" rx="63.1015" ry="18"/>
+<text text-anchor="middle" x="432.0884" y="-2051.1447" font-family="Times,serif" font-size="14.00" fill="#000000">FeeTooLarge</text>
+</g>
+<!-- PoolManager.initialize&#45;&gt;PoolManager.FeeTooLarge -->
+<g id="edge3" class="edge">
+<title>PoolManager.initialize-&gt;PoolManager.FeeTooLarge</title>
+<path fill="none" stroke="#00ff00" d="M181.2866,-1729.5789C207.0737,-1731.1063 238.0038,-1737.7197 256.8897,-1758.3447 338.6465,-1847.6298 209.8498,-1940.2518 292.8897,-2028.3447 310.0307,-2046.5288 335.4655,-2054.5371 359.9212,-2057.5804"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="359.6543,-2061.071 369.9496,-2058.5692 360.3413,-2054.1048 359.6543,-2061.071"/>
+</g>
+<!-- PoolManager.TickSpacingTooLarge -->
+<g id="node27" class="node">
+<title>PoolManager.TickSpacingTooLarge</title>
+<ellipse fill="none" stroke="#000000" cx="432.0884" cy="-1839.3447" rx="97.8363" ry="18"/>
+<text text-anchor="middle" x="432.0884" y="-1835.1447" font-family="Times,serif" font-size="14.00" fill="#000000">TickSpacingTooLarge</text>
+</g>
+<!-- PoolManager.initialize&#45;&gt;PoolManager.TickSpacingTooLarge -->
+<g id="edge4" class="edge">
+<title>PoolManager.initialize-&gt;PoolManager.TickSpacingTooLarge</title>
+<path fill="none" stroke="#00ff00" d="M181.1469,-1733.3731C205.3388,-1736.3362 234.7183,-1743.1224 256.8897,-1758.3447 280.669,-1774.671 268.8767,-1796.3642 292.8897,-1812.3447 304.5158,-1820.0818 317.8249,-1825.7157 331.5002,-1829.7986"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="330.9367,-1833.2719 341.5037,-1832.5053 332.765,-1826.5149 330.9367,-1833.2719"/>
+</g>
+<!-- PoolManager.TickSpacingTooSmall -->
+<g id="node28" class="node">
+<title>PoolManager.TickSpacingTooSmall</title>
+<ellipse fill="none" stroke="#000000" cx="432.0884" cy="-1893.3447" rx="97.873" ry="18"/>
+<text text-anchor="middle" x="432.0884" y="-1889.1447" font-family="Times,serif" font-size="14.00" fill="#000000">TickSpacingTooSmall</text>
+</g>
+<!-- PoolManager.initialize&#45;&gt;PoolManager.TickSpacingTooSmall -->
+<g id="edge5" class="edge">
+<title>PoolManager.initialize-&gt;PoolManager.TickSpacingTooSmall</title>
+<path fill="none" stroke="#00ff00" d="M181.4031,-1731.0525C206.4263,-1733.2051 236.5375,-1739.9551 256.8897,-1758.3447 294.431,-1792.266 254.8616,-1832.9702 292.8897,-1866.3447 302.8417,-1875.0789 314.757,-1881.3348 327.371,-1885.7681"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="326.5437,-1889.1763 337.1323,-1888.8139 328.6288,-1882.4941 326.5437,-1889.1763"/>
+</g>
+<!-- PoolManager.CurrenciesInitializedOutOfOrder -->
+<g id="node29" class="node">
+<title>PoolManager.CurrenciesInitializedOutOfOrder</title>
+<ellipse fill="none" stroke="#000000" cx="432.0884" cy="-1947.3447" rx="139.3976" ry="18"/>
+<text text-anchor="middle" x="432.0884" y="-1943.1447" font-family="Times,serif" font-size="14.00" fill="#000000">CurrenciesInitializedOutOfOrder</text>
+</g>
+<!-- PoolManager.initialize&#45;&gt;PoolManager.CurrenciesInitializedOutOfOrder -->
+<g id="edge6" class="edge">
+<title>PoolManager.initialize-&gt;PoolManager.CurrenciesInitializedOutOfOrder</title>
+<path fill="none" stroke="#00ff00" d="M181.2477,-1730.2197C206.6935,-1732.0245 237.2848,-1738.7035 256.8897,-1758.3447 308.995,-1810.5467 240.0347,-1868.9021 292.8897,-1920.3447 297.5783,-1924.9081 302.7938,-1928.8149 308.3761,-1932.1523"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="306.9514,-1935.3582 317.4274,-1936.9407 310.2248,-1929.1707 306.9514,-1935.3582"/>
+</g>
+<!-- PoolManager.address -->
+<g id="node30" class="node">
+<title>PoolManager.address</title>
+<ellipse fill="none" stroke="#000000" cx="432.0884" cy="-1191.3447" rx="39.9857" ry="18"/>
+<text text-anchor="middle" x="432.0884" y="-1187.1447" font-family="Times,serif" font-size="14.00" fill="#000000">address</text>
+</g>
+<!-- PoolManager.initialize&#45;&gt;PoolManager.address -->
+<g id="edge8" class="edge">
+<title>PoolManager.initialize-&gt;PoolManager.address</title>
+<path fill="none" stroke="#00ff00" d="M181.1326,-1733.5342C207.1993,-1732.2174 238.4762,-1725.6765 256.8897,-1704.3447 327.6534,-1622.3661 220.9474,-1299.2911 292.8897,-1218.3447 314.9283,-1193.5479 352.3391,-1187.3761 382.8299,-1187.0918"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="382.8347,-1190.592 392.8727,-1187.2027 382.912,-1183.5924 382.8347,-1190.592"/>
+</g>
+<!-- PoolManager._fetchDynamicSwapFee -->
+<g id="node31" class="node">
+<title>PoolManager._fetchDynamicSwapFee</title>
+<ellipse fill="none" stroke="#000000" cx="432.0884" cy="-1569.3447" rx="105.9189" ry="18"/>
+<text text-anchor="middle" x="432.0884" y="-1565.1447" font-family="Times,serif" font-size="14.00" fill="#000000">_fetchDynamicSwapFee</text>
+</g>
+<!-- PoolManager.initialize&#45;&gt;PoolManager._fetchDynamicSwapFee -->
+<g id="edge11" class="edge">
+<title>PoolManager.initialize-&gt;PoolManager._fetchDynamicSwapFee</title>
+<path fill="none" stroke="#00ff00" d="M181.4031,-1731.637C206.4263,-1729.4844 236.5375,-1722.7344 256.8897,-1704.3447 294.431,-1670.4235 254.8616,-1629.7193 292.8897,-1596.3447 301.5473,-1588.7466 311.6907,-1583.024 322.4873,-1578.7452"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="323.8567,-1581.9736 332.1225,-1575.3458 321.5277,-1575.3724 323.8567,-1581.9736"/>
+</g>
+<!-- PoolManager._fetchProtocolFees -->
+<g id="node32" class="node">
+<title>PoolManager._fetchProtocolFees</title>
+<ellipse fill="none" stroke="#000000" cx="432.0884" cy="-1785.3447" rx="85.6705" ry="18"/>
+<text text-anchor="middle" x="432.0884" y="-1781.1447" font-family="Times,serif" font-size="14.00" fill="#000000">_fetchProtocolFees</text>
+</g>
+<!-- PoolManager.initialize&#45;&gt;PoolManager._fetchProtocolFees -->
+<g id="edge12" class="edge">
+<title>PoolManager.initialize-&gt;PoolManager._fetchProtocolFees</title>
+<path fill="none" stroke="#00ff00" d="M177.5528,-1738.8532C223.9521,-1747.3281 300.3869,-1761.2892 357.409,-1771.7044"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="356.9932,-1775.1863 367.4594,-1773.5401 358.251,-1768.3002 356.9932,-1775.1863"/>
+</g>
+<!-- PoolManager._fetchHookFees -->
+<g id="node33" class="node">
+<title>PoolManager._fetchHookFees</title>
+<ellipse fill="none" stroke="#000000" cx="432.0884" cy="-1731.3447" rx="74.1393" ry="18"/>
+<text text-anchor="middle" x="432.0884" y="-1727.1447" font-family="Times,serif" font-size="14.00" fill="#000000">_fetchHookFees</text>
+</g>
+<!-- PoolManager.initialize&#45;&gt;PoolManager._fetchHookFees -->
+<g id="edge13" class="edge">
+<title>PoolManager.initialize-&gt;PoolManager._fetchHookFees</title>
+<path fill="none" stroke="#00ff00" d="M181.3467,-1731.3447C225.2794,-1731.3447 293.2897,-1731.3447 347.4014,-1731.3447"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="347.6804,-1734.8448 357.6804,-1731.3447 347.6803,-1727.8448 347.6804,-1734.8448"/>
+</g>
+<!-- PoolManager.Initialize -->
+<g id="node34" class="node">
+<title>PoolManager.Initialize</title>
+<ellipse fill="none" stroke="#000000" cx="432.0884" cy="-2001.3447" rx="45.217" ry="18"/>
+<text text-anchor="middle" x="432.0884" y="-1997.1447" font-family="Times,serif" font-size="14.00" fill="#000000">Initialize</text>
+</g>
+<!-- PoolManager.initialize&#45;&gt;PoolManager.Initialize -->
+<g id="edge15" class="edge">
+<title>PoolManager.initialize-&gt;PoolManager.Initialize</title>
+<path fill="none" stroke="#00ff00" d="M181.3417,-1729.8215C206.9834,-1731.4617 237.7438,-1738.1081 256.8897,-1758.3447 323.7768,-1829.0421 224.9869,-1904.6224 292.8897,-1974.3447 314.4757,-1996.5091 348.4171,-2003.4183 377.3796,-2004.7089"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="377.3075,-2008.2081 387.3879,-2004.9469 377.474,-2001.2101 377.3075,-2008.2081"/>
+</g>
+<!-- PoolManager.initialize&#45;&gt;PoolKey.toId -->
+<g id="edge10" class="edge">
+<title>PoolManager.initialize-&gt;PoolKey.toId</title>
+<path fill="none" stroke="#ffa500" d="M180.9018,-1733.8691C207.2243,-1732.7386 238.856,-1726.2767 256.8897,-1704.3447 305.6343,-1645.0635 239.0532,-378.0433 292.8897,-323.3447 316.6341,-299.2202 545.4947,-303.4201 636.7776,-306.0928"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="636.8506,-309.5965 646.9521,-306.4013 637.0628,-302.5998 636.8506,-309.5965"/>
+</g>
+<!-- Hooks.HookAddressNotValid -->
+<g id="node54" class="node">
+<title>Hooks.HookAddressNotValid</title>
+<ellipse fill="none" stroke="#000000" cx="432.0884" cy="-728.3447" rx="100.1433" ry="18"/>
+<text text-anchor="middle" x="432.0884" y="-724.1447" font-family="Times,serif" font-size="14.00" fill="#000000">HookAddressNotValid</text>
+</g>
+<!-- PoolManager.initialize&#45;&gt;Hooks.HookAddressNotValid -->
+<g id="edge7" class="edge">
+<title>PoolManager.initialize-&gt;Hooks.HookAddressNotValid</title>
+<path fill="none" stroke="#ffa500" d="M181.1003,-1733.7735C207.3256,-1732.576 238.7823,-1726.0766 256.8897,-1704.3447 322.4466,-1625.6656 233.6532,-866.886 292.8897,-783.3447 306.244,-764.5112 327.0965,-752.1256 348.6336,-743.9809"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="349.9294,-747.2358 358.2179,-740.6365 347.6231,-740.6266 349.9294,-747.2358"/>
+</g>
+<!-- Hooks.InvalidHookResponse -->
+<g id="node55" class="node">
+<title>Hooks.InvalidHookResponse</title>
+<ellipse fill="none" stroke="#000000" cx="432.0884" cy="-674.3447" rx="96.7158" ry="18"/>
+<text text-anchor="middle" x="432.0884" y="-670.1447" font-family="Times,serif" font-size="14.00" fill="#000000">InvalidHookResponse</text>
+</g>
+<!-- PoolManager.initialize&#45;&gt;Hooks.InvalidHookResponse -->
+<g id="edge9" class="edge">
+<title>PoolManager.initialize-&gt;Hooks.InvalidHookResponse</title>
+<path fill="none" stroke="#ffa500" d="M179.6398,-1726.161C206.1628,-1723.8446 238.4747,-1717.5176 256.8897,-1695.3447 328.1381,-1609.557 220.4077,-777.0928 292.8897,-692.3447 306.4336,-676.5088 326.24,-668.1934 346.6865,-664.4819"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="347.3591,-667.9209 356.7506,-663.0169 346.3507,-660.994 347.3591,-667.9209"/>
+</g>
+<!-- PoolManager.initialize&#45;&gt;Hooks.InvalidHookResponse -->
+<g id="edge14" class="edge">
+<title>PoolManager.initialize-&gt;Hooks.InvalidHookResponse</title>
+<path fill="none" stroke="#ffa500" d="M173.828,-1741.3789C201.2813,-1742.6978 237.1056,-1737.1662 256.8897,-1713.3447 328.1381,-1627.557 220.4077,-795.0928 292.8897,-710.3447 303.7548,-697.6409 318.6501,-689.777 334.6731,-684.9111"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="335.9904,-688.1836 344.7694,-682.2523 334.2077,-681.4143 335.9904,-688.1836"/>
+</g>
+<!-- PoolManager.lock -->
+<g id="node8" class="node">
+<title>PoolManager.lock</title>
+<ellipse fill="none" stroke="#0000ff" cx="136.4449" cy="-1083.3447" rx="27.8286" ry="18"/>
+<text text-anchor="middle" x="136.4449" y="-1079.1447" font-family="Times,serif" font-size="14.00" fill="#000000">lock</text>
+</g>
+<!-- PoolManager.ILockCallback -->
+<g id="node35" class="node">
+<title>PoolManager.ILockCallback</title>
+<ellipse fill="none" stroke="#000000" cx="432.0884" cy="-921.3447" rx="68.3382" ry="18"/>
+<text text-anchor="middle" x="432.0884" y="-917.1447" font-family="Times,serif" font-size="14.00" fill="#000000">ILockCallback</text>
+</g>
+<!-- PoolManager.lock&#45;&gt;PoolManager.ILockCallback -->
+<g id="edge16" class="edge">
+<title>PoolManager.lock-&gt;PoolManager.ILockCallback</title>
+<path fill="none" stroke="#00ff00" d="M164.0747,-1084.4959C191.0149,-1084.1018 231.5289,-1079.26 256.8897,-1056.3447 294.431,-1022.4235 254.8616,-981.7193 292.8897,-948.3447 309.5762,-933.7002 331.7817,-926.0231 353.5466,-922.2217"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="354.1207,-925.6749 363.4943,-920.7368 353.0871,-918.7516 354.1207,-925.6749"/>
+</g>
+<!-- PoolManager.CurrencyNotSettled -->
+<g id="node36" class="node">
+<title>PoolManager.CurrencyNotSettled</title>
+<ellipse fill="none" stroke="#000000" cx="432.0884" cy="-975.3447" rx="88.0403" ry="18"/>
+<text text-anchor="middle" x="432.0884" y="-971.1447" font-family="Times,serif" font-size="14.00" fill="#000000">CurrencyNotSettled</text>
+</g>
+<!-- PoolManager.lock&#45;&gt;PoolManager.CurrencyNotSettled -->
+<g id="edge19" class="edge">
+<title>PoolManager.lock-&gt;PoolManager.CurrencyNotSettled</title>
+<path fill="none" stroke="#00ff00" d="M164.1072,-1082.8979C190.1364,-1081.2284 229.1534,-1075.3878 256.8897,-1056.3447 280.669,-1040.0185 268.8767,-1018.3253 292.8897,-1002.3447 306.297,-993.4223 321.9424,-987.2969 337.8066,-983.1216"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="338.7776,-986.4883 347.6944,-980.7663 337.1556,-979.6788 338.7776,-986.4883"/>
+</g>
+<!-- Lockers.length -->
+<g id="node48" class="node">
+<title>Lockers.length</title>
+<ellipse fill="none" stroke="#000000" cx="905.917" cy="-775.3447" rx="35.3528" ry="18"/>
+<text text-anchor="middle" x="905.917" y="-771.1447" font-family="Times,serif" font-size="14.00" fill="#000000">length</text>
+</g>
+<!-- PoolManager.lock&#45;&gt;Lockers.length -->
+<g id="edge17" class="edge">
+<title>PoolManager.lock-&gt;Lockers.length</title>
+<path fill="none" stroke="#ffa500" d="M163.9913,-1085.6658C191.8714,-1086.3454 234.0322,-1082.4737 256.8897,-1056.3447 317.4013,-987.1727 229.7332,-711.1105 292.8897,-644.3447 378.7914,-553.534 466.3263,-672.2339 571.287,-604.3447 591.1736,-591.482 579.0768,-570.757 599.8297,-559.3447 657.8841,-527.42 699.6482,-515.0301 748.8997,-559.3447 780.296,-587.594 740.3956,-717.1796 768.8997,-748.3447 791.7339,-773.3107 830.3873,-779.0813 860.8286,-779.1651"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="861.2784,-782.6577 871.2143,-778.9797 861.1534,-775.6588 861.2784,-782.6577"/>
+</g>
+<!-- Lockers.nonzeroDeltaCount -->
+<g id="node49" class="node">
+<title>Lockers.nonzeroDeltaCount</title>
+<ellipse fill="none" stroke="#000000" cx="905.917" cy="-721.3447" rx="86.8204" ry="18"/>
+<text text-anchor="middle" x="905.917" y="-717.1447" font-family="Times,serif" font-size="14.00" fill="#000000">nonzeroDeltaCount</text>
+</g>
+<!-- PoolManager.lock&#45;&gt;Lockers.nonzeroDeltaCount -->
+<g id="edge18" class="edge">
+<title>PoolManager.lock-&gt;Lockers.nonzeroDeltaCount</title>
+<path fill="none" stroke="#ffa500" d="M164.032,-1085.7012C191.9452,-1086.4097 234.1327,-1082.5613 256.8897,-1056.3447 322.9419,-980.2514 223.6691,-677.5676 292.8897,-604.3447 378.6779,-513.5964 464.3919,-630.9071 571.287,-566.3447 589.9816,-555.0536 580.4129,-536.3428 599.8297,-526.3447 658.7328,-496.0145 699.3598,-482.3527 748.8997,-526.3447 805.1247,-576.2734 717.7899,-639.1912 768.8997,-694.3447 779.6468,-705.9422 793.8102,-713.383 808.9518,-718.0324"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="808.4542,-721.5213 819.0171,-720.7002 810.2476,-714.7549 808.4542,-721.5213"/>
+</g>
+<!-- Lockers.clear -->
+<g id="node50" class="node">
+<title>Lockers.clear</title>
+<ellipse fill="none" stroke="#000000" cx="905.917" cy="-559.3447" rx="29.5916" ry="18"/>
+<text text-anchor="middle" x="905.917" y="-555.1447" font-family="Times,serif" font-size="14.00" fill="#000000">clear</text>
+</g>
+<!-- PoolManager.lock&#45;&gt;Lockers.clear -->
+<g id="edge20" class="edge">
+<title>PoolManager.lock-&gt;Lockers.clear</title>
+<path fill="none" stroke="#ffa500" d="M163.965,-1085.8574C192.0333,-1086.7305 234.5398,-1083.0491 256.8897,-1056.3447 315.9924,-985.727 238.368,-302.5565 292.8897,-228.3447 416.3886,-60.2455 578.4972,2.9563 748.8997,-117.3447 820.0189,-167.5536 881.8682,-442.2082 900.3232,-531.3761"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="896.921,-532.2089 902.3564,-541.3032 903.7787,-530.8043 896.921,-532.2089"/>
+</g>
+<!-- PoolManager._accountDelta -->
+<g id="node9" class="node">
+<title>PoolManager._accountDelta</title>
+<ellipse fill="none" stroke="#ffffff" cx="674.0933" cy="-1029.3447" rx="66.6132" ry="18"/>
+<text text-anchor="middle" x="674.0933" y="-1025.1447" font-family="Times,serif" font-size="14.00" fill="#000000">_accountDelta</text>
+</g>
+<!-- Lockers.getCurrentLocker -->
+<g id="node51" class="node">
+<title>Lockers.getCurrentLocker</title>
+<ellipse fill="none" stroke="#000000" cx="905.917" cy="-667.3447" rx="79.8546" ry="18"/>
+<text text-anchor="middle" x="905.917" y="-663.1447" font-family="Times,serif" font-size="14.00" fill="#000000">getCurrentLocker</text>
+</g>
+<!-- PoolManager._accountDelta&#45;&gt;Lockers.getCurrentLocker -->
+<g id="edge21" class="edge">
+<title>PoolManager._accountDelta-&gt;Lockers.getCurrentLocker</title>
+<path fill="none" stroke="#ffa500" d="M680.0944,-1011.2686C693.435,-970.7487 726.1665,-869.4498 748.8997,-783.3447 759.2488,-744.1459 739.8551,-722.6302 768.8997,-694.3447 781.7965,-681.7851 798.7384,-674.2397 816.294,-669.8564"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="817.0561,-673.2726 826.0885,-667.7348 815.5742,-666.4312 817.0561,-673.2726"/>
+</g>
+<!-- Lockers.decrementNonzeroDeltaCount -->
+<g id="node52" class="node">
+<title>Lockers.decrementNonzeroDeltaCount</title>
+<ellipse fill="none" stroke="#000000" cx="905.917" cy="-883.3447" rx="129.0347" ry="18"/>
+<text text-anchor="middle" x="905.917" y="-879.1447" font-family="Times,serif" font-size="14.00" fill="#000000">decrementNonzeroDeltaCount</text>
+</g>
+<!-- PoolManager._accountDelta&#45;&gt;Lockers.decrementNonzeroDeltaCount -->
+<g id="edge22" class="edge">
+<title>PoolManager._accountDelta-&gt;Lockers.decrementNonzeroDeltaCount</title>
+<path fill="none" stroke="#ffa500" d="M700.6865,-1012.5967C742.1383,-986.4908 822.2589,-936.0317 869.1929,-906.4732"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="871.2381,-909.3215 877.8346,-901.0307 867.5077,-903.3983 871.2381,-909.3215"/>
+</g>
+<!-- Lockers.incrementNonzeroDeltaCount -->
+<g id="node53" class="node">
+<title>Lockers.incrementNonzeroDeltaCount</title>
+<ellipse fill="none" stroke="#000000" cx="905.917" cy="-829.3447" rx="127.3286" ry="18"/>
+<text text-anchor="middle" x="905.917" y="-825.1447" font-family="Times,serif" font-size="14.00" fill="#000000">incrementNonzeroDeltaCount</text>
+</g>
+<!-- PoolManager._accountDelta&#45;&gt;Lockers.incrementNonzeroDeltaCount -->
+<g id="edge23" class="edge">
+<title>PoolManager._accountDelta-&gt;Lockers.incrementNonzeroDeltaCount</title>
+<path fill="none" stroke="#ffa500" d="M678.4983,-1011.2787C688.212,-975.525 715.0147,-895.8001 768.8997,-856.3447 776.0061,-851.1413 783.8549,-846.8709 792.0921,-843.3736"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="793.4585,-846.5982 801.5385,-839.745 790.9484,-840.0637 793.4585,-846.5982"/>
+</g>
+<!-- PoolManager._accountPoolBalanceDelta -->
+<g id="node10" class="node">
+<title>PoolManager._accountPoolBalanceDelta</title>
+<ellipse fill="none" stroke="#ffffff" cx="432.0884" cy="-1029.3447" rx="115.729" ry="18"/>
+<text text-anchor="middle" x="432.0884" y="-1025.1447" font-family="Times,serif" font-size="14.00" fill="#000000">_accountPoolBalanceDelta</text>
+</g>
+<!-- PoolManager._accountPoolBalanceDelta&#45;&gt;PoolManager._accountDelta -->
+<g id="edge24" class="edge">
+<title>PoolManager._accountPoolBalanceDelta-&gt;PoolManager._accountDelta</title>
+<path fill="none" stroke="#00ff00" d="M539.6446,-1022.6319C560.2968,-1022.5173 581.4779,-1022.6677 600.7415,-1023.0833"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="600.8451,-1026.5868 610.9279,-1023.333 601.0167,-1019.5889 600.8451,-1026.5868"/>
+</g>
+<!-- PoolManager._accountPoolBalanceDelta&#45;&gt;PoolManager._accountDelta -->
+<g id="edge26" class="edge">
+<title>PoolManager._accountPoolBalanceDelta-&gt;PoolManager._accountDelta</title>
+<path fill="none" stroke="#00ff00" d="M539.6446,-1036.0576C560.2968,-1036.1722 581.4779,-1036.0218 600.7415,-1035.6062"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="601.0167,-1039.1006 610.9279,-1035.3565 600.8451,-1032.1027 601.0167,-1039.1006"/>
+</g>
+<!-- BalanceDelta.amount0 -->
+<g id="node56" class="node">
+<title>BalanceDelta.amount0</title>
+<ellipse fill="none" stroke="#000000" cx="674.0933" cy="-201.3447" rx="44.6665" ry="18"/>
+<text text-anchor="middle" x="674.0933" y="-197.1447" font-family="Times,serif" font-size="14.00" fill="#000000">amount0</text>
+</g>
+<!-- PoolManager._accountPoolBalanceDelta&#45;&gt;BalanceDelta.amount0 -->
+<g id="edge25" class="edge">
+<title>PoolManager._accountPoolBalanceDelta-&gt;BalanceDelta.amount0</title>
+<path fill="none" stroke="#ffa500" d="M541.5222,-1023.3184C552.8716,-1018.5405 563.1905,-1011.7782 571.287,-1002.3447 623.7924,-941.1693 567.9465,-351.3901 599.8297,-277.3447 609.0248,-255.9902 627.1654,-237.2418 643.215,-223.709"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="645.7851,-226.1318 651.3588,-217.1215 641.3828,-220.6894 645.7851,-226.1318"/>
+</g>
+<!-- BalanceDelta.amount1 -->
+<g id="node57" class="node">
+<title>BalanceDelta.amount1</title>
+<ellipse fill="none" stroke="#000000" cx="674.0933" cy="-147.3447" rx="44.6665" ry="18"/>
+<text text-anchor="middle" x="674.0933" y="-143.1447" font-family="Times,serif" font-size="14.00" fill="#000000">amount1</text>
+</g>
+<!-- PoolManager._accountPoolBalanceDelta&#45;&gt;BalanceDelta.amount1 -->
+<g id="edge27" class="edge">
+<title>PoolManager._accountPoolBalanceDelta-&gt;BalanceDelta.amount1</title>
+<path fill="none" stroke="#ffa500" d="M541.5668,-1023.3567C552.9087,-1018.5722 563.2136,-1011.7979 571.287,-1002.3447 631.07,-932.3443 545.7249,-248.8211 599.8297,-174.3447 605.3958,-166.683 613.36,-161.19 622.0242,-157.2533"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="623.5427,-160.4193 631.6202,-153.5633 621.0303,-153.8856 623.5427,-160.4193"/>
+</g>
+<!-- PoolManager.onlyByLocker -->
+<g id="node11" class="node">
+<title>PoolManager.onlyByLocker</title>
+<ellipse fill="none" stroke="#ffff00" cx="136.4449" cy="-867.3447" rx="66.6383" ry="18"/>
+<text text-anchor="middle" x="136.4449" y="-863.1447" font-family="Times,serif" font-size="14.00" fill="#000000">onlyByLocker</text>
+</g>
+<!-- PoolManager.LockedBy -->
+<g id="node37" class="node">
+<title>PoolManager.LockedBy</title>
+<ellipse fill="none" stroke="#000000" cx="432.0884" cy="-813.3447" rx="51.028" ry="18"/>
+<text text-anchor="middle" x="432.0884" y="-809.1447" font-family="Times,serif" font-size="14.00" fill="#000000">LockedBy</text>
+</g>
+<!-- PoolManager.onlyByLocker&#45;&gt;PoolManager.LockedBy -->
+<g id="edge29" class="edge">
+<title>PoolManager.onlyByLocker-&gt;PoolManager.LockedBy</title>
+<path fill="none" stroke="#00ff00" d="M192.0531,-857.1878C244.852,-847.5439 323.7837,-833.1269 376.5571,-823.4877"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="377.2124,-826.926 386.4208,-821.686 375.9546,-820.0399 377.2124,-826.926"/>
+</g>
+<!-- PoolManager.onlyByLocker&#45;&gt;Lockers.getCurrentLocker -->
+<g id="edge28" class="edge">
+<title>PoolManager.onlyByLocker-&gt;Lockers.getCurrentLocker</title>
+<path fill="none" stroke="#ffa500" d="M203.5748,-867.2806C223.6082,-863.7389 243.7149,-856.0052 256.8897,-840.3447 309.9556,-777.2671 233.2051,-156.2001 292.8897,-99.3447 439.75,40.5539 610.0497,30.5074 748.8997,-117.3447 788.7097,-159.7358 731.1156,-596.1384 768.8997,-640.3447 781.0509,-654.5613 798.3193,-662.6619 816.518,-667.0415"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="815.8982,-670.487 826.396,-669.0561 817.2972,-663.6282 815.8982,-670.487"/>
+</g>
+<!-- PoolManager.modifyPosition -->
+<g id="node12" class="node">
+<title>PoolManager.modifyPosition</title>
+<ellipse fill="none" stroke="#0000ff" cx="136.4449" cy="-1191.3447" rx="70.6858" ry="18"/>
+<text text-anchor="middle" x="136.4449" y="-1187.1447" font-family="Times,serif" font-size="14.00" fill="#000000">modifyPosition</text>
+</g>
+<!-- PoolManager.modifyPosition&#45;&gt;PoolManager._accountPoolBalanceDelta -->
+<g id="edge33" class="edge">
+<title>PoolManager.modifyPosition-&gt;PoolManager._accountPoolBalanceDelta</title>
+<path fill="none" stroke="#00ff00" d="M205.8999,-1188.0571C224.2928,-1184.129 242.8976,-1176.9877 256.8897,-1164.3447 294.431,-1130.4235 254.8616,-1089.7193 292.8897,-1056.3447 300.2363,-1049.8972 308.6527,-1044.8002 317.6303,-1040.7899"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="319.1714,-1043.9436 327.1677,-1036.993 316.5823,-1037.44 319.1714,-1043.9436"/>
+</g>
+<!-- PoolManager.modifyPosition&#45;&gt;PoolManager.address -->
+<g id="edge34" class="edge">
+<title>PoolManager.modifyPosition-&gt;PoolManager.address</title>
+<path fill="none" stroke="#00ff00" d="M203.531,-1185.5839C258.245,-1184.0897 334.2459,-1184.2883 383.3016,-1186.1797"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="383.2028,-1189.6786 393.3432,-1186.609 383.5019,-1182.685 383.2028,-1189.6786"/>
+</g>
+<!-- PoolManager.modifyPosition&#45;&gt;PoolManager.address -->
+<g id="edge35" class="edge">
+<title>PoolManager.modifyPosition-&gt;PoolManager.address</title>
+<path fill="none" stroke="#00ff00" d="M203.531,-1197.1056C258.245,-1198.5998 334.2459,-1198.4012 383.3016,-1196.5098"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="383.5019,-1200.0045 393.3432,-1196.0805 383.2028,-1193.0109 383.5019,-1200.0045"/>
+</g>
+<!-- PoolManager.ModifyPosition -->
+<g id="node38" class="node">
+<title>PoolManager.ModifyPosition</title>
+<ellipse fill="none" stroke="#000000" cx="432.0884" cy="-1137.3447" rx="71.8299" ry="18"/>
+<text text-anchor="middle" x="432.0884" y="-1133.1447" font-family="Times,serif" font-size="14.00" fill="#000000">ModifyPosition</text>
+</g>
+<!-- PoolManager.modifyPosition&#45;&gt;PoolManager.ModifyPosition -->
+<g id="edge37" class="edge">
+<title>PoolManager.modifyPosition-&gt;PoolManager.ModifyPosition</title>
+<path fill="none" stroke="#00ff00" d="M194.1497,-1180.8048C242.8295,-1171.9133 312.5937,-1159.1707 363.9998,-1149.7813"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="364.8162,-1153.1902 374.0246,-1147.9502 363.5584,-1146.3041 364.8162,-1153.1902"/>
+</g>
+<!-- PoolManager.modifyPosition&#45;&gt;PoolKey.toId -->
+<g id="edge31" class="edge">
+<title>PoolManager.modifyPosition-&gt;PoolKey.toId</title>
+<path fill="none" stroke="#ffa500" d="M207.1191,-1190.6962C225.9871,-1186.8938 244.5399,-1179.1588 256.8897,-1164.3447 321.6138,-1086.7059 220.0155,-325.39 292.8897,-255.3447 337.4928,-212.4731 511.109,-240.9914 571.287,-255.3447 598.4507,-261.8237 626.5639,-276.7025 646.5115,-288.8918"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="644.7387,-291.9114 655.0692,-294.2633 648.4601,-285.9825 644.7387,-291.9114"/>
+</g>
+<!-- PoolManager.modifyPosition&#45;&gt;Hooks.InvalidHookResponse -->
+<g id="edge30" class="edge">
+<title>PoolManager.modifyPosition-&gt;Hooks.InvalidHookResponse</title>
+<path fill="none" stroke="#ffa500" d="M199.5389,-1183.2362C220.7643,-1179.4317 242.6469,-1171.7839 256.8897,-1155.3447 324.4661,-1077.3476 224.1921,-769.3561 292.8897,-692.3447 305.8674,-677.7965 324.1371,-669.6656 343.1827,-665.6401"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="343.9381,-669.0613 353.1891,-663.8971 342.7368,-662.1652 343.9381,-669.0613"/>
+</g>
+<!-- PoolManager.modifyPosition&#45;&gt;Hooks.InvalidHookResponse -->
+<g id="edge36" class="edge">
+<title>PoolManager.modifyPosition-&gt;Hooks.InvalidHookResponse</title>
+<path fill="none" stroke="#ffa500" d="M197.6588,-1200.3392C219.4641,-1197.8762 242.2259,-1190.2698 256.8897,-1173.3447 324.4661,-1095.3476 224.1921,-787.3561 292.8897,-710.3447 304.1909,-697.6759 319.5053,-689.8734 335.8503,-685.0587"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="336.7597,-688.4388 345.5706,-682.555 335.0137,-681.6601 336.7597,-688.4388"/>
+</g>
+<!-- Pool.ModifyPositionParams -->
+<g id="node58" class="node">
+<title>Pool.ModifyPositionParams</title>
+<ellipse fill="none" stroke="#000000" cx="432.0884" cy="-407.3447" rx="100.1781" ry="18"/>
+<text text-anchor="middle" x="432.0884" y="-403.1447" font-family="Times,serif" font-size="14.00" fill="#000000">ModifyPositionParams</text>
+</g>
+<!-- PoolManager.modifyPosition&#45;&gt;Pool.ModifyPositionParams -->
+<g id="edge32" class="edge">
+<title>PoolManager.modifyPosition-&gt;Pool.ModifyPositionParams</title>
+<path fill="none" stroke="#ffa500" d="M207.0104,-1190.6051C225.8754,-1186.8001 244.4538,-1179.0865 256.8897,-1164.3447 357.6099,-1044.9486 201.7645,-589.2155 292.8897,-462.3447 306.4243,-443.5009 327.4508,-431.1112 349.0966,-422.9657"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="350.4268,-426.2089 358.7246,-419.6212 348.1298,-419.5965 350.4268,-426.2089"/>
+</g>
+<!-- PoolManager.swap -->
+<g id="node13" class="node">
+<title>PoolManager.swap</title>
+<ellipse fill="none" stroke="#0000ff" cx="136.4449" cy="-921.3447" rx="30.7577" ry="18"/>
+<text text-anchor="middle" x="136.4449" y="-917.1447" font-family="Times,serif" font-size="14.00" fill="#000000">swap</text>
+</g>
+<!-- PoolManager.swap&#45;&gt;PoolManager._accountPoolBalanceDelta -->
+<g id="edge41" class="edge">
+<title>PoolManager.swap-&gt;PoolManager._accountPoolBalanceDelta</title>
+<path fill="none" stroke="#00ff00" d="M167.4052,-922.0211C193.3478,-923.9673 230.3017,-930.0901 256.8897,-948.3447 280.669,-964.671 268.8767,-986.3642 292.8897,-1002.3447 301.9901,-1008.401 312.1217,-1013.1686 322.653,-1016.9124"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="321.827,-1020.3237 332.4188,-1020.0704 323.9808,-1013.6633 321.827,-1020.3237"/>
+</g>
+<!-- PoolManager.swap&#45;&gt;PoolManager.address -->
+<g id="edge42" class="edge">
+<title>PoolManager.swap-&gt;PoolManager.address</title>
+<path fill="none" stroke="#00ff00" d="M167.2353,-919.3696C194.7229,-919.408 234.0618,-924.2164 256.8897,-948.3447 323.7768,-1019.0421 224.9869,-1094.6224 292.8897,-1164.3447 315.7816,-1187.85 352.5692,-1194.1984 382.5776,-1194.8836"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="382.8669,-1198.3842 392.8754,-1194.9086 382.8839,-1191.3842 382.8669,-1198.3842"/>
+</g>
+<!-- PoolManager.Swap -->
+<g id="node39" class="node">
+<title>PoolManager.Swap</title>
+<ellipse fill="none" stroke="#000000" cx="432.0884" cy="-867.3447" rx="32.4827" ry="18"/>
+<text text-anchor="middle" x="432.0884" y="-863.1447" font-family="Times,serif" font-size="14.00" fill="#000000">Swap</text>
+</g>
+<!-- PoolManager.swap&#45;&gt;PoolManager.Swap -->
+<g id="edge44" class="edge">
+<title>PoolManager.swap-&gt;PoolManager.Swap</title>
+<path fill="none" stroke="#00ff00" d="M166.1459,-915.9198C219.2993,-906.2112 330.7612,-885.8524 391.1339,-874.8252"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="391.8693,-878.2488 401.0777,-873.0089 390.6115,-871.3628 391.8693,-878.2488"/>
+</g>
+<!-- PoolManager.swap&#45;&gt;PoolKey.toId -->
+<g id="edge39" class="edge">
+<title>PoolManager.swap-&gt;PoolKey.toId</title>
+<path fill="none" stroke="#ffa500" d="M167.0751,-923.8872C195.0482,-924.3461 235.2409,-919.9587 256.8897,-894.3447 305.5155,-836.8129 238.2285,-269.1765 292.8897,-217.3447 337.7821,-174.7761 516.1152,-189.3539 571.287,-217.3447 590.4423,-227.063 584.4152,-241.3861 599.8297,-256.3447 613.2147,-269.3338 630.244,-281.2881 644.6181,-290.3532"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="642.8162,-293.354 653.1686,-295.6076 646.4811,-287.39 642.8162,-293.354"/>
+</g>
+<!-- PoolManager.swap&#45;&gt;Hooks.InvalidHookResponse -->
+<g id="edge38" class="edge">
+<title>PoolManager.swap-&gt;Hooks.InvalidHookResponse</title>
+<path fill="none" stroke="#ffa500" d="M166.3348,-916.2748C193.7784,-914.1993 233.6074,-909.4835 256.8897,-885.3447 317.4658,-822.5406 231.4114,-754.266 292.8897,-692.3447 304.3084,-680.8438 319.0602,-673.4726 334.6755,-669.0207"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="335.6087,-672.3956 344.4878,-666.6152 333.942,-665.597 335.6087,-672.3956"/>
+</g>
+<!-- PoolManager.swap&#45;&gt;Hooks.InvalidHookResponse -->
+<g id="edge43" class="edge">
+<title>PoolManager.swap-&gt;Hooks.InvalidHookResponse</title>
+<path fill="none" stroke="#ffa500" d="M163.7433,-929.9469C191.2166,-932.4808 232.8635,-928.2547 256.8897,-903.3447 317.4658,-840.5406 231.4114,-772.266 292.8897,-710.3447 305.0686,-698.0782 321.0391,-690.5094 337.8049,-685.7986"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="338.8777,-689.1388 347.7456,-683.3413 337.1978,-682.3434 338.8777,-689.1388"/>
+</g>
+<!-- PoolManager.swap&#45;&gt;BalanceDelta.amount0 -->
+<g id="edge45" class="edge">
+<title>PoolManager.swap-&gt;BalanceDelta.amount0</title>
+<path fill="none" stroke="#ffa500" d="M167.0886,-923.8986C195.0714,-924.3656 235.2707,-919.9838 256.8897,-894.3447 307.6661,-834.1268 235.7954,-240.6097 292.8897,-186.3447 339.1629,-142.3647 531.9048,-173.1261 624.2885,-191.0036"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="623.7554,-194.4657 634.242,-192.9552 625.1024,-187.5965 623.7554,-194.4657"/>
+</g>
+<!-- PoolManager.swap&#45;&gt;BalanceDelta.amount1 -->
+<g id="edge46" class="edge">
+<title>PoolManager.swap-&gt;BalanceDelta.amount1</title>
+<path fill="none" stroke="#ffa500" d="M167.0994,-923.9077C195.0899,-924.3812 235.2946,-920.0039 256.8897,-894.3447 309.5393,-831.787 234.5706,-216.6538 292.8897,-159.3447 383.2443,-70.5552 551.4539,-107.7744 630.6875,-132.2508"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="629.7625,-135.6291 640.3526,-135.3106 631.8753,-128.9556 629.7625,-135.6291"/>
+</g>
+<!-- Pool.SwapParams -->
+<g id="node59" class="node">
+<title>Pool.SwapParams</title>
+<ellipse fill="none" stroke="#000000" cx="432.0884" cy="-353.3447" rx="60.8313" ry="18"/>
+<text text-anchor="middle" x="432.0884" y="-349.1447" font-family="Times,serif" font-size="14.00" fill="#000000">SwapParams</text>
+</g>
+<!-- PoolManager.swap&#45;&gt;Pool.SwapParams -->
+<g id="edge40" class="edge">
+<title>PoolManager.swap-&gt;Pool.SwapParams</title>
+<path fill="none" stroke="#ffa500" d="M167.2458,-923.8081C195.1379,-924.1755 235.0964,-919.6947 256.8897,-894.3447 331.5346,-807.5181 216.9965,-466.0824 292.8897,-380.3447 310.1748,-360.8175 336.9913,-352.8281 362.4906,-350.1714"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="362.8552,-353.6536 372.5502,-349.3807 362.3067,-346.6751 362.8552,-353.6536"/>
+</g>
+<!-- PoolManager.donate -->
+<g id="node14" class="node">
+<title>PoolManager.donate</title>
+<ellipse fill="none" stroke="#0000ff" cx="136.4449" cy="-1137.3447" rx="36.5594" ry="18"/>
+<text text-anchor="middle" x="136.4449" y="-1133.1447" font-family="Times,serif" font-size="14.00" fill="#000000">donate</text>
+</g>
+<!-- PoolManager.donate&#45;&gt;PoolManager._getPool -->
+<g id="edge48" class="edge">
+<title>PoolManager.donate-&gt;PoolManager._getPool</title>
+<path fill="none" stroke="#00ff00" d="M170.9375,-1131.0446C222.6297,-1121.6029 320.5298,-1103.7212 380.6717,-1092.7361"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="381.5058,-1096.1418 390.7142,-1090.9018 380.248,-1089.2557 381.5058,-1096.1418"/>
+</g>
+<!-- PoolManager.donate&#45;&gt;PoolManager._accountPoolBalanceDelta -->
+<g id="edge49" class="edge">
+<title>PoolManager.donate-&gt;PoolManager._accountPoolBalanceDelta</title>
+<path fill="none" stroke="#00ff00" d="M173.2617,-1136.1716C198.6943,-1133.7624 232.245,-1127.2652 256.8897,-1110.3447 280.669,-1094.0185 268.8767,-1072.3253 292.8897,-1056.3447 301.9901,-1050.2885 312.1217,-1045.5209 322.653,-1041.7771"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="323.9808,-1045.0262 332.4188,-1038.6191 321.827,-1038.3658 323.9808,-1045.0262"/>
+</g>
+<!-- PoolManager.donate&#45;&gt;Hooks.InvalidHookResponse -->
+<g id="edge47" class="edge">
+<title>PoolManager.donate-&gt;Hooks.InvalidHookResponse</title>
+<path fill="none" stroke="#ffa500" d="M172.0723,-1132.4239C199.507,-1130.432 236.1411,-1125.0478 256.8897,-1101.3447 316.9858,-1032.6916 231.8067,-760.1213 292.8897,-692.3447 305.672,-678.1618 323.4861,-670.0946 342.1099,-665.9894"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="342.9959,-669.3856 352.2052,-664.1474 341.7394,-662.4993 342.9959,-669.3856"/>
+</g>
+<!-- PoolManager.donate&#45;&gt;Hooks.InvalidHookResponse -->
+<g id="edge50" class="edge">
+<title>PoolManager.donate-&gt;Hooks.InvalidHookResponse</title>
+<path fill="none" stroke="#ffa500" d="M167.9483,-1146.7475C195.7275,-1148.9337 235.0825,-1144.2571 256.8897,-1119.3447 316.9858,-1050.6916 231.8067,-778.1213 292.8897,-710.3447 304.2554,-697.7337 319.5994,-689.9578 335.9535,-685.1513"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="336.864,-688.5311 345.6768,-682.6503 335.1202,-681.7518 336.864,-688.5311"/>
+</g>
+<!-- PoolManager.take -->
+<g id="node15" class="node">
+<title>PoolManager.take</title>
+<ellipse fill="none" stroke="#0000ff" cx="432.0884" cy="-1245.3447" rx="27.2447" ry="18"/>
+<text text-anchor="middle" x="432.0884" y="-1241.1447" font-family="Times,serif" font-size="14.00" fill="#000000">take</text>
+</g>
+<!-- PoolManager.take&#45;&gt;PoolManager._accountDelta -->
+<g id="edge51" class="edge">
+<title>PoolManager.take-&gt;PoolManager._accountDelta</title>
+<path fill="none" stroke="#00ff00" d="M459.3804,-1246.6322C489.577,-1246.6738 538.3184,-1242.4888 571.287,-1218.3447 626.2941,-1178.0611 655.1251,-1099.1378 667.1429,-1057.1556"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="670.5696,-1057.8939 669.8417,-1047.3241 663.8193,-1056.0409 670.5696,-1057.8939"/>
+</g>
+<!-- amount.toInt128 -->
+<g id="node60" class="node">
+<title>amount.toInt128</title>
+<ellipse fill="none" stroke="#000000" cx="674.0933" cy="-728.3447" rx="43.5233" ry="18"/>
+<text text-anchor="middle" x="674.0933" y="-724.1447" font-family="Times,serif" font-size="14.00" fill="#000000">toInt128</text>
+</g>
+<!-- PoolManager.take&#45;&gt;amount.toInt128 -->
+<g id="edge52" class="edge">
+<title>PoolManager.take-&gt;amount.toInt128</title>
+<path fill="none" stroke="#ffa500" d="M458.7307,-1248.8366C490.6972,-1251.3637 543.4556,-1249.9261 571.287,-1218.3447 635.3367,-1145.6652 553.4342,-868.3867 599.8297,-783.3447 608.1018,-768.1822 622.5499,-756.0458 636.5166,-747.0717"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="638.34,-750.0593 645.0912,-741.894 634.7216,-744.067 638.34,-750.0593"/>
+</g>
+<!-- Currency.transfer -->
+<g id="node61" class="node">
+<title>Currency.transfer</title>
+<ellipse fill="none" stroke="#000000" cx="674.0933" cy="-589.3447" rx="40.5441" ry="18"/>
+<text text-anchor="middle" x="674.0933" y="-585.1447" font-family="Times,serif" font-size="14.00" fill="#000000">transfer</text>
+</g>
+<!-- PoolManager.take&#45;&gt;Currency.transfer -->
+<g id="edge53" class="edge">
+<title>PoolManager.take-&gt;Currency.transfer</title>
+<path fill="none" stroke="#ffa500" d="M458.8258,-1248.9197C490.8883,-1251.5305 543.7432,-1250.1773 571.287,-1218.3447 615.1034,-1167.7058 560.1227,-670.2663 599.8297,-616.3447 606.1792,-607.7223 615.5606,-601.8478 625.5349,-597.8471"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="626.8612,-601.0929 635.1998,-594.557 624.6054,-594.4663 626.8612,-601.0929"/>
+</g>
+<!-- PoolManager.settle -->
+<g id="node16" class="node">
+<title>PoolManager.settle</title>
+<ellipse fill="none" stroke="#0000ff" cx="432.0884" cy="-1353.3447" rx="31.3333" ry="18"/>
+<text text-anchor="middle" x="432.0884" y="-1349.1447" font-family="Times,serif" font-size="14.00" fill="#000000">settle</text>
+</g>
+<!-- PoolManager.settle&#45;&gt;PoolManager._accountDelta -->
+<g id="edge55" class="edge">
+<title>PoolManager.settle-&gt;PoolManager._accountDelta</title>
+<path fill="none" stroke="#00ff00" d="M463.2898,-1355.685C494.3051,-1356.2745 541.4422,-1352.2355 571.287,-1326.3447 592.4571,-1307.9795 645.8634,-1127.7981 666.1281,-1057.3609"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="669.5872,-1057.9949 668.9781,-1047.4176 662.8582,-1056.0661 669.5872,-1057.9949"/>
+</g>
+<!-- Currency.balanceOfSelf -->
+<g id="node62" class="node">
+<title>Currency.balanceOfSelf</title>
+<ellipse fill="none" stroke="#000000" cx="674.0933" cy="-643.3447" rx="66.0281" ry="18"/>
+<text text-anchor="middle" x="674.0933" y="-639.1447" font-family="Times,serif" font-size="14.00" fill="#000000">balanceOfSelf</text>
+</g>
+<!-- PoolManager.settle&#45;&gt;Currency.balanceOfSelf -->
+<g id="edge54" class="edge">
+<title>PoolManager.settle-&gt;Currency.balanceOfSelf</title>
+<path fill="none" stroke="#ffa500" d="M462.8763,-1357.2286C495.1947,-1359.3872 544.9007,-1356.9001 571.287,-1326.3447 616.9399,-1273.4788 566.995,-759.996 599.8297,-698.3447 607.183,-684.538 619.7074,-673.2702 632.3973,-664.61"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="634.5966,-667.3588 641.1476,-659.032 630.8338,-661.4561 634.5966,-667.3588"/>
+</g>
+<!-- paid.toInt128 -->
+<g id="node63" class="node">
+<title>paid.toInt128</title>
+<ellipse fill="none" stroke="#000000" cx="674.0933" cy="-2140.3447" rx="43.5233" ry="18"/>
+<text text-anchor="middle" x="674.0933" y="-2136.1447" font-family="Times,serif" font-size="14.00" fill="#000000">toInt128</text>
+</g>
+<!-- PoolManager.settle&#45;&gt;paid.toInt128 -->
+<g id="edge56" class="edge">
+<title>PoolManager.settle-&gt;paid.toInt128</title>
+<path fill="none" stroke="#ffa500" d="M462.9138,-1349.4286C495.2644,-1347.2423 544.9977,-1349.7059 571.287,-1380.3447 624.1457,-1441.9486 553.1304,-2043.9501 599.8297,-2110.3447 605.8921,-2118.9638 614.8728,-2125.1089 624.513,-2129.4894"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="623.2966,-2132.7719 633.8839,-2133.1718 625.8567,-2126.2569 623.2966,-2132.7719"/>
+</g>
+<!-- PoolManager.mint -->
+<g id="node17" class="node">
+<title>PoolManager.mint</title>
+<ellipse fill="none" stroke="#0000ff" cx="432.0884" cy="-1407.3447" rx="28.991" ry="18"/>
+<text text-anchor="middle" x="432.0884" y="-1403.1447" font-family="Times,serif" font-size="14.00" fill="#000000">mint</text>
+</g>
+<!-- PoolManager.mint&#45;&gt;PoolManager._accountDelta -->
+<g id="edge57" class="edge">
+<title>PoolManager.mint-&gt;PoolManager._accountDelta</title>
+<path fill="none" stroke="#00ff00" d="M460.539,-1410.0302C491.7741,-1411.3247 541.4432,-1408.2591 571.287,-1380.3447 607.546,-1346.43 586.2292,-1320.0936 599.8297,-1272.3447 622.14,-1194.0179 650.8947,-1102.2844 665.1955,-1057.2176"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="668.5702,-1058.1545 668.2644,-1047.5641 661.8992,-1056.0337 668.5702,-1058.1545"/>
+</g>
+<!-- PoolManager._mint -->
+<g id="node40" class="node">
+<title>PoolManager._mint</title>
+<ellipse fill="none" stroke="#000000" cx="674.0933" cy="-1407.3447" rx="33.646" ry="18"/>
+<text text-anchor="middle" x="674.0933" y="-1403.1447" font-family="Times,serif" font-size="14.00" fill="#000000">_mint</text>
+</g>
+<!-- PoolManager.mint&#45;&gt;PoolManager._mint -->
+<g id="edge59" class="edge">
+<title>PoolManager.mint-&gt;PoolManager._mint</title>
+<path fill="none" stroke="#00ff00" d="M461.2798,-1407.3447C503.2091,-1407.3447 580.8184,-1407.3447 629.8296,-1407.3447"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="630.131,-1410.8448 640.1309,-1407.3447 630.1309,-1403.8448 630.131,-1410.8448"/>
+</g>
+<!-- PoolManager.mint&#45;&gt;amount.toInt128 -->
+<g id="edge58" class="edge">
+<title>PoolManager.mint-&gt;amount.toInt128</title>
+<path fill="none" stroke="#ffa500" d="M460.2431,-1411.0297C492.4241,-1413.4807 544.1397,-1411.7066 571.287,-1380.3447 614.7503,-1330.134 568.5434,-841.9223 599.8297,-783.3447 607.9669,-768.1094 622.3936,-755.9614 636.3807,-746.9983"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="638.2077,-749.9839 644.9728,-741.8301 634.5995,-743.9854 638.2077,-749.9839"/>
+</g>
+<!-- PoolManager.burn -->
+<g id="node18" class="node">
+<title>PoolManager.burn</title>
+<ellipse fill="none" stroke="#0000ff" cx="432.0884" cy="-1299.3447" rx="28.9754" ry="18"/>
+<text text-anchor="middle" x="432.0884" y="-1295.1447" font-family="Times,serif" font-size="14.00" fill="#000000">burn</text>
+</g>
+<!-- PoolManager.burn&#45;&gt;PoolManager._accountDelta -->
+<g id="edge60" class="edge">
+<title>PoolManager.burn-&gt;PoolManager._accountDelta</title>
+<path fill="none" stroke="#00ff00" d="M460.6674,-1301.2343C491.3218,-1301.7193 539.8268,-1297.8414 571.287,-1272.3447 639.3975,-1217.1453 663.1283,-1108.6649 670.7685,-1057.4213"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="674.252,-1057.7822 672.1648,-1047.395 667.3189,-1056.8166 674.252,-1057.7822"/>
+</g>
+<!-- PoolManager._burn -->
+<g id="node41" class="node">
+<title>PoolManager._burn</title>
+<ellipse fill="none" stroke="#000000" cx="674.0933" cy="-1299.3447" rx="33.6305" ry="18"/>
+<text text-anchor="middle" x="674.0933" y="-1295.1447" font-family="Times,serif" font-size="14.00" fill="#000000">_burn</text>
+</g>
+<!-- PoolManager.burn&#45;&gt;PoolManager._burn -->
+<g id="edge62" class="edge">
+<title>PoolManager.burn-&gt;PoolManager._burn</title>
+<path fill="none" stroke="#00ff00" d="M461.2798,-1299.3447C503.2091,-1299.3447 580.8184,-1299.3447 629.8296,-1299.3447"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="630.131,-1302.8448 640.1309,-1299.3447 630.1309,-1295.8448 630.131,-1302.8448"/>
+</g>
+<!-- PoolManager.burn&#45;&gt;amount.toInt128 -->
+<g id="edge61" class="edge">
+<title>PoolManager.burn-&gt;amount.toInt128</title>
+<path fill="none" stroke="#ffa500" d="M460.4718,-1303.0007C492.6179,-1305.3717 544.056,-1303.4706 571.287,-1272.3447 642.9602,-1190.4202 548.0433,-879.0884 599.8297,-783.3447 608.047,-768.1525 622.4864,-756.0113 636.4614,-747.0417"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="638.2862,-750.0285 645.0431,-741.8678 634.672,-744.0337 638.2862,-750.0285"/>
+</g>
+<!-- PoolManager.setProtocolFees -->
+<g id="node19" class="node">
+<title>PoolManager.setProtocolFees</title>
+<ellipse fill="none" stroke="#0000ff" cx="136.4449" cy="-1677.3447" rx="72.3652" ry="18"/>
+<text text-anchor="middle" x="136.4449" y="-1673.1447" font-family="Times,serif" font-size="14.00" fill="#000000">setProtocolFees</text>
+</g>
+<!-- PoolManager.setProtocolFees&#45;&gt;PoolManager._fetchProtocolFees -->
+<g id="edge63" class="edge">
+<title>PoolManager.setProtocolFees-&gt;PoolManager._fetchProtocolFees</title>
+<path fill="none" stroke="#00ff00" d="M204.8312,-1683.3816C222.9025,-1687.3686 241.6082,-1693.8529 256.8897,-1704.3447 280.669,-1720.671 268.8767,-1742.3642 292.8897,-1758.3447 306.7213,-1767.5496 322.9349,-1773.7775 339.3132,-1777.9585"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="338.9823,-1781.4737 349.5125,-1780.3055 340.5521,-1774.652 338.9823,-1781.4737"/>
+</g>
+<!-- PoolManager.ProtocolFeeUpdated -->
+<g id="node42" class="node">
+<title>PoolManager.ProtocolFeeUpdated</title>
+<ellipse fill="none" stroke="#000000" cx="432.0884" cy="-1677.3447" rx="90.3294" ry="18"/>
+<text text-anchor="middle" x="432.0884" y="-1673.1447" font-family="Times,serif" font-size="14.00" fill="#000000">ProtocolFeeUpdated</text>
+</g>
+<!-- PoolManager.setProtocolFees&#45;&gt;PoolManager.ProtocolFeeUpdated -->
+<g id="edge65" class="edge">
+<title>PoolManager.setProtocolFees-&gt;PoolManager.ProtocolFeeUpdated</title>
+<path fill="none" stroke="#00ff00" d="M208.7674,-1677.3447C245.6439,-1677.3447 291.0892,-1677.3447 331.3367,-1677.3447"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="331.4488,-1680.8448 341.4488,-1677.3447 331.4488,-1673.8448 331.4488,-1680.8448"/>
+</g>
+<!-- PoolManager.setProtocolFees&#45;&gt;PoolKey.toId -->
+<g id="edge64" class="edge">
+<title>PoolManager.setProtocolFees-&gt;PoolKey.toId</title>
+<path fill="none" stroke="#ffa500" d="M208.8131,-1676.4717C227.1372,-1672.5614 244.9773,-1664.8254 256.8897,-1650.3447 304.8012,-1592.1041 238.8605,-345.9596 292.8897,-293.3447 341.1115,-246.3853 553.0969,-282.8271 638.3764,-299.8311"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="637.8696,-303.2993 648.3648,-301.8498 639.2564,-296.4381 637.8696,-303.2993"/>
+</g>
+<!-- PoolManager.setHookFees -->
+<g id="node20" class="node">
+<title>PoolManager.setHookFees</title>
+<ellipse fill="none" stroke="#0000ff" cx="136.4449" cy="-1623.3447" rx="60.8332" ry="18"/>
+<text text-anchor="middle" x="136.4449" y="-1619.1447" font-family="Times,serif" font-size="14.00" fill="#000000">setHookFees</text>
+</g>
+<!-- PoolManager.setHookFees&#45;&gt;PoolManager._fetchHookFees -->
+<g id="edge66" class="edge">
+<title>PoolManager.setHookFees-&gt;PoolManager._fetchHookFees</title>
+<path fill="none" stroke="#00ff00" d="M195.816,-1627.5799C216.535,-1631.3073 239.0466,-1638.0941 256.8897,-1650.3447 280.669,-1666.671 268.8767,-1688.3642 292.8897,-1704.3447 309.4571,-1715.3702 329.4421,-1722.1248 349.0341,-1726.2063"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="348.4392,-1729.6557 358.9122,-1728.0539 349.7262,-1722.775 348.4392,-1729.6557"/>
+</g>
+<!-- PoolManager.HookFeeUpdated -->
+<g id="node43" class="node">
+<title>PoolManager.HookFeeUpdated</title>
+<ellipse fill="none" stroke="#000000" cx="432.0884" cy="-1623.3447" rx="79.298" ry="18"/>
+<text text-anchor="middle" x="432.0884" y="-1619.1447" font-family="Times,serif" font-size="14.00" fill="#000000">HookFeeUpdated</text>
+</g>
+<!-- PoolManager.setHookFees&#45;&gt;PoolManager.HookFeeUpdated -->
+<g id="edge68" class="edge">
+<title>PoolManager.setHookFees-&gt;PoolManager.HookFeeUpdated</title>
+<path fill="none" stroke="#00ff00" d="M197.7024,-1623.3447C239.6162,-1623.3447 295.8661,-1623.3447 342.7551,-1623.3447"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="342.916,-1626.8448 352.916,-1623.3447 342.9159,-1619.8448 342.916,-1626.8448"/>
+</g>
+<!-- PoolManager.setHookFees&#45;&gt;PoolKey.toId -->
+<g id="edge67" class="edge">
+<title>PoolManager.setHookFees-&gt;PoolKey.toId</title>
+<path fill="none" stroke="#ffa500" d="M164.8528,-1607.3356C193.8755,-1589.2149 237.3669,-1556.7532 256.8897,-1515.3447 298.1959,-1427.7334 241.4105,-726.3925 292.8897,-644.3447 367.4769,-525.4676 471.6068,-594.1318 571.287,-495.3447 618.9283,-448.1303 650.4587,-374.1643 664.9396,-334.551"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="668.2735,-335.622 668.333,-325.0273 661.6796,-333.2725 668.2735,-335.622"/>
+</g>
+<!-- PoolManager.updateDynamicSwapFee -->
+<g id="node21" class="node">
+<title>PoolManager.updateDynamicSwapFee</title>
+<ellipse fill="none" stroke="#0000ff" cx="136.4449" cy="-1488.3447" rx="107.6463" ry="18"/>
+<text text-anchor="middle" x="136.4449" y="-1484.1447" font-family="Times,serif" font-size="14.00" fill="#000000">updateDynamicSwapFee</text>
+</g>
+<!-- PoolManager.updateDynamicSwapFee&#45;&gt;PoolManager._fetchDynamicSwapFee -->
+<g id="edge69" class="edge">
+<title>PoolManager.updateDynamicSwapFee-&gt;PoolManager._fetchDynamicSwapFee</title>
+<path fill="none" stroke="#00ff00" d="M179.1018,-1504.8935C210.2736,-1516.5363 253.7585,-1531.8521 292.8897,-1542.3447 310.1428,-1546.971 328.7988,-1551.1439 346.6762,-1554.7487"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="346.0254,-1558.1877 356.5141,-1556.6923 347.3821,-1551.3205 346.0254,-1558.1877"/>
+</g>
+<!-- PoolManager.DynamicSwapFeeUpdated -->
+<g id="node44" class="node">
+<title>PoolManager.DynamicSwapFeeUpdated</title>
+<ellipse fill="none" stroke="#000000" cx="432.0884" cy="-1515.3447" rx="114.589" ry="18"/>
+<text text-anchor="middle" x="432.0884" y="-1511.1447" font-family="Times,serif" font-size="14.00" fill="#000000">DynamicSwapFeeUpdated</text>
+</g>
+<!-- PoolManager.updateDynamicSwapFee&#45;&gt;PoolManager.DynamicSwapFeeUpdated -->
+<g id="edge71" class="edge">
+<title>PoolManager.updateDynamicSwapFee-&gt;PoolManager.DynamicSwapFeeUpdated</title>
+<path fill="none" stroke="#00ff00" d="M231.2082,-1496.9991C260.4186,-1499.6668 292.816,-1502.6255 322.9143,-1505.3743"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="322.7486,-1508.8736 333.0255,-1506.2977 323.3853,-1501.9026 322.7486,-1508.8736"/>
+</g>
+<!-- PoolManager.FeeNotDynamic -->
+<g id="node45" class="node">
+<title>PoolManager.FeeNotDynamic</title>
+<ellipse fill="none" stroke="#000000" cx="432.0884" cy="-1461.3447" rx="74.7188" ry="18"/>
+<text text-anchor="middle" x="432.0884" y="-1457.1447" font-family="Times,serif" font-size="14.00" fill="#000000">FeeNotDynamic</text>
+</g>
+<!-- PoolManager.updateDynamicSwapFee&#45;&gt;PoolManager.FeeNotDynamic -->
+<g id="edge72" class="edge">
+<title>PoolManager.updateDynamicSwapFee-&gt;PoolManager.FeeNotDynamic</title>
+<path fill="none" stroke="#00ff00" d="M231.2082,-1479.6904C269.9579,-1476.1515 314.316,-1472.1004 351.4755,-1468.7068"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="352.1146,-1472.1631 361.7548,-1467.768 351.4779,-1465.1921 352.1146,-1472.1631"/>
+</g>
+<!-- PoolManager.updateDynamicSwapFee&#45;&gt;PoolKey.toId -->
+<g id="edge70" class="edge">
+<title>PoolManager.updateDynamicSwapFee-&gt;PoolKey.toId</title>
+<path fill="none" stroke="#ffa500" d="M147.4101,-1470.2059C172.3236,-1427.905 232.8829,-1318.6811 256.8897,-1218.3447 275.477,-1140.6594 238.8747,-559.1909 292.8897,-500.3447 377.3356,-408.346 465.5091,-528.7218 571.287,-462.3447 619.4141,-432.1444 649.9509,-370.2334 664.3417,-334.4707"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="667.6135,-335.714 667.9737,-325.1253 661.0889,-333.1783 667.6135,-335.714"/>
+</g>
+<!-- PoolManager.extsload -->
+<g id="node22" class="node">
+<title>PoolManager.extsload</title>
+<ellipse fill="none" stroke="#0000ff" cx="136.4449" cy="-975.3447" rx="43.4377" ry="18"/>
+<text text-anchor="middle" x="136.4449" y="-971.1447" font-family="Times,serif" font-size="14.00" fill="#000000">extsload</text>
+</g>
+<!-- PoolManager.getLockLength -->
+<g id="node23" class="node">
+<title>PoolManager.getLockLength</title>
+<ellipse fill="none" stroke="#0000ff" cx="136.4449" cy="-1839.3447" rx="70.0674" ry="18"/>
+<text text-anchor="middle" x="136.4449" y="-1835.1447" font-family="Times,serif" font-size="14.00" fill="#000000">getLockLength</text>
+</g>
+<!-- PoolManager.getLockLength&#45;&gt;Lockers.length -->
+<g id="edge73" class="edge">
+<title>PoolManager.getLockLength-&gt;Lockers.length</title>
+<path fill="none" stroke="#ffa500" d="M206.5572,-1840.4763C225.4094,-1844.2924 244.0945,-1851.9137 256.8897,-1866.3447 309.7884,-1926.0064 233.7473,-2169.8663 292.8897,-2223.3447 330.4716,-2257.3275 712.8209,-2258.9193 748.8997,-2223.3447 805.1188,-2167.9113 718.3305,-862.9766 768.8997,-802.3447 790.874,-775.9978 830.4189,-770.528 861.3963,-770.9056"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="861.4267,-774.4083 871.5355,-771.236 861.6548,-767.412 861.4267,-774.4083"/>
+</g>
+<!-- PoolManager.getLockNonzeroDeltaCount -->
+<g id="node24" class="node">
+<title>PoolManager.getLockNonzeroDeltaCount</title>
+<ellipse fill="none" stroke="#0000ff" cx="136.4449" cy="-1785.3447" rx="120.3897" ry="18"/>
+<text text-anchor="middle" x="136.4449" y="-1781.1447" font-family="Times,serif" font-size="14.00" fill="#000000">getLockNonzeroDeltaCount</text>
+</g>
+<!-- PoolManager.getLockNonzeroDeltaCount&#45;&gt;Lockers.nonzeroDeltaCount -->
+<g id="edge74" class="edge">
+<title>PoolManager.getLockNonzeroDeltaCount-&gt;Lockers.nonzeroDeltaCount</title>
+<path fill="none" stroke="#ffa500" d="M234.3379,-1795.9191C242.7852,-1800.0295 250.522,-1805.3907 256.8897,-1812.3447 338.6465,-1901.6298 217.2103,-1987.8534 292.8897,-2082.3447 358.1536,-2163.8315 674.569,-2268.6551 748.8997,-2195.3447 777.5199,-2167.1174 743.1564,-779.2185 768.8997,-748.3447 779.3147,-735.854 793.679,-728.0553 809.2077,-723.3473"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="810.2045,-726.7046 819.0021,-720.801 808.4432,-719.9298 810.2045,-726.7046"/>
+</g>
+<!-- PoolManager.&lt;Receive Ether&gt; -->
+<g id="node25" class="node">
+<title>PoolManager.&lt;Receive Ether&gt;</title>
+<ellipse fill="none" stroke="#0000ff" cx="136.4449" cy="-813.3447" rx="76.2086" ry="18"/>
+<text text-anchor="middle" x="136.4449" y="-809.1447" font-family="Times,serif" font-size="14.00" fill="#000000">&lt;Receive Ether&gt;</text>
+</g>
+<!-- key -->
+<g id="node64" class="node">
+<title>key</title>
+<text text-anchor="start" x="121.0809" y="-2344.7447" font-family="Times,serif" font-size="14.00" fill="#000000">Internal Call</text>
+<text text-anchor="start" x="117.1889" y="-2324.7447" font-family="Times,serif" font-size="14.00" fill="#000000">External Call</text>
+<text text-anchor="start" x="94.6503" y="-2304.7447" font-family="Times,serif" font-size="14.00" fill="#000000">Defined Contract</text>
+<text text-anchor="start" x="81.0476" y="-2284.7447" font-family="Times,serif" font-size="14.00" fill="#000000">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node65" class="node">
+<title>key2</title>
+<text text-anchor="start" x="419.8475" y="-2344.7447" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<text text-anchor="start" x="419.8475" y="-2324.7447" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="#d3d3d3" stroke="transparent" points="418.0884,-2299.3447 418.0884,-2319.3447 446.0884,-2319.3447 446.0884,-2299.3447 418.0884,-2299.3447"/>
+<text text-anchor="start" x="419.8475" y="-2304.7447" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="none" stroke="#d3d3d3" points="420.0884,-2281.3447 420.0884,-2297.3447 444.0884,-2297.3447 444.0884,-2281.3447 420.0884,-2281.3447"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge75" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#00ff00" d="M193.4449,-2349.3447C289.7764,-2349.3447 316.3992,-2349.3447 407.8294,-2349.3447"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="408.0884,-2352.8448 418.0884,-2349.3447 408.0883,-2345.8448 408.0884,-2352.8448"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge76" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#ffa500" d="M193.4449,-2329.3447C289.7764,-2329.3447 316.3992,-2329.3447 407.8294,-2329.3447"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="408.0884,-2332.8448 418.0884,-2329.3447 408.0883,-2325.8448 408.0884,-2332.8448"/>
+</g>
+</g>
+</svg>

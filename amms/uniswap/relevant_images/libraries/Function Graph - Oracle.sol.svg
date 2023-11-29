@@ -1,0 +1,159 @@
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0.00 0.00 867.58 346.00">
+<g id="graph0" class="graph" transform="translate(4,342) scale(1)" style="transform: translate(4px, 99%) scale(0.98);">
+<title>G</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-342 863.5841,-342 863.5841,4 -4,4"/>
+<g id="clust1" class="cluster">
+<title>clusterOracle</title>
+<polygon fill="#d3d3d3" stroke="#d3d3d3" points="28.1729,-8 28.1729,-193 851.5841,-193 851.5841,-8 28.1729,-8"/>
+<text text-anchor="middle" x="439.8785" y="-176.4" font-family="Times,serif" font-size="14.00" fill="#000000">Oracle  (lib)</text>
+</g>
+<g id="clust2" class="cluster">
+<title>cluster_01</title>
+<polygon fill="none" stroke="#000000" points="8,-201 8,-330 282.745,-330 282.745,-201 8,-201"/>
+<text text-anchor="middle" x="145.3725" y="-313.4" font-family="Times,serif" font-size="14.00" fill="#000000">Legend</text>
+</g>
+<!-- Oracle.transform -->
+<g id="node1" class="node">
+<title>Oracle.transform</title>
+<ellipse fill="none" stroke="#000000" cx="691.6053" cy="-108" rx="48.652" ry="18"/>
+<text text-anchor="middle" x="691.6053" y="-103.8" font-family="Times,serif" font-size="14.00" fill="#000000">transform</text>
+</g>
+<!-- Oracle.initialize -->
+<g id="node2" class="node">
+<title>Oracle.initialize</title>
+<ellipse fill="none" stroke="#ffffff" cx="81" cy="-142" rx="44.6549" ry="18"/>
+<text text-anchor="middle" x="81" y="-137.8" font-family="Times,serif" font-size="14.00" fill="#000000">initialize</text>
+</g>
+<!-- Oracle.write -->
+<g id="node3" class="node">
+<title>Oracle.write</title>
+<ellipse fill="none" stroke="#ffffff" cx="471.5583" cy="-108" rx="30.7539" ry="18"/>
+<text text-anchor="middle" x="471.5583" y="-103.8" font-family="Times,serif" font-size="14.00" fill="#000000">write</text>
+</g>
+<!-- Oracle.write&#45;&gt;Oracle.transform -->
+<g id="edge1" class="edge">
+<title>Oracle.write-&gt;Oracle.transform</title>
+<path fill="none" stroke="#00ff00" d="M502.6189,-108C536.328,-108 590.938,-108 632.807,-108"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="632.8849,-111.5001 642.8849,-108 632.8849,-104.5001 632.8849,-111.5001"/>
+</g>
+<!-- Oracle.grow -->
+<g id="node4" class="node">
+<title>Oracle.grow</title>
+<ellipse fill="none" stroke="#ffffff" cx="81" cy="-88" rx="30.7597" ry="18"/>
+<text text-anchor="middle" x="81" y="-83.8" font-family="Times,serif" font-size="14.00" fill="#000000">grow</text>
+</g>
+<!-- Oracle.lte -->
+<g id="node5" class="node">
+<title>Oracle.lte</title>
+<ellipse fill="none" stroke="#000000" cx="816.5841" cy="-44" rx="27" ry="18"/>
+<text text-anchor="middle" x="816.5841" y="-39.8" font-family="Times,serif" font-size="14.00" fill="#000000">lte</text>
+</g>
+<!-- Oracle.binarySearch -->
+<g id="node6" class="node">
+<title>Oracle.binarySearch</title>
+<ellipse fill="none" stroke="#ff0000" cx="691.6053" cy="-54" rx="61.9577" ry="18"/>
+<text text-anchor="middle" x="691.6053" y="-49.8" font-family="Times,serif" font-size="14.00" fill="#000000">binarySearch</text>
+</g>
+<!-- Oracle.binarySearch&#45;&gt;Oracle.lte -->
+<g id="edge2" class="edge">
+<title>Oracle.binarySearch-&gt;Oracle.lte</title>
+<path fill="none" stroke="#00ff00" d="M741.7188,-43.3593C754.4297,-42.0948 767.8523,-41.1591 779.7675,-40.73"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="779.8821,-44.2283 789.7946,-40.4877 779.7129,-37.2304 779.8821,-44.2283"/>
+</g>
+<!-- Oracle.binarySearch&#45;&gt;Oracle.lte -->
+<g id="edge3" class="edge">
+<title>Oracle.binarySearch-&gt;Oracle.lte</title>
+<path fill="none" stroke="#00ff00" d="M753.3624,-55.8082C763.1751,-55.0341 773.012,-54.0361 781.9048,-52.8917"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="782.4409,-56.3508 791.8526,-51.4856 781.4612,-49.4197 782.4409,-56.3508"/>
+</g>
+<!-- Oracle.getSurroundingObservations -->
+<g id="node7" class="node">
+<title>Oracle.getSurroundingObservations</title>
+<ellipse fill="none" stroke="#ff0000" cx="471.5583" cy="-34" rx="122.1364" ry="18"/>
+<text text-anchor="middle" x="471.5583" y="-29.8" font-family="Times,serif" font-size="14.00" fill="#000000">getSurroundingObservations</text>
+</g>
+<!-- Oracle.getSurroundingObservations&#45;&gt;Oracle.transform -->
+<g id="edge5" class="edge">
+<title>Oracle.getSurroundingObservations-&gt;Oracle.transform</title>
+<path fill="none" stroke="#00ff00" d="M537.0278,-49.2509C555.4976,-54.0681 575.4951,-59.7759 593.6264,-66 599.5373,-68.0291 626.4863,-79.609 650.6277,-90.0965"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="649.4712,-93.4102 660.0373,-94.1903 652.2639,-86.9914 649.4712,-93.4102"/>
+</g>
+<!-- Oracle.getSurroundingObservations&#45;&gt;Oracle.lte -->
+<g id="edge4" class="edge">
+<title>Oracle.getSurroundingObservations-&gt;Oracle.lte</title>
+<path fill="none" stroke="#00ff00" d="M540.2649,-19.1025C597.5696,-12.3553 681.2398,-8.4108 753.5841,-18 765.5358,-19.5842 778.4379,-22.7891 789.4349,-26.6401"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="788.3281,-29.965 798.9166,-30.3303 790.867,-23.4416 788.3281,-29.965"/>
+</g>
+<!-- Oracle.getSurroundingObservations&#45;&gt;Oracle.lte -->
+<g id="edge6" class="edge">
+<title>Oracle.getSurroundingObservations-&gt;Oracle.lte</title>
+<path fill="none" stroke="#00ff00" d="M592.0801,-31.0669C642.218,-29.2109 700.9038,-29.0172 753.5841,-36 762.0473,-37.1218 770.9871,-39.0563 779.3896,-40.9982"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="778.7698,-44.4476 789.304,-43.3165 780.3636,-37.6315 778.7698,-44.4476"/>
+</g>
+<!-- Oracle.getSurroundingObservations&#45;&gt;Oracle.binarySearch -->
+<g id="edge7" class="edge">
+<title>Oracle.getSurroundingObservations-&gt;Oracle.binarySearch</title>
+<path fill="none" stroke="#00ff00" d="M575.7821,-43.4729C591.577,-44.9085 607.5317,-46.3586 622.3393,-47.7044"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="622.1156,-51.1984 632.3914,-48.6181 622.7493,-44.2272 622.1156,-51.1984"/>
+</g>
+<!-- Oracle.observeSingle -->
+<g id="node8" class="node">
+<title>Oracle.observeSingle</title>
+<ellipse fill="none" stroke="#ffffff" cx="247.745" cy="-34" rx="65.991" ry="18"/>
+<text text-anchor="middle" x="247.745" y="-29.8" font-family="Times,serif" font-size="14.00" fill="#000000">observeSingle</text>
+</g>
+<!-- Oracle.observeSingle&#45;&gt;Oracle.transform -->
+<g id="edge8" class="edge">
+<title>Oracle.observeSingle-&gt;Oracle.transform</title>
+<path fill="none" stroke="#00ff00" d="M291.6902,-47.4893C309.4784,-52.4685 330.3091,-57.6963 349.4901,-61 456.7788,-79.4792 486.4267,-62.0111 593.6264,-81 610.6039,-84.0073 628.8964,-88.6528 645.0262,-93.2477"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="644.1787,-96.6463 654.7587,-96.087 646.1391,-89.9264 644.1787,-96.6463"/>
+</g>
+<!-- Oracle.observeSingle&#45;&gt;Oracle.getSurroundingObservations -->
+<g id="edge9" class="edge">
+<title>Oracle.observeSingle-&gt;Oracle.getSurroundingObservations</title>
+<path fill="none" stroke="#00ff00" d="M313.6859,-34C321.9302,-34 330.5774,-34 339.3983,-34"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="339.419,-37.5001 349.419,-34 339.419,-30.5001 339.419,-37.5001"/>
+</g>
+<!-- Oracle.observe -->
+<g id="node9" class="node">
+<title>Oracle.observe</title>
+<ellipse fill="none" stroke="#ffffff" cx="81" cy="-34" rx="41.1316" ry="18"/>
+<text text-anchor="middle" x="81" y="-29.8" font-family="Times,serif" font-size="14.00" fill="#000000">observe</text>
+</g>
+<!-- Oracle.observe&#45;&gt;Oracle.observeSingle -->
+<g id="edge10" class="edge">
+<title>Oracle.observe-&gt;Oracle.observeSingle</title>
+<path fill="none" stroke="#00ff00" d="M122.2179,-34C137.0729,-34 154.3508,-34 171.2494,-34"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="171.6971,-37.5001 181.6971,-34 171.697,-30.5001 171.6971,-37.5001"/>
+</g>
+<!-- key -->
+<g id="node10" class="node">
+<title>key</title>
+<text text-anchor="start" x="65.636" y="-278.4" font-family="Times,serif" font-size="14.00" fill="#000000">Internal Call</text>
+<text text-anchor="start" x="61.744" y="-258.4" font-family="Times,serif" font-size="14.00" fill="#000000">External Call</text>
+<text text-anchor="start" x="39.2054" y="-238.4" font-family="Times,serif" font-size="14.00" fill="#000000">Defined Contract</text>
+<text text-anchor="start" x="25.6027" y="-218.4" font-family="Times,serif" font-size="14.00" fill="#000000">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node11" class="node">
+<title>key2</title>
+<text text-anchor="start" x="235.5041" y="-278.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<text text-anchor="start" x="235.5041" y="-258.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="#d3d3d3" stroke="transparent" points="233.745,-233 233.745,-253 261.745,-253 261.745,-233 233.745,-233"/>
+<text text-anchor="start" x="235.5041" y="-238.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="none" stroke="#d3d3d3" points="235.745,-215 235.745,-231 259.745,-231 259.745,-215 235.745,-215"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge11" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#00ff00" d="M138,-283C176.8964,-283 189.1275,-283 223.4408,-283"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="223.7451,-286.5001 233.745,-283 223.745,-279.5001 223.7451,-286.5001"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge12" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#ffa500" d="M138,-263C176.8964,-263 189.1275,-263 223.4408,-263"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="223.7451,-266.5001 233.745,-263 223.745,-259.5001 223.7451,-266.5001"/>
+</g>
+</g>
+</svg>

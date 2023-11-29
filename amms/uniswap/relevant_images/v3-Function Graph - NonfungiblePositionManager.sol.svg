@@ -1,0 +1,569 @@
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0.00 0.00 613.57 1496.00">
+<g id="graph0" class="graph" transform="translate(121.45365866178923,1293.7445752824674) scale(0.8122523963562372)" style="transform: translate(4px, 99%) scale(0.98);">
+<title>G</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-1492 609.5695,-1492 609.5695,4 -4,4"/>
+<g id="clust1" class="cluster">
+<title>clusterNonfungiblePositionManager</title>
+<polygon fill="#d3d3d3" stroke="#d3d3d3" points="8,-510 8,-1343 597.5695,-1343 597.5695,-510 8,-510"/>
+<text text-anchor="middle" x="302.7848" y="-1326.4" font-family="Times,serif" font-size="14.00" fill="#000000">NonfungiblePositionManager</text>
+</g>
+<g id="clust2" class="cluster">
+<title>clusterPositionKey</title>
+<polygon fill="none" stroke="#d3d3d3" points="377.13,-425 377.13,-502 481.7123,-502 481.7123,-425 377.13,-425"/>
+<text text-anchor="middle" x="429.4211" y="-485.4" font-family="Times,serif" font-size="14.00" fill="#000000">PositionKey</text>
+</g>
+<g id="clust3" class="cluster">
+<title>clusterIUniswapV3Pool</title>
+<polygon fill="none" stroke="#d3d3d3" points="373.5086,-232 373.5086,-417 486.3337,-417 486.3337,-232 373.5086,-232"/>
+<text text-anchor="middle" x="429.9211" y="-400.4" font-family="Times,serif" font-size="14.00" fill="#000000">IUniswapV3Pool</text>
+</g>
+<g id="clust4" class="cluster">
+<title>clusterPoolAddress</title>
+<polygon fill="none" stroke="#d3d3d3" points="345.489,-93 345.489,-224 513.3533,-224 513.3533,-93 345.489,-93"/>
+<text text-anchor="middle" x="429.4211" y="-207.4" font-family="Times,serif" font-size="14.00" fill="#000000">PoolAddress</text>
+</g>
+<g id="clust5" class="cluster">
+<title>clusterFullMath</title>
+<polygon fill="none" stroke="#d3d3d3" points="380.8769,-8 380.8769,-85 477.9654,-85 477.9654,-8 380.8769,-8"/>
+<text text-anchor="middle" x="429.4211" y="-68.4" font-family="Times,serif" font-size="14.00" fill="#000000">FullMath</text>
+</g>
+<g id="clust6" class="cluster">
+<title>cluster_01</title>
+<polygon fill="none" stroke="#000000" points="51.6364,-1351 51.6364,-1480 464.4211,-1480 464.4211,-1351 51.6364,-1351"/>
+<text text-anchor="middle" x="258.0287" y="-1463.4" font-family="Times,serif" font-size="14.00" fill="#000000">Legend</text>
+</g>
+<!-- NonfungiblePositionManager.&lt;Constructor&gt; -->
+<g id="node1" class="node">
+<title>NonfungiblePositionManager.&lt;Constructor&gt;</title>
+<ellipse fill="none" stroke="#00ff00" cx="124.6364" cy="-1292" rx="67.5419" ry="18"/>
+<text text-anchor="middle" x="124.6364" y="-1287.8" font-family="Times,serif" font-size="14.00" fill="#000000">&lt;Constructor&gt;</text>
+</g>
+<!-- NonfungiblePositionManager.positions -->
+<g id="node2" class="node">
+<title>NonfungiblePositionManager.positions</title>
+<ellipse fill="none" stroke="#0000ff" cx="124.6364" cy="-1238" rx="45.8253" ry="18"/>
+<text text-anchor="middle" x="124.6364" y="-1233.8" font-family="Times,serif" font-size="14.00" fill="#000000">positions</text>
+</g>
+<!-- NonfungiblePositionManager.cachePoolKey -->
+<g id="node3" class="node">
+<title>NonfungiblePositionManager.cachePoolKey</title>
+<ellipse fill="none" stroke="#000000" cx="429.4211" cy="-1238" rx="66.6151" ry="18"/>
+<text text-anchor="middle" x="429.4211" y="-1233.8" font-family="Times,serif" font-size="14.00" fill="#000000">cachePoolKey</text>
+</g>
+<!-- NonfungiblePositionManager.mint -->
+<g id="node4" class="node">
+<title>NonfungiblePositionManager.mint</title>
+<ellipse fill="none" stroke="#0000ff" cx="124.6364" cy="-1022" rx="28.991" ry="18"/>
+<text text-anchor="middle" x="124.6364" y="-1017.8" font-family="Times,serif" font-size="14.00" fill="#000000">mint</text>
+</g>
+<!-- NonfungiblePositionManager.mint&#45;&gt;NonfungiblePositionManager.cachePoolKey -->
+<g id="edge8" class="edge">
+<title>NonfungiblePositionManager.mint-&gt;NonfungiblePositionManager.cachePoolKey</title>
+<path fill="none" stroke="#00ff00" d="M138.5035,-1038.2519C159.6441,-1063.242 200.8916,-1112.8492 233.2727,-1157 250.3316,-1180.2593 245.0653,-1195.3156 269.2727,-1211 293.6144,-1226.7713 324.252,-1234.2276 352.1955,-1237.5046"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="352.0507,-1241.0077 362.3519,-1238.5305 352.7543,-1234.0431 352.0507,-1241.0077"/>
+</g>
+<!-- NonfungiblePositionManager.addLiquidity -->
+<g id="node15" class="node">
+<title>NonfungiblePositionManager.addLiquidity</title>
+<ellipse fill="none" stroke="#000000" cx="429.4211" cy="-1022" rx="60.8564" ry="18"/>
+<text text-anchor="middle" x="429.4211" y="-1017.8" font-family="Times,serif" font-size="14.00" fill="#000000">addLiquidity</text>
+</g>
+<!-- NonfungiblePositionManager.mint&#45;&gt;NonfungiblePositionManager.addLiquidity -->
+<g id="edge1" class="edge">
+<title>NonfungiblePositionManager.mint-&gt;NonfungiblePositionManager.addLiquidity</title>
+<path fill="none" stroke="#00ff00" d="M153.5845,-1022C200.13,-1022 292.9681,-1022 358.0331,-1022"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="358.2259,-1025.5001 368.2259,-1022 358.2258,-1018.5001 358.2259,-1025.5001"/>
+</g>
+<!-- NonfungiblePositionManager.AddLiquidityParams -->
+<g id="node16" class="node">
+<title>NonfungiblePositionManager.AddLiquidityParams</title>
+<ellipse fill="none" stroke="#000000" cx="429.4211" cy="-1076" rx="92.0741" ry="18"/>
+<text text-anchor="middle" x="429.4211" y="-1071.8" font-family="Times,serif" font-size="14.00" fill="#000000">AddLiquidityParams</text>
+</g>
+<!-- NonfungiblePositionManager.mint&#45;&gt;NonfungiblePositionManager.AddLiquidityParams -->
+<g id="edge2" class="edge">
+<title>NonfungiblePositionManager.mint-&gt;NonfungiblePositionManager.AddLiquidityParams</title>
+<path fill="none" stroke="#00ff00" d="M152.3378,-1027.3204C181.4315,-1032.8732 228.5287,-1041.763 269.2727,-1049 295.1288,-1053.5926 323.3687,-1058.4172 348.8355,-1062.6972"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="348.3774,-1066.1691 358.8185,-1064.371 349.5349,-1059.2655 348.3774,-1066.1691"/>
+</g>
+<!-- NonfungiblePositionManager.address -->
+<g id="node17" class="node">
+<title>NonfungiblePositionManager.address</title>
+<ellipse fill="none" stroke="#000000" cx="429.4211" cy="-968" rx="39.9857" ry="18"/>
+<text text-anchor="middle" x="429.4211" y="-963.8" font-family="Times,serif" font-size="14.00" fill="#000000">address</text>
+</g>
+<!-- NonfungiblePositionManager.mint&#45;&gt;NonfungiblePositionManager.address -->
+<g id="edge3" class="edge">
+<title>NonfungiblePositionManager.mint-&gt;NonfungiblePositionManager.address</title>
+<path fill="none" stroke="#00ff00" d="M135.8765,-1005.3245C160.1856,-988.1595 219.4745,-976.8452 269.2727,-968 312.7963,-960.2693 363.0745,-951.8811 395.5107,-952.7415"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="395.5874,-956.2535 405.7913,-953.4021 396.0363,-949.2679 395.5874,-956.2535"/>
+</g>
+<!-- NonfungiblePositionManager.mint&#45;&gt;NonfungiblePositionManager.address -->
+<g id="edge6" class="edge">
+<title>NonfungiblePositionManager.mint-&gt;NonfungiblePositionManager.address</title>
+<path fill="none" stroke="#00ff00" d="M147.9105,-1011.1842C176.4717,-1003.0643 226.3909,-993.6167 269.2727,-986 305.9373,-979.4876 347.3953,-972.5086 378.9424,-968.5135"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="379.7281,-971.9444 389.2399,-967.278 378.8941,-964.9942 379.7281,-971.9444"/>
+</g>
+<!-- NonfungiblePositionManager.mint&#45;&gt;NonfungiblePositionManager.address -->
+<g id="edge9" class="edge">
+<title>NonfungiblePositionManager.mint-&gt;NonfungiblePositionManager.address</title>
+<path fill="none" stroke="#00ff00" d="M153.4235,-1023.2752C182.5934,-1019.9076 229.0318,-1011.1476 269.2727,-1004 309.8542,-996.7919 356.3081,-989.0121 388.696,-981.9881"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="389.7059,-985.3484 398.692,-979.7358 388.1672,-978.5196 389.7059,-985.3484"/>
+</g>
+<!-- NonfungiblePositionManager.mint&#45;&gt;NonfungiblePositionManager.address -->
+<g id="edge11" class="edge">
+<title>NonfungiblePositionManager.mint-&gt;NonfungiblePositionManager.address</title>
+<path fill="none" stroke="#00ff00" d="M142.8834,-1035.9447C170.2966,-1040.2348 223.7501,-1030.0857 269.2727,-1022 318.3713,-1013.2791 376.0659,-1003.7213 407.0453,-989.7425"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="408.849,-992.75 416.12,-985.0441 405.6305,-986.5338 408.849,-992.75"/>
+</g>
+<!-- NonfungiblePositionManager._mint -->
+<g id="node18" class="node">
+<title>NonfungiblePositionManager._mint</title>
+<ellipse fill="none" stroke="#000000" cx="429.4211" cy="-1184" rx="33.646" ry="18"/>
+<text text-anchor="middle" x="429.4211" y="-1179.8" font-family="Times,serif" font-size="14.00" fill="#000000">_mint</text>
+</g>
+<!-- NonfungiblePositionManager.mint&#45;&gt;NonfungiblePositionManager._mint -->
+<g id="edge4" class="edge">
+<title>NonfungiblePositionManager.mint-&gt;NonfungiblePositionManager._mint</title>
+<path fill="none" stroke="#00ff00" d="M136.8534,-1038.527C159.4325,-1067.7274 210.7643,-1128.0858 269.2727,-1157 305.7674,-1175.0352 352.0348,-1181.3155 385.4447,-1183.3634"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="385.6471,-1186.878 395.8116,-1183.8891 386.0017,-1179.887 385.6471,-1186.878"/>
+</g>
+<!-- NonfungiblePositionManager.IncreaseLiquidity -->
+<g id="node19" class="node">
+<title>NonfungiblePositionManager.IncreaseLiquidity</title>
+<ellipse fill="none" stroke="#000000" cx="429.4211" cy="-1130" rx="79.2903" ry="18"/>
+<text text-anchor="middle" x="429.4211" y="-1125.8" font-family="Times,serif" font-size="14.00" fill="#000000">IncreaseLiquidity</text>
+</g>
+<!-- NonfungiblePositionManager.mint&#45;&gt;NonfungiblePositionManager.IncreaseLiquidity -->
+<g id="edge12" class="edge">
+<title>NonfungiblePositionManager.mint-&gt;NonfungiblePositionManager.IncreaseLiquidity</title>
+<path fill="none" stroke="#00ff00" d="M143.7305,-1035.5438C170.4773,-1053.8303 221.2272,-1086.0713 269.2727,-1103 293.6888,-1111.603 321.1906,-1117.508 346.4243,-1121.5438"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="345.9276,-1125.0084 356.3406,-1123.054 346.9817,-1118.0882 345.9276,-1125.0084"/>
+</g>
+<!-- PositionKey.compute -->
+<g id="node29" class="node">
+<title>PositionKey.compute</title>
+<ellipse fill="none" stroke="#000000" cx="429.4211" cy="-451" rx="44.0833" ry="18"/>
+<text text-anchor="middle" x="429.4211" y="-446.8" font-family="Times,serif" font-size="14.00" fill="#000000">compute</text>
+</g>
+<!-- NonfungiblePositionManager.mint&#45;&gt;PositionKey.compute -->
+<g id="edge5" class="edge">
+<title>NonfungiblePositionManager.mint-&gt;PositionKey.compute</title>
+<path fill="none" stroke="#ffa500" d="M153.4458,-1023.4555C178.5892,-1023.0065 213.9842,-1017.8842 233.2727,-995 303.4956,-911.6862 202.7483,-592.2957 269.2727,-506 294.1846,-473.6842 339.1605,-460.2426 375.1205,-454.7083"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="376.0454,-458.1144 385.4781,-453.29 375.0957,-451.1791 376.0454,-458.1144"/>
+</g>
+<!-- IUniswapV3Pool.positions -->
+<g id="node30" class="node">
+<title>IUniswapV3Pool.positions</title>
+<ellipse fill="none" stroke="#000000" cx="429.4211" cy="-366" rx="45.8253" ry="18"/>
+<text text-anchor="middle" x="429.4211" y="-361.8" font-family="Times,serif" font-size="14.00" fill="#000000">positions</text>
+</g>
+<!-- NonfungiblePositionManager.mint&#45;&gt;IUniswapV3Pool.positions -->
+<g id="edge7" class="edge">
+<title>NonfungiblePositionManager.mint-&gt;IUniswapV3Pool.positions</title>
+<path fill="none" stroke="#ffa500" d="M153.5051,-1023.5052C178.6883,-1023.0897 214.1087,-1017.9885 233.2727,-995 315.1097,-896.8311 191.7929,-522.643 269.2727,-421 293.6845,-388.9751 337.823,-375.4748 373.5887,-369.844"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="374.4916,-373.2516 383.9084,-368.3962 373.5191,-366.3195 374.4916,-373.2516"/>
+</g>
+<!-- PoolAddress.PoolKey -->
+<g id="node33" class="node">
+<title>PoolAddress.PoolKey</title>
+<ellipse fill="none" stroke="#000000" cx="429.4211" cy="-173" rx="44.6645" ry="18"/>
+<text text-anchor="middle" x="429.4211" y="-168.8" font-family="Times,serif" font-size="14.00" fill="#000000">PoolKey</text>
+</g>
+<!-- NonfungiblePositionManager.mint&#45;&gt;PoolAddress.PoolKey -->
+<g id="edge10" class="edge">
+<title>NonfungiblePositionManager.mint-&gt;PoolAddress.PoolKey</title>
+<path fill="none" stroke="#ffa500" d="M153.5915,-1023.5766C178.8329,-1023.2092 214.2901,-1018.1385 233.2727,-995 287.3851,-929.0404 218.087,-296.2558 269.2727,-228 293.7773,-195.3233 338.8551,-181.9152 374.9571,-176.4856"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="375.4306,-179.9535 384.8772,-175.1564 374.5009,-173.0155 375.4306,-179.9535"/>
+</g>
+<!-- NonfungiblePositionManager.isAuthorizedForToken -->
+<g id="node5" class="node">
+<title>NonfungiblePositionManager.isAuthorizedForToken</title>
+<ellipse fill="none" stroke="#ffff00" cx="124.6364" cy="-1184" rx="98.9994" ry="18"/>
+<text text-anchor="middle" x="124.6364" y="-1179.8" font-family="Times,serif" font-size="14.00" fill="#000000">isAuthorizedForToken</text>
+</g>
+<!-- NonfungiblePositionManager._isApprovedOrOwner -->
+<g id="node20" class="node">
+<title>NonfungiblePositionManager._isApprovedOrOwner</title>
+<ellipse fill="none" stroke="#000000" cx="429.4211" cy="-1292" rx="97.2567" ry="18"/>
+<text text-anchor="middle" x="429.4211" y="-1287.8" font-family="Times,serif" font-size="14.00" fill="#000000">_isApprovedOrOwner</text>
+</g>
+<!-- NonfungiblePositionManager.isAuthorizedForToken&#45;&gt;NonfungiblePositionManager._isApprovedOrOwner -->
+<g id="edge13" class="edge">
+<title>NonfungiblePositionManager.isAuthorizedForToken-&gt;NonfungiblePositionManager._isApprovedOrOwner</title>
+<path fill="none" stroke="#00ff00" d="M201.3975,-1195.4451C212.7029,-1199.2414 223.7366,-1204.2895 233.2727,-1211 256.862,-1227.5995 245.0653,-1249.3156 269.2727,-1265 285.3933,-1275.4448 304.2751,-1282.2426 323.3071,-1286.5948"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="322.7577,-1290.0552 333.2594,-1288.6542 324.1761,-1283.2004 322.7577,-1290.0552"/>
+</g>
+<!-- NonfungiblePositionManager.tokenURI -->
+<g id="node6" class="node">
+<title>NonfungiblePositionManager.tokenURI</title>
+<ellipse fill="none" stroke="#00ff00" cx="124.6364" cy="-860" rx="49.2376" ry="18"/>
+<text text-anchor="middle" x="124.6364" y="-855.8" font-family="Times,serif" font-size="14.00" fill="#000000">tokenURI</text>
+</g>
+<!-- NonfungiblePositionManager._exists -->
+<g id="node21" class="node">
+<title>NonfungiblePositionManager._exists</title>
+<ellipse fill="none" stroke="#000000" cx="429.4211" cy="-860" rx="37.7179" ry="18"/>
+<text text-anchor="middle" x="429.4211" y="-855.8" font-family="Times,serif" font-size="14.00" fill="#000000">_exists</text>
+</g>
+<!-- NonfungiblePositionManager.tokenURI&#45;&gt;NonfungiblePositionManager._exists -->
+<g id="edge14" class="edge">
+<title>NonfungiblePositionManager.tokenURI-&gt;NonfungiblePositionManager._exists</title>
+<path fill="none" stroke="#00ff00" d="M173.944,-860C231.0423,-860 324.4872,-860 381.1438,-860"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="381.2777,-863.5001 391.2777,-860 381.2776,-856.5001 381.2777,-863.5001"/>
+</g>
+<!-- NonfungiblePositionManager.INonfungibleTokenPositionDescriptor -->
+<g id="node22" class="node">
+<title>NonfungiblePositionManager.INonfungibleTokenPositionDescriptor</title>
+<ellipse fill="none" stroke="#000000" cx="429.4211" cy="-914" rx="160.297" ry="18"/>
+<text text-anchor="middle" x="429.4211" y="-909.8" font-family="Times,serif" font-size="14.00" fill="#000000">INonfungibleTokenPositionDescriptor</text>
+</g>
+<!-- NonfungiblePositionManager.tokenURI&#45;&gt;NonfungiblePositionManager.INonfungibleTokenPositionDescriptor -->
+<g id="edge15" class="edge">
+<title>NonfungiblePositionManager.tokenURI-&gt;NonfungiblePositionManager.INonfungibleTokenPositionDescriptor</title>
+<path fill="none" stroke="#00ff00" d="M168.2722,-868.3518C196.9541,-873.7905 235.3194,-880.9692 269.2727,-887 288.6281,-890.4379 309.3194,-894.0059 329.1833,-897.3781"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="328.726,-900.8504 339.17,-899.0689 329.8946,-893.9486 328.726,-900.8504"/>
+</g>
+<!-- NonfungiblePositionManager.baseURI -->
+<g id="node7" class="node">
+<title>NonfungiblePositionManager.baseURI</title>
+<ellipse fill="none" stroke="#00ff00" cx="124.6364" cy="-914" rx="44.6414" ry="18"/>
+<text text-anchor="middle" x="124.6364" y="-909.8" font-family="Times,serif" font-size="14.00" fill="#000000">baseURI</text>
+</g>
+<!-- NonfungiblePositionManager.increaseLiquidity -->
+<g id="node8" class="node">
+<title>NonfungiblePositionManager.increaseLiquidity</title>
+<ellipse fill="none" stroke="#0000ff" cx="124.6364" cy="-968" rx="78.7279" ry="18"/>
+<text text-anchor="middle" x="124.6364" y="-963.8" font-family="Times,serif" font-size="14.00" fill="#000000">increaseLiquidity</text>
+</g>
+<!-- NonfungiblePositionManager.increaseLiquidity&#45;&gt;NonfungiblePositionManager.addLiquidity -->
+<g id="edge16" class="edge">
+<title>NonfungiblePositionManager.increaseLiquidity-&gt;NonfungiblePositionManager.addLiquidity</title>
+<path fill="none" stroke="#00ff00" d="M185.1133,-979.534C211.0122,-984.4099 241.607,-990.086 269.2727,-995 301.0595,-1000.646 336.4492,-1006.6427 365.86,-1011.547"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="365.559,-1015.0449 375.9979,-1013.2337 366.7079,-1008.1399 365.559,-1015.0449"/>
+</g>
+<!-- NonfungiblePositionManager.increaseLiquidity&#45;&gt;NonfungiblePositionManager.AddLiquidityParams -->
+<g id="edge17" class="edge">
+<title>NonfungiblePositionManager.increaseLiquidity-&gt;NonfungiblePositionManager.AddLiquidityParams</title>
+<path fill="none" stroke="#00ff00" d="M193.1708,-976.9063C207.2825,-980.8986 221.432,-986.6678 233.2727,-995 256.862,-1011.5995 245.0653,-1033.3156 269.2727,-1049 286.6596,-1060.2652 307.2587,-1067.2881 327.7938,-1071.5758"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="327.3806,-1075.0593 337.8551,-1073.4675 328.6741,-1068.1799 327.3806,-1075.0593"/>
+</g>
+<!-- NonfungiblePositionManager.increaseLiquidity&#45;&gt;NonfungiblePositionManager.address -->
+<g id="edge18" class="edge">
+<title>NonfungiblePositionManager.increaseLiquidity-&gt;NonfungiblePositionManager.address</title>
+<path fill="none" stroke="#00ff00" d="M199.1951,-962.1029C255.6288,-960.7468 331.5285,-961.0078 380.4697,-962.8858"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="380.3478,-966.3837 390.4873,-963.3111 380.6448,-959.39 380.3478,-966.3837"/>
+</g>
+<!-- NonfungiblePositionManager.increaseLiquidity&#45;&gt;NonfungiblePositionManager.address -->
+<g id="edge20" class="edge">
+<title>NonfungiblePositionManager.increaseLiquidity-&gt;NonfungiblePositionManager.address</title>
+<path fill="none" stroke="#00ff00" d="M199.1951,-973.8971C255.6288,-975.2532 331.5285,-974.9922 380.4697,-973.1142"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="380.6448,-976.61 390.4873,-972.6889 380.3478,-969.6163 380.6448,-976.61"/>
+</g>
+<!-- NonfungiblePositionManager.increaseLiquidity&#45;&gt;NonfungiblePositionManager.IncreaseLiquidity -->
+<g id="edge24" class="edge">
+<title>NonfungiblePositionManager.increaseLiquidity-&gt;NonfungiblePositionManager.IncreaseLiquidity</title>
+<path fill="none" stroke="#00ff00" d="M196.9675,-975.2443C210.2746,-979.3831 223.1421,-985.6317 233.2727,-995 270.4201,-1029.3521 230.8375,-1070.095 269.2727,-1103 289.0324,-1119.9166 315.3481,-1128.1472 340.9287,-1131.7551"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="340.717,-1135.2545 351.0598,-1132.9571 341.5418,-1128.3032 340.717,-1135.2545"/>
+</g>
+<!-- NonfungiblePositionManager.increaseLiquidity&#45;&gt;PositionKey.compute -->
+<g id="edge19" class="edge">
+<title>NonfungiblePositionManager.increaseLiquidity-&gt;PositionKey.compute</title>
+<path fill="none" stroke="#ffa500" d="M199.3876,-962.3623C212.3414,-958.076 224.4581,-951.362 233.2727,-941 296.1215,-867.1185 209.7043,-582.5509 269.2727,-506 294.249,-473.9032 339,-460.4349 374.859,-454.8347"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="375.7691,-458.2418 385.1907,-453.3959 374.8035,-451.3087 375.7691,-458.2418"/>
+</g>
+<!-- NonfungiblePositionManager.increaseLiquidity&#45;&gt;IUniswapV3Pool.positions -->
+<g id="edge21" class="edge">
+<title>NonfungiblePositionManager.increaseLiquidity-&gt;IUniswapV3Pool.positions</title>
+<path fill="none" stroke="#ffa500" d="M199.4982,-962.4558C212.443,-958.1618 224.528,-951.421 233.2727,-941 307.7305,-852.2694 198.7536,-512.892 269.2727,-421 293.7068,-389.1605 337.6264,-375.6385 373.2995,-369.952"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="374.1886,-373.3608 383.5958,-368.487 373.2025,-366.4306 374.1886,-373.3608"/>
+</g>
+<!-- FullMath.mulDiv -->
+<g id="node35" class="node">
+<title>FullMath.mulDiv</title>
+<ellipse fill="none" stroke="#000000" cx="429.4211" cy="-34" rx="40.5886" ry="18"/>
+<text text-anchor="middle" x="429.4211" y="-29.8" font-family="Times,serif" font-size="14.00" fill="#000000">mulDiv</text>
+</g>
+<!-- NonfungiblePositionManager.increaseLiquidity&#45;&gt;FullMath.mulDiv -->
+<g id="edge22" class="edge">
+<title>NonfungiblePositionManager.increaseLiquidity-&gt;FullMath.mulDiv</title>
+<path fill="none" stroke="#ffa500" d="M187.9111,-957.2862C205.1275,-953.0705 222.0877,-945.699 233.2727,-932 293.1981,-858.6057 212.6037,-155.9368 269.2727,-80 294.9866,-45.5433 343.5882,-32.5056 380.5342,-29.3378"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="380.8595,-32.8243 390.6171,-28.6965 380.4151,-25.8384 380.8595,-32.8243"/>
+</g>
+<!-- NonfungiblePositionManager.increaseLiquidity&#45;&gt;FullMath.mulDiv -->
+<g id="edge23" class="edge">
+<title>NonfungiblePositionManager.increaseLiquidity-&gt;FullMath.mulDiv</title>
+<path fill="none" stroke="#ffa500" d="M202.4766,-970.5313C214.3476,-966.3416 225.2834,-959.785 233.2727,-950 293.1981,-876.6057 212.6037,-173.9368 269.2727,-98 295.4687,-62.8972 345.4188,-50.0242 382.5999,-43.6215"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="383.4104,-47.0357 392.7179,-41.9741 382.2854,-40.1267 383.4104,-47.0357"/>
+</g>
+<!-- NonfungiblePositionManager.decreaseLiquidity -->
+<g id="node9" class="node">
+<title>NonfungiblePositionManager.decreaseLiquidity</title>
+<ellipse fill="none" stroke="#0000ff" cx="124.6364" cy="-536" rx="80.4344" ry="18"/>
+<text text-anchor="middle" x="124.6364" y="-531.8" font-family="Times,serif" font-size="14.00" fill="#000000">decreaseLiquidity</text>
+</g>
+<!-- NonfungiblePositionManager.decreaseLiquidity&#45;&gt;NonfungiblePositionManager.address -->
+<g id="edge29" class="edge">
+<title>NonfungiblePositionManager.decreaseLiquidity-&gt;NonfungiblePositionManager.address</title>
+<path fill="none" stroke="#00ff00" d="M200.3952,-542.0972C212.9398,-546.3888 224.6478,-552.9873 233.2727,-563 288.3432,-626.9315 211.7953,-879.2234 269.2727,-941 297.067,-970.8733 344.6138,-975.6003 380.6994,-974.0649"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="381.2484,-977.5383 391.0206,-973.4453 380.8288,-970.5509 381.2484,-977.5383"/>
+</g>
+<!-- NonfungiblePositionManager.IUniswapV3Pool -->
+<g id="node23" class="node">
+<title>NonfungiblePositionManager.IUniswapV3Pool</title>
+<ellipse fill="none" stroke="#000000" cx="429.4211" cy="-590" rx="78.1714" ry="18"/>
+<text text-anchor="middle" x="429.4211" y="-585.8" font-family="Times,serif" font-size="14.00" fill="#000000">IUniswapV3Pool</text>
+</g>
+<!-- NonfungiblePositionManager.decreaseLiquidity&#45;&gt;NonfungiblePositionManager.IUniswapV3Pool -->
+<g id="edge25" class="edge">
+<title>NonfungiblePositionManager.decreaseLiquidity-&gt;NonfungiblePositionManager.IUniswapV3Pool</title>
+<path fill="none" stroke="#00ff00" d="M185.8208,-547.6672C211.5682,-552.5131 241.8586,-558.1307 269.2727,-563 297.3356,-567.9845 328.2066,-573.2425 355.2925,-577.7807"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="355.0341,-581.286 365.4743,-579.4827 356.1883,-574.3818 355.0341,-581.286"/>
+</g>
+<!-- NonfungiblePositionManager.DecreaseLiquidity -->
+<g id="node24" class="node">
+<title>NonfungiblePositionManager.DecreaseLiquidity</title>
+<ellipse fill="none" stroke="#000000" cx="429.4211" cy="-536" rx="82.2198" ry="18"/>
+<text text-anchor="middle" x="429.4211" y="-531.8" font-family="Times,serif" font-size="14.00" fill="#000000">DecreaseLiquidity</text>
+</g>
+<!-- NonfungiblePositionManager.decreaseLiquidity&#45;&gt;NonfungiblePositionManager.DecreaseLiquidity -->
+<g id="edge33" class="edge">
+<title>NonfungiblePositionManager.decreaseLiquidity-&gt;NonfungiblePositionManager.DecreaseLiquidity</title>
+<path fill="none" stroke="#00ff00" d="M205.1136,-536C245.5205,-536 294.6797,-536 336.6673,-536"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="336.8981,-539.5001 346.898,-536 336.898,-532.5001 336.8981,-539.5001"/>
+</g>
+<!-- NonfungiblePositionManager.decreaseLiquidity&#45;&gt;PositionKey.compute -->
+<g id="edge28" class="edge">
+<title>NonfungiblePositionManager.decreaseLiquidity-&gt;PositionKey.compute</title>
+<path fill="none" stroke="#ffa500" d="M174.9654,-521.964C232.7045,-505.8614 326.6207,-479.6695 382.7686,-464.0107"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="383.7656,-467.3663 392.4578,-461.3085 381.8851,-460.6236 383.7656,-467.3663"/>
+</g>
+<!-- NonfungiblePositionManager.decreaseLiquidity&#45;&gt;IUniswapV3Pool.positions -->
+<g id="edge30" class="edge">
+<title>NonfungiblePositionManager.decreaseLiquidity-&gt;IUniswapV3Pool.positions</title>
+<path fill="none" stroke="#ffa500" d="M142.7891,-518.1201C168.8309,-493.3195 219.1951,-448.4407 269.2727,-421 304.4352,-401.7323 347.5884,-387.3836 380.2369,-378.1815"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="381.2988,-381.5195 390.0114,-375.4912 379.4412,-374.7704 381.2988,-381.5195"/>
+</g>
+<!-- IUniswapV3Pool.burn -->
+<g id="node31" class="node">
+<title>IUniswapV3Pool.burn</title>
+<ellipse fill="none" stroke="#000000" cx="429.4211" cy="-258" rx="28.9754" ry="18"/>
+<text text-anchor="middle" x="429.4211" y="-253.8" font-family="Times,serif" font-size="14.00" fill="#000000">burn</text>
+</g>
+<!-- NonfungiblePositionManager.decreaseLiquidity&#45;&gt;IUniswapV3Pool.burn -->
+<g id="edge27" class="edge">
+<title>NonfungiblePositionManager.decreaseLiquidity-&gt;IUniswapV3Pool.burn</title>
+<path fill="none" stroke="#ffa500" d="M129.2984,-517.7837C142.3886,-470.6302 184.2068,-344.1415 269.2727,-285 304.9391,-260.2032 355.6781,-255.4735 390.4308,-255.6386"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="390.6047,-259.1424 400.6685,-255.8302 390.7357,-252.1436 390.6047,-259.1424"/>
+</g>
+<!-- PoolAddress.computeAddress -->
+<g id="node34" class="node">
+<title>PoolAddress.computeAddress</title>
+<ellipse fill="none" stroke="#000000" cx="429.4211" cy="-119" rx="75.8643" ry="18"/>
+<text text-anchor="middle" x="429.4211" y="-114.8" font-family="Times,serif" font-size="14.00" fill="#000000">computeAddress</text>
+</g>
+<!-- NonfungiblePositionManager.decreaseLiquidity&#45;&gt;PoolAddress.computeAddress -->
+<g id="edge26" class="edge">
+<title>NonfungiblePositionManager.decreaseLiquidity-&gt;PoolAddress.computeAddress</title>
+<path fill="none" stroke="#ffa500" d="M125.3249,-517.695C128.7514,-454.7248 149.1042,-245.4506 269.2727,-146 290.0748,-128.7843 317.7245,-120.6705 344.1875,-117.258"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="344.6884,-120.7244 354.2549,-116.1711 343.937,-113.7648 344.6884,-120.7244"/>
+</g>
+<!-- NonfungiblePositionManager.decreaseLiquidity&#45;&gt;FullMath.mulDiv -->
+<g id="edge31" class="edge">
+<title>NonfungiblePositionManager.decreaseLiquidity-&gt;FullMath.mulDiv</title>
+<path fill="none" stroke="#ffa500" d="M127.6567,-517.9136C141.9713,-441.151 204.9701,-145.4622 269.2727,-80 298.3348,-50.4138 344.0001,-36.7334 379.144,-31.9193"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="379.6898,-35.3794 389.2177,-30.746 378.8799,-28.4264 379.6898,-35.3794"/>
+</g>
+<!-- NonfungiblePositionManager.decreaseLiquidity&#45;&gt;FullMath.mulDiv -->
+<g id="edge32" class="edge">
+<title>NonfungiblePositionManager.decreaseLiquidity-&gt;FullMath.mulDiv</title>
+<path fill="none" stroke="#ffa500" d="M128.9612,-517.7891C145.4722,-442.9015 206.7563,-161.6438 269.2727,-98 299.9286,-66.7913 349.0585,-53.2808 384.8263,-45.6706"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="385.9078,-49.0215 394.9973,-43.578 384.4971,-42.1651 385.9078,-49.0215"/>
+</g>
+<!-- NonfungiblePositionManager.collect -->
+<g id="node10" class="node">
+<title>NonfungiblePositionManager.collect</title>
+<ellipse fill="none" stroke="#0000ff" cx="124.6364" cy="-590" rx="36.5536" ry="18"/>
+<text text-anchor="middle" x="124.6364" y="-585.8" font-family="Times,serif" font-size="14.00" fill="#000000">collect</text>
+</g>
+<!-- NonfungiblePositionManager.collect&#45;&gt;NonfungiblePositionManager.address -->
+<g id="edge34" class="edge">
+<title>NonfungiblePositionManager.collect-&gt;NonfungiblePositionManager.address</title>
+<path fill="none" stroke="#00ff00" d="M147.1474,-575.6623C172.1804,-570.5285 211.8984,-574.577 233.2727,-599 328.6915,-708.0287 169.7503,-817.7037 269.2727,-923 297.9177,-953.3069 346.9184,-957.6071 383.1932,-959.3058"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="383.3891,-962.8175 393.5317,-959.7553 383.6932,-955.8241 383.3891,-962.8175"/>
+</g>
+<!-- NonfungiblePositionManager.collect&#45;&gt;NonfungiblePositionManager.address -->
+<g id="edge35" class="edge">
+<title>NonfungiblePositionManager.collect-&gt;NonfungiblePositionManager.address</title>
+<path fill="none" stroke="#00ff00" d="M161.6061,-589.0739C185.6402,-590.5946 215.6741,-596.8913 233.2727,-617 328.6915,-726.0287 169.7503,-835.7037 269.2727,-941 297.3008,-970.6541 344.817,-975.4098 380.8319,-973.9406"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="381.3514,-977.4164 391.1312,-973.3415 380.9448,-970.4282 381.3514,-977.4164"/>
+</g>
+<!-- NonfungiblePositionManager.collect&#45;&gt;NonfungiblePositionManager.address -->
+<g id="edge41" class="edge">
+<title>NonfungiblePositionManager.collect-&gt;NonfungiblePositionManager.address</title>
+<path fill="none" stroke="#00ff00" d="M151.3175,-602.4505C176.4082,-607.024 213.0503,-611.8932 233.2727,-635 328.6915,-744.0287 169.7503,-853.7037 269.2727,-959 301.8469,-993.464 360.744,-994.2974 397.3167,-985.7098"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="398.2793,-989.0752 406.9997,-983.058 396.4303,-982.3238 398.2793,-989.0752"/>
+</g>
+<!-- NonfungiblePositionManager.collect&#45;&gt;NonfungiblePositionManager.IUniswapV3Pool -->
+<g id="edge36" class="edge">
+<title>NonfungiblePositionManager.collect-&gt;NonfungiblePositionManager.IUniswapV3Pool</title>
+<path fill="none" stroke="#00ff00" d="M161.7042,-590C205.9448,-590 281.4132,-590 340.9678,-590"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="341.1349,-593.5001 351.1348,-590 341.1348,-586.5001 341.1349,-593.5001"/>
+</g>
+<!-- NonfungiblePositionManager.Collect -->
+<g id="node25" class="node">
+<title>NonfungiblePositionManager.Collect</title>
+<ellipse fill="none" stroke="#000000" cx="429.4211" cy="-644" rx="38.8594" ry="18"/>
+<text text-anchor="middle" x="429.4211" y="-639.8" font-family="Times,serif" font-size="14.00" fill="#000000">Collect</text>
+</g>
+<!-- NonfungiblePositionManager.collect&#45;&gt;NonfungiblePositionManager.Collect -->
+<g id="edge45" class="edge">
+<title>NonfungiblePositionManager.collect-&gt;NonfungiblePositionManager.Collect</title>
+<path fill="none" stroke="#00ff00" d="M159.0895,-596.6072C188.374,-602.1811 231.5468,-610.2991 269.2727,-617 307.3492,-623.7632 350.5954,-631.0296 382.5421,-636.3187"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="382.0597,-639.7864 392.4965,-637.9633 383.2008,-632.88 382.0597,-639.7864"/>
+</g>
+<!-- NonfungiblePositionManager.collect&#45;&gt;PositionKey.compute -->
+<g id="edge40" class="edge">
+<title>NonfungiblePositionManager.collect-&gt;PositionKey.compute</title>
+<path fill="none" stroke="#ffa500" d="M161.2623,-587.7721C183.8156,-584.8311 212.3195,-578.1347 233.2727,-563 257.5621,-545.4556 245.7712,-524.5865 269.2727,-506 300.7216,-481.1282 344.1183,-467.1468 377.8049,-459.5114"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="378.8804,-462.8604 387.9237,-457.3405 377.4119,-456.0161 378.8804,-462.8604"/>
+</g>
+<!-- NonfungiblePositionManager.collect&#45;&gt;IUniswapV3Pool.positions -->
+<g id="edge39" class="edge">
+<title>NonfungiblePositionManager.collect-&gt;IUniswapV3Pool.positions</title>
+<path fill="none" stroke="#ffa500" d="M161.5204,-590.0546C185.0504,-588.1002 214.5397,-581.6454 233.2727,-563 279.4186,-517.07 225.1728,-468.8979 269.2727,-421 296.2761,-391.671 339.6114,-377.9812 374.3975,-371.5915"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="375.1444,-375.0151 384.4252,-369.9047 373.9831,-368.1121 375.1444,-375.0151"/>
+</g>
+<!-- NonfungiblePositionManager.collect&#45;&gt;IUniswapV3Pool.burn -->
+<g id="edge38" class="edge">
+<title>NonfungiblePositionManager.collect-&gt;IUniswapV3Pool.burn</title>
+<path fill="none" stroke="#ffa500" d="M161.4894,-590.8231C185.4721,-589.257 215.4926,-582.9484 233.2727,-563 316.1692,-469.9938 182.8768,-374.7648 269.2727,-285 300.3267,-252.7351 354.4893,-250.1123 391.1349,-252.7703"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="391.1646,-256.2867 401.4359,-253.6884 391.7861,-249.3144 391.1646,-256.2867"/>
+</g>
+<!-- IUniswapV3Pool.collect -->
+<g id="node32" class="node">
+<title>IUniswapV3Pool.collect</title>
+<ellipse fill="none" stroke="#000000" cx="429.4211" cy="-312" rx="36.5536" ry="18"/>
+<text text-anchor="middle" x="429.4211" y="-307.8" font-family="Times,serif" font-size="14.00" fill="#000000">collect</text>
+</g>
+<!-- NonfungiblePositionManager.collect&#45;&gt;IUniswapV3Pool.collect -->
+<g id="edge44" class="edge">
+<title>NonfungiblePositionManager.collect-&gt;IUniswapV3Pool.collect</title>
+<path fill="none" stroke="#ffa500" d="M161.5557,-590.6288C185.4098,-588.9571 215.2556,-582.6028 233.2727,-563 301.5066,-488.7609 198.247,-410.5727 269.2727,-339 298.6471,-309.3994 347.5343,-304.9895 383.5833,-306.5431"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="383.6607,-310.0539 393.8524,-307.159 384.0799,-303.0665 383.6607,-310.0539"/>
+</g>
+<!-- NonfungiblePositionManager.collect&#45;&gt;PoolAddress.computeAddress -->
+<g id="edge37" class="edge">
+<title>NonfungiblePositionManager.collect-&gt;PoolAddress.computeAddress</title>
+<path fill="none" stroke="#ffa500" d="M161.5028,-591.0797C185.6511,-589.6494 215.8591,-583.397 233.2727,-563 293.6645,-492.2614 206.2174,-214.375 269.2727,-146 289.1074,-124.492 319.1745,-115.9838 347.9201,-113.4707"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="348.2595,-116.9561 358.0137,-112.8203 347.8093,-109.9706 348.2595,-116.9561"/>
+</g>
+<!-- NonfungiblePositionManager.collect&#45;&gt;FullMath.mulDiv -->
+<g id="edge42" class="edge">
+<title>NonfungiblePositionManager.collect-&gt;FullMath.mulDiv</title>
+<path fill="none" stroke="#ffa500" d="M159.2246,-583.8113C183.7639,-581.1241 215.4001,-575.1546 233.2727,-554 301.4469,-473.3068 204.6809,-163.5883 269.2727,-80 295.3971,-46.1924 343.4754,-33.0445 380.1603,-29.6416"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="380.4502,-33.1299 390.1775,-28.9311 379.955,-26.1474 380.4502,-33.1299"/>
+</g>
+<!-- NonfungiblePositionManager.collect&#45;&gt;FullMath.mulDiv -->
+<g id="edge43" class="edge">
+<title>NonfungiblePositionManager.collect-&gt;FullMath.mulDiv</title>
+<path fill="none" stroke="#ffa500" d="M156.9218,-598.6484C181.7521,-599.486 214.8357,-593.8226 233.2727,-572 301.4469,-491.3068 204.6809,-181.5883 269.2727,-98 296.0543,-63.3419 345.9083,-50.396 382.9069,-43.8546"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="383.6882,-47.2725 392.9716,-42.1667 382.5304,-40.3689 383.6882,-47.2725"/>
+</g>
+<!-- NonfungiblePositionManager.burn -->
+<g id="node11" class="node">
+<title>NonfungiblePositionManager.burn</title>
+<ellipse fill="none" stroke="#0000ff" cx="124.6364" cy="-752" rx="28.9754" ry="18"/>
+<text text-anchor="middle" x="124.6364" y="-747.8" font-family="Times,serif" font-size="14.00" fill="#000000">burn</text>
+</g>
+<!-- NonfungiblePositionManager._burn -->
+<g id="node26" class="node">
+<title>NonfungiblePositionManager._burn</title>
+<ellipse fill="none" stroke="#000000" cx="429.4211" cy="-806" rx="33.6305" ry="18"/>
+<text text-anchor="middle" x="429.4211" y="-801.8" font-family="Times,serif" font-size="14.00" fill="#000000">_burn</text>
+</g>
+<!-- NonfungiblePositionManager.burn&#45;&gt;NonfungiblePositionManager._burn -->
+<g id="edge46" class="edge">
+<title>NonfungiblePositionManager.burn-&gt;NonfungiblePositionManager._burn</title>
+<path fill="none" stroke="#00ff00" d="M152.3378,-757.3204C181.4315,-762.8732 228.5287,-771.763 269.2727,-779 309.228,-786.0969 354.8757,-793.7479 387.1865,-799.0869"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="386.7481,-802.5618 397.1843,-800.7355 387.887,-795.6551 386.7481,-802.5618"/>
+</g>
+<!-- NonfungiblePositionManager._getAndIncrementNonce -->
+<g id="node12" class="node">
+<title>NonfungiblePositionManager._getAndIncrementNonce</title>
+<ellipse fill="none" stroke="#ffffff" cx="124.6364" cy="-644" rx="108.7729" ry="18"/>
+<text text-anchor="middle" x="124.6364" y="-639.8" font-family="Times,serif" font-size="14.00" fill="#000000">_getAndIncrementNonce</text>
+</g>
+<!-- NonfungiblePositionManager.getApproved -->
+<g id="node13" class="node">
+<title>NonfungiblePositionManager.getApproved</title>
+<ellipse fill="none" stroke="#00ff00" cx="124.6364" cy="-806" rx="61.4012" ry="18"/>
+<text text-anchor="middle" x="124.6364" y="-801.8" font-family="Times,serif" font-size="14.00" fill="#000000">getApproved</text>
+</g>
+<!-- NonfungiblePositionManager.getApproved&#45;&gt;NonfungiblePositionManager._exists -->
+<g id="edge47" class="edge">
+<title>NonfungiblePositionManager.getApproved-&gt;NonfungiblePositionManager._exists</title>
+<path fill="none" stroke="#00ff00" d="M176.1403,-815.8413C203.7397,-821.0577 238.3375,-827.5053 269.2727,-833 307.7249,-839.8299 351.4494,-847.1731 383.4846,-852.4747"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="383.0167,-855.9448 393.4533,-854.1211 384.1573,-849.0383 383.0167,-855.9448"/>
+</g>
+<!-- NonfungiblePositionManager._approve -->
+<g id="node14" class="node">
+<title>NonfungiblePositionManager._approve</title>
+<ellipse fill="none" stroke="#ffffff" cx="124.6364" cy="-698" rx="46.9342" ry="18"/>
+<text text-anchor="middle" x="124.6364" y="-693.8" font-family="Times,serif" font-size="14.00" fill="#000000">_approve</text>
+</g>
+<!-- NonfungiblePositionManager.Approval -->
+<g id="node27" class="node">
+<title>NonfungiblePositionManager.Approval</title>
+<ellipse fill="none" stroke="#000000" cx="429.4211" cy="-752" rx="47.5139" ry="18"/>
+<text text-anchor="middle" x="429.4211" y="-747.8" font-family="Times,serif" font-size="14.00" fill="#000000">Approval</text>
+</g>
+<!-- NonfungiblePositionManager._approve&#45;&gt;NonfungiblePositionManager.Approval -->
+<g id="edge48" class="edge">
+<title>NonfungiblePositionManager._approve-&gt;NonfungiblePositionManager.Approval</title>
+<path fill="none" stroke="#00ff00" d="M166.6888,-706.0514C195.5316,-711.5243 234.6906,-718.8575 269.2727,-725 304.5655,-731.2687 344.2997,-737.9698 375.3606,-743.1279"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="375.1052,-746.6333 385.5428,-744.8152 376.2496,-739.7274 375.1052,-746.6333"/>
+</g>
+<!-- NonfungiblePositionManager.ownerOf -->
+<g id="node28" class="node">
+<title>NonfungiblePositionManager.ownerOf</title>
+<ellipse fill="none" stroke="#000000" cx="429.4211" cy="-698" rx="45.2054" ry="18"/>
+<text text-anchor="middle" x="429.4211" y="-693.8" font-family="Times,serif" font-size="14.00" fill="#000000">ownerOf</text>
+</g>
+<!-- NonfungiblePositionManager._approve&#45;&gt;NonfungiblePositionManager.ownerOf -->
+<g id="edge49" class="edge">
+<title>NonfungiblePositionManager._approve-&gt;NonfungiblePositionManager.ownerOf</title>
+<path fill="none" stroke="#00ff00" d="M171.9246,-698C226.5003,-698 316.1412,-698 373.9586,-698"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="374.0143,-701.5001 384.0143,-698 374.0142,-694.5001 374.0143,-701.5001"/>
+</g>
+<!-- key -->
+<g id="node36" class="node">
+<title>key</title>
+<text text-anchor="start" x="109.2724" y="-1428.4" font-family="Times,serif" font-size="14.00" fill="#000000">Internal Call</text>
+<text text-anchor="start" x="105.3804" y="-1408.4" font-family="Times,serif" font-size="14.00" fill="#000000">External Call</text>
+<text text-anchor="start" x="82.8418" y="-1388.4" font-family="Times,serif" font-size="14.00" fill="#000000">Defined Contract</text>
+<text text-anchor="start" x="69.2391" y="-1368.4" font-family="Times,serif" font-size="14.00" fill="#000000">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node37" class="node">
+<title>key2</title>
+<text text-anchor="start" x="417.1802" y="-1428.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<text text-anchor="start" x="417.1802" y="-1408.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="#d3d3d3" stroke="transparent" points="415.4211,-1383 415.4211,-1403 443.4211,-1403 443.4211,-1383 415.4211,-1383"/>
+<text text-anchor="start" x="417.1802" y="-1388.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="none" stroke="#d3d3d3" points="417.4211,-1365 417.4211,-1381 441.4211,-1381 441.4211,-1365 417.4211,-1365"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge50" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#00ff00" d="M181.6364,-1433C282.0907,-1433 309.7059,-1433 405.3233,-1433"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="405.4212,-1436.5001 415.4211,-1433 405.4211,-1429.5001 405.4212,-1436.5001"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge51" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#ffa500" d="M181.6364,-1413C282.0907,-1413 309.7059,-1413 405.3233,-1413"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="405.4212,-1416.5001 415.4211,-1413 405.4211,-1409.5001 405.4212,-1416.5001"/>
+</g>
+</g>
+</svg>

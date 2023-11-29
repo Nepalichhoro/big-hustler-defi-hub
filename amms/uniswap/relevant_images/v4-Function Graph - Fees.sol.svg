@@ -1,0 +1,266 @@
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0.00 0.00 714.56 667.00">
+<g id="graph0" class="graph" transform="translate(4,663) scale(1)" style="transform: translate(4px, 99%) scale(0.98);">
+<title>G</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-663 710.5561,-663 710.5561,4 -4,4"/>
+<g id="clust1" class="cluster">
+<title>clusterFees</title>
+<polygon fill="#d3d3d3" stroke="#d3d3d3" points="8,-93 8,-514 698.5561,-514 698.5561,-93 8,-93"/>
+<text text-anchor="middle" x="353.278" y="-497.4" font-family="Times,serif" font-size="14.00" fill="#000000">Fees</text>
+</g>
+<g id="clust2" class="cluster">
+<title>clusterCurrency</title>
+<polygon fill="none" stroke="#d3d3d3" points="349.825,-8 349.825,-85 446.8691,-85 446.8691,-8 349.825,-8"/>
+<text text-anchor="middle" x="398.347" y="-68.4" font-family="Times,serif" font-size="14.00" fill="#000000">Currency</text>
+</g>
+<g id="clust3" class="cluster">
+<title>cluster_01</title>
+<polygon fill="none" stroke="#000000" points="51.1197,-522 51.1197,-651 433.347,-651 433.347,-522 51.1197,-522"/>
+<text text-anchor="middle" x="242.2334" y="-634.4" font-family="Times,serif" font-size="14.00" fill="#000000">Legend</text>
+</g>
+<!-- Fees.&lt;Constructor&gt; -->
+<g id="node1" class="node">
+<title>Fees.&lt;Constructor&gt;</title>
+<ellipse fill="none" stroke="#00ff00" cx="124.1197" cy="-463" rx="67.5419" ry="18"/>
+<text text-anchor="middle" x="124.1197" y="-458.8" font-family="Times,serif" font-size="14.00" fill="#000000">&lt;Constructor&gt;</text>
+</g>
+<!-- Fees._fetchProtocolFees -->
+<g id="node2" class="node">
+<title>Fees._fetchProtocolFees</title>
+<ellipse fill="none" stroke="#ffffff" cx="124.1197" cy="-409" rx="85.6705" ry="18"/>
+<text text-anchor="middle" x="124.1197" y="-404.8" font-family="Times,serif" font-size="14.00" fill="#000000">_fetchProtocolFees</text>
+</g>
+<!-- Fees._checkProtocolFee -->
+<g id="node5" class="node">
+<title>Fees._checkProtocolFee</title>
+<ellipse fill="none" stroke="#000000" cx="398.347" cy="-409" rx="85.0928" ry="18"/>
+<text text-anchor="middle" x="398.347" y="-404.8" font-family="Times,serif" font-size="14.00" fill="#000000">_checkProtocolFee</text>
+</g>
+<!-- Fees._fetchProtocolFees&#45;&gt;Fees._checkProtocolFee -->
+<g id="edge4" class="edge">
+<title>Fees._fetchProtocolFees-&gt;Fees._checkProtocolFee</title>
+<path fill="none" stroke="#00ff00" d="M204.544,-402.7914C237.0559,-402.1343 274.7289,-402.0754 308.1669,-402.6145"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="308.3357,-406.1181 318.3979,-402.801 308.4634,-399.1192 308.3357,-406.1181"/>
+</g>
+<!-- Fees._fetchProtocolFees&#45;&gt;Fees._checkProtocolFee -->
+<g id="edge5" class="edge">
+<title>Fees._fetchProtocolFees-&gt;Fees._checkProtocolFee</title>
+<path fill="none" stroke="#00ff00" d="M204.544,-415.2086C237.0559,-415.8657 274.7289,-415.9246 308.1669,-415.3855"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="308.4634,-418.8808 318.3979,-415.199 308.3357,-411.8819 308.4634,-418.8808"/>
+</g>
+<!-- Fees.address -->
+<g id="node9" class="node">
+<title>Fees.address</title>
+<ellipse fill="none" stroke="#000000" cx="398.347" cy="-227" rx="39.9857" ry="18"/>
+<text text-anchor="middle" x="398.347" y="-222.8" font-family="Times,serif" font-size="14.00" fill="#000000">address</text>
+</g>
+<!-- Fees._fetchProtocolFees&#45;&gt;Fees.address -->
+<g id="edge1" class="edge">
+<title>Fees._fetchProtocolFees-&gt;Fees.address</title>
+<path fill="none" stroke="#00ff00" d="M162.8064,-392.862C185.8216,-384.8018 213.9972,-372.9287 232.2394,-353 266.4024,-315.6786 230.4295,-278.6216 268.2394,-245 291.2456,-224.5423 325.6221,-218.0764 353.2626,-217.8488"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="353.4213,-221.3526 363.4886,-218.0509 353.5597,-214.3539 353.4213,-221.3526"/>
+</g>
+<!-- Fees._fetchProtocolFees&#45;&gt;Fees.address -->
+<g id="edge2" class="edge">
+<title>Fees._fetchProtocolFees-&gt;Fees.address</title>
+<path fill="none" stroke="#00ff00" d="M192.8906,-398.1304C207.3945,-391.6243 221.529,-382.7006 232.2394,-371 266.4024,-333.6786 230.4295,-296.6216 268.2394,-263 290.4048,-243.2899 323.1248,-236.5677 350.2062,-233.6187"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="350.655,-237.0919 360.2756,-232.6541 349.9873,-230.1238 350.655,-237.0919"/>
+</g>
+<!-- Fees.ProtocolFeeCannotBeFetched -->
+<g id="node10" class="node">
+<title>Fees.ProtocolFeeCannotBeFetched</title>
+<ellipse fill="none" stroke="#000000" cx="398.347" cy="-463" rx="126.7857" ry="18"/>
+<text text-anchor="middle" x="398.347" y="-458.8" font-family="Times,serif" font-size="14.00" fill="#000000">ProtocolFeeCannotBeFetched</text>
+</g>
+<!-- Fees._fetchProtocolFees&#45;&gt;Fees.ProtocolFeeCannotBeFetched -->
+<g id="edge3" class="edge">
+<title>Fees._fetchProtocolFees-&gt;Fees.ProtocolFeeCannotBeFetched</title>
+<path fill="none" stroke="#00ff00" d="M186.6893,-421.321C224.3666,-428.7403 272.8332,-438.2842 313.8788,-446.3668"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="313.3823,-449.8362 323.8701,-448.3342 314.7348,-442.968 313.3823,-449.8362"/>
+</g>
+<!-- Fees._fetchHookFees -->
+<g id="node3" class="node">
+<title>Fees._fetchHookFees</title>
+<ellipse fill="none" stroke="#ffffff" cx="124.1197" cy="-281" rx="74.1393" ry="18"/>
+<text text-anchor="middle" x="124.1197" y="-276.8" font-family="Times,serif" font-size="14.00" fill="#000000">_fetchHookFees</text>
+</g>
+<!-- Fees._fetchHookFees&#45;&gt;Fees.address -->
+<g id="edge6" class="edge">
+<title>Fees._fetchHookFees-&gt;Fees.address</title>
+<path fill="none" stroke="#00ff00" d="M158.2963,-264.9824C206.0452,-250.4903 293.0432,-232.8814 348.1567,-226.1632"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="348.8537,-229.6067 358.3964,-225.0037 348.066,-222.6512 348.8537,-229.6067"/>
+</g>
+<!-- Fees._fetchHookFees&#45;&gt;Fees.address -->
+<g id="edge7" class="edge">
+<title>Fees._fetchHookFees-&gt;Fees.address</title>
+<path fill="none" stroke="#00ff00" d="M181.9412,-269.614C232.4482,-259.6683 304.8254,-245.416 351.7098,-236.1837"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="352.4644,-239.6024 361.5997,-234.2362 351.1119,-232.7342 352.4644,-239.6024"/>
+</g>
+<!-- Fees._fetchHookFees&#45;&gt;Fees.address -->
+<g id="edge9" class="edge">
+<title>Fees._fetchHookFees-&gt;Fees.address</title>
+<path fill="none" stroke="#00ff00" d="M197.9683,-278.5897C251.1671,-270.5881 320.6398,-256.0265 362.246,-243.597"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="363.441,-246.8907 371.9445,-240.5708 361.3559,-240.2084 363.441,-246.8907"/>
+</g>
+<!-- Fees.IHookFeeManager -->
+<g id="node11" class="node">
+<title>Fees.IHookFeeManager</title>
+<ellipse fill="none" stroke="#000000" cx="398.347" cy="-281" rx="83.9315" ry="18"/>
+<text text-anchor="middle" x="398.347" y="-276.8" font-family="Times,serif" font-size="14.00" fill="#000000">IHookFeeManager</text>
+</g>
+<!-- Fees._fetchHookFees&#45;&gt;Fees.IHookFeeManager -->
+<g id="edge8" class="edge">
+<title>Fees._fetchHookFees-&gt;Fees.IHookFeeManager</title>
+<path fill="none" stroke="#00ff00" d="M198.6913,-281C231.1706,-281 269.6086,-281 304.0428,-281"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="304.1135,-284.5001 314.1134,-281 304.1134,-277.5001 304.1135,-284.5001"/>
+</g>
+<!-- Fees._fetchDynamicSwapFee -->
+<g id="node4" class="node">
+<title>Fees._fetchDynamicSwapFee</title>
+<ellipse fill="none" stroke="#ffffff" cx="124.1197" cy="-335" rx="105.9189" ry="18"/>
+<text text-anchor="middle" x="124.1197" y="-330.8" font-family="Times,serif" font-size="14.00" fill="#000000">_fetchDynamicSwapFee</text>
+</g>
+<!-- Fees._fetchDynamicSwapFee&#45;&gt;Fees.address -->
+<g id="edge11" class="edge">
+<title>Fees._fetchDynamicSwapFee-&gt;Fees.address</title>
+<path fill="none" stroke="#00ff00" d="M202.4837,-322.8352C213.0451,-319.1276 223.3033,-314.2957 232.2394,-308 255.8194,-291.3873 244.331,-270.1366 268.2394,-254 291.7037,-238.1631 322.5676,-231.305 348.346,-228.4567"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="348.6838,-231.9405 358.3137,-227.5228 348.0308,-224.971 348.6838,-231.9405"/>
+</g>
+<!-- Fees.IDynamicFeeManager -->
+<g id="node12" class="node">
+<title>Fees.IDynamicFeeManager</title>
+<ellipse fill="none" stroke="#000000" cx="398.347" cy="-335" rx="97.8131" ry="18"/>
+<text text-anchor="middle" x="398.347" y="-330.8" font-family="Times,serif" font-size="14.00" fill="#000000">IDynamicFeeManager</text>
+</g>
+<!-- Fees._fetchDynamicSwapFee&#45;&gt;Fees.IDynamicFeeManager -->
+<g id="edge10" class="edge">
+<title>Fees._fetchDynamicSwapFee-&gt;Fees.IDynamicFeeManager</title>
+<path fill="none" stroke="#00ff00" d="M230.1431,-335C249.78,-335 270.315,-335 290.0194,-335"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="290.2387,-338.5001 300.2386,-335 290.2386,-331.5001 290.2387,-338.5001"/>
+</g>
+<!-- Fees.FeeTooLarge -->
+<g id="node13" class="node">
+<title>Fees.FeeTooLarge</title>
+<ellipse fill="none" stroke="#000000" cx="627.5054" cy="-390" rx="63.1015" ry="18"/>
+<text text-anchor="middle" x="627.5054" y="-385.8" font-family="Times,serif" font-size="14.00" fill="#000000">FeeTooLarge</text>
+</g>
+<!-- Fees._fetchDynamicSwapFee&#45;&gt;Fees.FeeTooLarge -->
+<g id="edge12" class="edge">
+<title>Fees._fetchDynamicSwapFee-&gt;Fees.FeeTooLarge</title>
+<path fill="none" stroke="#00ff00" d="M190.6077,-349.0159C214.9391,-353.7319 242.7489,-358.6427 268.2394,-362 383.2386,-377.1462 412.8209,-372.8866 528.4546,-382 537.5486,-382.7167 547.1114,-383.4787 556.5616,-384.2365"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="556.4959,-387.7425 566.7442,-385.055 557.0568,-380.765 556.4959,-387.7425"/>
+</g>
+<!-- Fees._checkProtocolFee&#45;&gt;Fees.FeeTooLarge -->
+<g id="edge13" class="edge">
+<title>Fees._checkProtocolFee-&gt;Fees.FeeTooLarge</title>
+<path fill="none" stroke="#00ff00" d="M477.8523,-402.408C503.5297,-400.2791 531.8078,-397.9345 556.8041,-395.862"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="557.2571,-399.3365 566.9337,-395.0221 556.6786,-392.3605 557.2571,-399.3365"/>
+</g>
+<!-- Fees.setProtocolFeeController -->
+<g id="node6" class="node">
+<title>Fees.setProtocolFeeController</title>
+<ellipse fill="none" stroke="#0000ff" cx="124.1197" cy="-227" rx="108.2395" ry="18"/>
+<text text-anchor="middle" x="124.1197" y="-222.8" font-family="Times,serif" font-size="14.00" fill="#000000">setProtocolFeeController</text>
+</g>
+<!-- Fees.setProtocolFeeController&#45;&gt;Fees.address -->
+<g id="edge15" class="edge">
+<title>Fees.setProtocolFeeController-&gt;Fees.address</title>
+<path fill="none" stroke="#00ff00" d="M232.5016,-227C272.353,-227 315.5947,-227 347.9296,-227"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="348.0266,-230.5001 358.0266,-227 348.0265,-223.5001 348.0266,-230.5001"/>
+</g>
+<!-- Fees.ProtocolFeeControllerUpdated -->
+<g id="node14" class="node">
+<title>Fees.ProtocolFeeControllerUpdated</title>
+<ellipse fill="none" stroke="#000000" cx="398.347" cy="-173" rx="130.2153" ry="18"/>
+<text text-anchor="middle" x="398.347" y="-168.8" font-family="Times,serif" font-size="14.00" fill="#000000">ProtocolFeeControllerUpdated</text>
+</g>
+<!-- Fees.setProtocolFeeController&#45;&gt;Fees.ProtocolFeeControllerUpdated -->
+<g id="edge14" class="edge">
+<title>Fees.setProtocolFeeController-&gt;Fees.ProtocolFeeControllerUpdated</title>
+<path fill="none" stroke="#00ff00" d="M194.0284,-213.2338C230.2997,-206.0914 274.9069,-197.3075 313.1781,-189.7712"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="314.1405,-193.149 323.2758,-187.7828 312.788,-186.2809 314.1405,-193.149"/>
+</g>
+<!-- Fees.collectProtocolFees -->
+<g id="node7" class="node">
+<title>Fees.collectProtocolFees</title>
+<ellipse fill="none" stroke="#0000ff" cx="124.1197" cy="-173" rx="87.3924" ry="18"/>
+<text text-anchor="middle" x="124.1197" y="-168.8" font-family="Times,serif" font-size="14.00" fill="#000000">collectProtocolFees</text>
+</g>
+<!-- Fees.collectProtocolFees&#45;&gt;Fees.address -->
+<g id="edge16" class="edge">
+<title>Fees.collectProtocolFees-&gt;Fees.address</title>
+<path fill="none" stroke="#00ff00" d="M187.3773,-185.4565C237.5227,-195.331 306.4535,-208.9046 351.681,-217.8107"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="351.0297,-221.2496 361.5175,-219.7477 352.3822,-214.3815 351.0297,-221.2496"/>
+</g>
+<!-- Fees.InvalidCaller -->
+<g id="node15" class="node">
+<title>Fees.InvalidCaller</title>
+<ellipse fill="none" stroke="#000000" cx="398.347" cy="-119" rx="61.9731" ry="18"/>
+<text text-anchor="middle" x="398.347" y="-114.8" font-family="Times,serif" font-size="14.00" fill="#000000">InvalidCaller</text>
+</g>
+<!-- Fees.collectProtocolFees&#45;&gt;Fees.InvalidCaller -->
+<g id="edge17" class="edge">
+<title>Fees.collectProtocolFees-&gt;Fees.InvalidCaller</title>
+<path fill="none" stroke="#00ff00" d="M187.3773,-160.5435C232.3758,-151.6825 292.5014,-139.8428 337.0514,-131.0701"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="337.7435,-134.5011 346.8789,-129.1349 336.391,-127.633 337.7435,-134.5011"/>
+</g>
+<!-- Currency.transfer -->
+<g id="node16" class="node">
+<title>Currency.transfer</title>
+<ellipse fill="none" stroke="#000000" cx="398.347" cy="-34" rx="40.5441" ry="18"/>
+<text text-anchor="middle" x="398.347" y="-29.8" font-family="Times,serif" font-size="14.00" fill="#000000">transfer</text>
+</g>
+<!-- Fees.collectProtocolFees&#45;&gt;Currency.transfer -->
+<g id="edge18" class="edge">
+<title>Fees.collectProtocolFees-&gt;Currency.transfer</title>
+<path fill="none" stroke="#ffa500" d="M196.7227,-163.0009C209.3239,-159.0653 221.7355,-153.596 232.2394,-146 256.519,-128.4421 245.3943,-108.3876 268.2394,-89 292.7189,-68.2254 326.189,-54.3147 353.0513,-45.6808"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="354.0922,-49.0225 362.6201,-42.7357 352.033,-42.3323 354.0922,-49.0225"/>
+</g>
+<!-- Fees.collectHookFees -->
+<g id="node8" class="node">
+<title>Fees.collectHookFees</title>
+<ellipse fill="none" stroke="#0000ff" cx="124.1197" cy="-119" rx="75.8605" ry="18"/>
+<text text-anchor="middle" x="124.1197" y="-114.8" font-family="Times,serif" font-size="14.00" fill="#000000">collectHookFees</text>
+</g>
+<!-- Fees.collectHookFees&#45;&gt;Fees.address -->
+<g id="edge19" class="edge">
+<title>Fees.collectHookFees-&gt;Fees.address</title>
+<path fill="none" stroke="#00ff00" d="M191.1993,-127.6351C205.617,-131.6349 220.14,-137.4757 232.2394,-146 255.8194,-162.6127 244.331,-183.8634 268.2394,-200 291.7037,-215.8369 322.5676,-222.695 348.346,-225.5433"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="348.0308,-229.029 358.3137,-226.4772 348.6838,-222.0595 348.0308,-229.029"/>
+</g>
+<!-- Fees.collectHookFees&#45;&gt;Currency.transfer -->
+<g id="edge20" class="edge">
+<title>Fees.collectHookFees-&gt;Currency.transfer</title>
+<path fill="none" stroke="#ffa500" d="M170.3285,-104.677C221.9883,-88.6645 304.982,-62.9396 355.3136,-47.3387"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="356.41,-50.6632 364.9255,-44.3594 354.3375,-43.977 356.41,-50.6632"/>
+</g>
+<!-- key -->
+<g id="node17" class="node">
+<title>key</title>
+<text text-anchor="start" x="108.7557" y="-599.4" font-family="Times,serif" font-size="14.00" fill="#000000">Internal Call</text>
+<text text-anchor="start" x="104.8637" y="-579.4" font-family="Times,serif" font-size="14.00" fill="#000000">External Call</text>
+<text text-anchor="start" x="82.3251" y="-559.4" font-family="Times,serif" font-size="14.00" fill="#000000">Defined Contract</text>
+<text text-anchor="start" x="68.7224" y="-539.4" font-family="Times,serif" font-size="14.00" fill="#000000">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node18" class="node">
+<title>key2</title>
+<text text-anchor="start" x="386.1061" y="-599.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<text text-anchor="start" x="386.1061" y="-579.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="#d3d3d3" stroke="transparent" points="384.347,-554 384.347,-574 412.347,-574 412.347,-554 384.347,-554"/>
+<text text-anchor="start" x="386.1061" y="-559.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="none" stroke="#d3d3d3" points="386.347,-536 386.347,-552 410.347,-552 410.347,-536 386.347,-536"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge21" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#00ff00" d="M181.1197,-604C268.0029,-604 292.2055,-604 374.3142,-604"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="374.347,-607.5001 384.347,-604 374.347,-600.5001 374.347,-607.5001"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge22" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#ffa500" d="M181.1197,-584C268.0029,-584 292.2055,-584 374.3142,-584"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="374.347,-587.5001 384.347,-584 374.347,-580.5001 374.347,-587.5001"/>
+</g>
+</g>
+</svg>

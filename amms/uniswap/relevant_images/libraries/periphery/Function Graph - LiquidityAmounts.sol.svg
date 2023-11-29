@@ -1,0 +1,188 @@
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0.00 0.00 644.96 485.00">
+<g id="graph0" class="graph" transform="translate(4,481) scale(1)" style="transform: translate(4px, 99%) scale(0.98);">
+<title>G</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-481 640.9604,-481 640.9604,4 -4,4"/>
+<g id="clust1" class="cluster">
+<title>clusterLiquidityAmounts</title>
+<polygon fill="#d3d3d3" stroke="#d3d3d3" points="8,-93 8,-332 628.9604,-332 628.9604,-93 8,-93"/>
+<text text-anchor="middle" x="318.4802" y="-315.4" font-family="Times,serif" font-size="14.00" fill="#000000">LiquidityAmounts  (lib)</text>
+</g>
+<g id="clust2" class="cluster">
+<title>clusterFullMath</title>
+<polygon fill="none" stroke="#d3d3d3" points="522.2149,-8 522.2149,-85 619.3035,-85 619.3035,-8 522.2149,-8"/>
+<text text-anchor="middle" x="570.7592" y="-68.4" font-family="Times,serif" font-size="14.00" fill="#000000">FullMath</text>
+</g>
+<g id="clust3" class="cluster">
+<title>cluster_01</title>
+<polygon fill="none" stroke="#000000" points="50.6031,-340 50.6031,-469 410.8821,-469 410.8821,-340 50.6031,-340"/>
+<text text-anchor="middle" x="230.7426" y="-452.4" font-family="Times,serif" font-size="14.00" fill="#000000">Legend</text>
+</g>
+<!-- LiquidityAmounts.toUint128 -->
+<g id="node1" class="node">
+<title>LiquidityAmounts.toUint128</title>
+<ellipse fill="none" stroke="#000000" cx="570.7592" cy="-254" rx="50.4032" ry="18"/>
+<text text-anchor="middle" x="570.7592" y="-249.8" font-family="Times,serif" font-size="14.00" fill="#000000">toUint128</text>
+</g>
+<!-- LiquidityAmounts.getLiquidityForAmount0 -->
+<g id="node2" class="node">
+<title>LiquidityAmounts.getLiquidityForAmount0</title>
+<ellipse fill="none" stroke="#ffffff" cx="375.8821" cy="-227" rx="108.8522" ry="18"/>
+<text text-anchor="middle" x="375.8821" y="-222.8" font-family="Times,serif" font-size="14.00" fill="#000000">getLiquidityForAmount0</text>
+</g>
+<!-- LiquidityAmounts.getLiquidityForAmount0&#45;&gt;LiquidityAmounts.toUint128 -->
+<g id="edge2" class="edge">
+<title>LiquidityAmounts.getLiquidityForAmount0-&gt;LiquidityAmounts.toUint128</title>
+<path fill="none" stroke="#00ff00" d="M459.3756,-238.5679C477.5979,-241.0926 496.4846,-243.7093 513.4151,-246.055"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="513.2948,-249.5717 523.6805,-247.4773 514.2555,-242.638 513.2948,-249.5717"/>
+</g>
+<!-- FullMath.mulDiv -->
+<g id="node8" class="node">
+<title>FullMath.mulDiv</title>
+<ellipse fill="none" stroke="#000000" cx="570.7592" cy="-34" rx="40.5886" ry="18"/>
+<text text-anchor="middle" x="570.7592" y="-29.8" font-family="Times,serif" font-size="14.00" fill="#000000">mulDiv</text>
+</g>
+<!-- LiquidityAmounts.getLiquidityForAmount0&#45;&gt;FullMath.mulDiv -->
+<g id="edge1" class="edge">
+<title>LiquidityAmounts.getLiquidityForAmount0-&gt;FullMath.mulDiv</title>
+<path fill="none" stroke="#ffa500" d="M442.6558,-212.7371C457.9304,-208.3837 473.0397,-201.7378 484.558,-191 522.4934,-155.635 494.4865,-124.8336 520.558,-80 525.5216,-71.4644 531.9917,-63.1265 538.6277,-55.867"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="541.3715,-58.0656 545.8301,-48.4546 536.3512,-53.1875 541.3715,-58.0656"/>
+</g>
+<!-- LiquidityAmounts.getLiquidityForAmount0&#45;&gt;FullMath.mulDiv -->
+<g id="edge3" class="edge">
+<title>LiquidityAmounts.getLiquidityForAmount0-&gt;FullMath.mulDiv</title>
+<path fill="none" stroke="#ffa500" d="M471.9696,-218.4194C476.4801,-215.7039 480.7186,-212.5793 484.558,-209 522.4934,-173.635 494.4865,-142.8336 520.558,-98 528.7954,-83.8346 541.1822,-70.2135 551.5902,-58.9779"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="554.1886,-61.3231 558.4043,-51.6031 549.0473,-56.5727 554.1886,-61.3231"/>
+</g>
+<!-- LiquidityAmounts.getLiquidityForAmount1 -->
+<g id="node3" class="node">
+<title>LiquidityAmounts.getLiquidityForAmount1</title>
+<ellipse fill="none" stroke="#ffffff" cx="375.8821" cy="-281" rx="108.8522" ry="18"/>
+<text text-anchor="middle" x="375.8821" y="-276.8" font-family="Times,serif" font-size="14.00" fill="#000000">getLiquidityForAmount1</text>
+</g>
+<!-- LiquidityAmounts.getLiquidityForAmount1&#45;&gt;LiquidityAmounts.toUint128 -->
+<g id="edge4" class="edge">
+<title>LiquidityAmounts.getLiquidityForAmount1-&gt;LiquidityAmounts.toUint128</title>
+<path fill="none" stroke="#00ff00" d="M459.3756,-269.4321C477.5979,-266.9074 496.4846,-264.2907 513.4151,-261.945"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="514.2555,-265.362 523.6805,-260.5227 513.2948,-258.4283 514.2555,-265.362"/>
+</g>
+<!-- LiquidityAmounts.getLiquidityForAmount1&#45;&gt;FullMath.mulDiv -->
+<g id="edge5" class="edge">
+<title>LiquidityAmounts.getLiquidityForAmount1-&gt;FullMath.mulDiv</title>
+<path fill="none" stroke="#ffa500" d="M461.3832,-269.8681C470.0054,-265.9312 477.9872,-260.7622 484.558,-254 536.8653,-200.1695 486.0764,-155.6693 520.558,-89 526.5899,-77.3374 535.7371,-66.272 544.5784,-57.1654"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="547.1821,-59.5138 551.8579,-50.0066 542.2739,-54.5228 547.1821,-59.5138"/>
+</g>
+<!-- LiquidityAmounts.getLiquidityForAmounts -->
+<g id="node4" class="node">
+<title>LiquidityAmounts.getLiquidityForAmounts</title>
+<ellipse fill="none" stroke="#ffffff" cx="123.6031" cy="-254" rx="107.7062" ry="18"/>
+<text text-anchor="middle" x="123.6031" y="-249.8" font-family="Times,serif" font-size="14.00" fill="#000000">getLiquidityForAmounts</text>
+</g>
+<!-- LiquidityAmounts.getLiquidityForAmounts&#45;&gt;LiquidityAmounts.getLiquidityForAmount0 -->
+<g id="edge6" class="edge">
+<title>LiquidityAmounts.getLiquidityForAmounts-&gt;LiquidityAmounts.getLiquidityForAmount0</title>
+<path fill="none" stroke="#00ff00" d="M193.8768,-240.3556C214.5781,-237.644 237.795,-234.9577 260.5402,-232.6164"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="260.9996,-236.0879 270.5972,-231.6007 260.2961,-229.1234 260.9996,-236.0879"/>
+</g>
+<!-- LiquidityAmounts.getLiquidityForAmounts&#45;&gt;LiquidityAmounts.getLiquidityForAmount0 -->
+<g id="edge7" class="edge">
+<title>LiquidityAmounts.getLiquidityForAmounts-&gt;LiquidityAmounts.getLiquidityForAmount0</title>
+<path fill="none" stroke="#00ff00" d="M228.0357,-249.4835C250.3867,-247.2777 273.6752,-244.6812 294.9793,-242.007"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="295.4656,-245.4734 304.9402,-240.7318 294.5767,-238.53 295.4656,-245.4734"/>
+</g>
+<!-- LiquidityAmounts.getLiquidityForAmounts&#45;&gt;LiquidityAmounts.getLiquidityForAmount1 -->
+<g id="edge8" class="edge">
+<title>LiquidityAmounts.getLiquidityForAmounts-&gt;LiquidityAmounts.getLiquidityForAmount1</title>
+<path fill="none" stroke="#00ff00" d="M228.0357,-258.5165C250.3867,-260.7223 273.6752,-263.3188 294.9793,-265.993"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="294.5767,-269.47 304.9402,-267.2682 295.4656,-262.5266 294.5767,-269.47"/>
+</g>
+<!-- LiquidityAmounts.getLiquidityForAmounts&#45;&gt;LiquidityAmounts.getLiquidityForAmount1 -->
+<g id="edge9" class="edge">
+<title>LiquidityAmounts.getLiquidityForAmounts-&gt;LiquidityAmounts.getLiquidityForAmount1</title>
+<path fill="none" stroke="#00ff00" d="M193.8768,-267.6444C214.5781,-270.356 237.795,-273.0423 260.5402,-275.3836"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="260.2961,-278.8766 270.5972,-276.3993 260.9996,-271.9121 260.2961,-278.8766"/>
+</g>
+<!-- LiquidityAmounts.getAmount0ForLiquidity -->
+<g id="node5" class="node">
+<title>LiquidityAmounts.getAmount0ForLiquidity</title>
+<ellipse fill="none" stroke="#ffffff" cx="375.8821" cy="-119" rx="108.8522" ry="18"/>
+<text text-anchor="middle" x="375.8821" y="-114.8" font-family="Times,serif" font-size="14.00" fill="#000000">getAmount0ForLiquidity</text>
+</g>
+<!-- LiquidityAmounts.getAmount0ForLiquidity&#45;&gt;FullMath.mulDiv -->
+<g id="edge10" class="edge">
+<title>LiquidityAmounts.getAmount0ForLiquidity-&gt;FullMath.mulDiv</title>
+<path fill="none" stroke="#ffa500" d="M414.85,-102.0033C448.919,-87.1433 498.1218,-65.6824 532.0992,-50.8624"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="533.9202,-53.8867 541.687,-46.6805 531.1216,-47.4704 533.9202,-53.8867"/>
+</g>
+<!-- LiquidityAmounts.getAmount1ForLiquidity -->
+<g id="node6" class="node">
+<title>LiquidityAmounts.getAmount1ForLiquidity</title>
+<ellipse fill="none" stroke="#ffffff" cx="375.8821" cy="-173" rx="108.8522" ry="18"/>
+<text text-anchor="middle" x="375.8821" y="-168.8" font-family="Times,serif" font-size="14.00" fill="#000000">getAmount1ForLiquidity</text>
+</g>
+<!-- LiquidityAmounts.getAmount1ForLiquidity&#45;&gt;FullMath.mulDiv -->
+<g id="edge11" class="edge">
+<title>LiquidityAmounts.getAmount1ForLiquidity-&gt;FullMath.mulDiv</title>
+<path fill="none" stroke="#ffa500" d="M455.9145,-160.6802C466.1111,-156.9895 475.9687,-152.2036 484.558,-146 508.8481,-128.4567 502.3875,-112.8246 520.558,-89 528.643,-78.3992 538.3606,-67.414 547.0834,-58.0744"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="549.774,-60.3236 554.1189,-50.6607 544.6964,-55.5051 549.774,-60.3236"/>
+</g>
+<!-- LiquidityAmounts.getAmountsForLiquidity -->
+<g id="node7" class="node">
+<title>LiquidityAmounts.getAmountsForLiquidity</title>
+<ellipse fill="none" stroke="#ffffff" cx="123.6031" cy="-146" rx="107.7062" ry="18"/>
+<text text-anchor="middle" x="123.6031" y="-141.8" font-family="Times,serif" font-size="14.00" fill="#000000">getAmountsForLiquidity</text>
+</g>
+<!-- LiquidityAmounts.getAmountsForLiquidity&#45;&gt;LiquidityAmounts.getAmount0ForLiquidity -->
+<g id="edge12" class="edge">
+<title>LiquidityAmounts.getAmountsForLiquidity-&gt;LiquidityAmounts.getAmount0ForLiquidity</title>
+<path fill="none" stroke="#00ff00" d="M193.8768,-132.3556C214.5781,-129.644 237.795,-126.9577 260.5402,-124.6164"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="260.9996,-128.0879 270.5972,-123.6007 260.2961,-121.1234 260.9996,-128.0879"/>
+</g>
+<!-- LiquidityAmounts.getAmountsForLiquidity&#45;&gt;LiquidityAmounts.getAmount0ForLiquidity -->
+<g id="edge13" class="edge">
+<title>LiquidityAmounts.getAmountsForLiquidity-&gt;LiquidityAmounts.getAmount0ForLiquidity</title>
+<path fill="none" stroke="#00ff00" d="M228.0357,-141.4835C250.3867,-139.2777 273.6752,-136.6812 294.9793,-134.007"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="295.4656,-137.4734 304.9402,-132.7318 294.5767,-130.53 295.4656,-137.4734"/>
+</g>
+<!-- LiquidityAmounts.getAmountsForLiquidity&#45;&gt;LiquidityAmounts.getAmount1ForLiquidity -->
+<g id="edge14" class="edge">
+<title>LiquidityAmounts.getAmountsForLiquidity-&gt;LiquidityAmounts.getAmount1ForLiquidity</title>
+<path fill="none" stroke="#00ff00" d="M228.0357,-150.5165C250.3867,-152.7223 273.6752,-155.3188 294.9793,-157.993"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="294.5767,-161.47 304.9402,-159.2682 295.4656,-154.5266 294.5767,-161.47"/>
+</g>
+<!-- LiquidityAmounts.getAmountsForLiquidity&#45;&gt;LiquidityAmounts.getAmount1ForLiquidity -->
+<g id="edge15" class="edge">
+<title>LiquidityAmounts.getAmountsForLiquidity-&gt;LiquidityAmounts.getAmount1ForLiquidity</title>
+<path fill="none" stroke="#00ff00" d="M193.8768,-159.6444C214.5781,-162.356 237.795,-165.0423 260.5402,-167.3836"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="260.2961,-170.8766 270.5972,-168.3993 260.9996,-163.9121 260.2961,-170.8766"/>
+</g>
+<!-- key -->
+<g id="node9" class="node">
+<title>key</title>
+<text text-anchor="start" x="108.2391" y="-417.4" font-family="Times,serif" font-size="14.00" fill="#000000">Internal Call</text>
+<text text-anchor="start" x="104.3471" y="-397.4" font-family="Times,serif" font-size="14.00" fill="#000000">External Call</text>
+<text text-anchor="start" x="81.8085" y="-377.4" font-family="Times,serif" font-size="14.00" fill="#000000">Defined Contract</text>
+<text text-anchor="start" x="68.2058" y="-357.4" font-family="Times,serif" font-size="14.00" fill="#000000">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node10" class="node">
+<title>key2</title>
+<text text-anchor="start" x="363.6412" y="-417.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<text text-anchor="start" x="363.6412" y="-397.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="#d3d3d3" stroke="transparent" points="361.8821,-372 361.8821,-392 389.8821,-392 389.8821,-372 361.8821,-372"/>
+<text text-anchor="start" x="363.6412" y="-377.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="none" stroke="#d3d3d3" points="363.8821,-354 363.8821,-370 387.8821,-370 387.8821,-354 363.8821,-354"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge16" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#00ff00" d="M180.6031,-422C257.7096,-422 279.4711,-422 351.8214,-422"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="351.8821,-425.5001 361.8821,-422 351.882,-418.5001 351.8821,-425.5001"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge17" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#ffa500" d="M180.6031,-402C257.7096,-402 279.4711,-402 351.8214,-402"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="351.8821,-405.5001 361.8821,-402 351.882,-398.5001 351.8821,-405.5001"/>
+</g>
+</g>
+</svg>

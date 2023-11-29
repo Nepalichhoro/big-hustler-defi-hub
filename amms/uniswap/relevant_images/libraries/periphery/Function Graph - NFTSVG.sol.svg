@@ -1,0 +1,218 @@
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0.00 0.00 1041.47 593.00">
+<g id="graph0" class="graph" transform="translate(4,589) scale(1)" style="transform: translate(4px, 99%) scale(0.98);">
+<title>G</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-589 1037.4717,-589 1037.4717,4 -4,4"/>
+<g id="clust1" class="cluster">
+<title>clusterNFTSVG</title>
+<polygon fill="#d3d3d3" stroke="#d3d3d3" points="9.9502,-93 9.9502,-440 969.135,-440 969.135,-93 9.9502,-93"/>
+<text text-anchor="middle" x="489.5426" y="-423.4" font-family="Times,serif" font-size="14.00" fill="#000000">NFTSVG  (lib)</text>
+</g>
+<g id="clust2" class="cluster">
+<title>clusterBitMath</title>
+<polygon fill="none" stroke="#d3d3d3" points="841.4707,-8 841.4707,-85 1025.4717,-85 1025.4717,-8 841.4707,-8"/>
+<text text-anchor="middle" x="933.4712" y="-68.4" font-family="Times,serif" font-size="14.00" fill="#000000">BitMath</text>
+</g>
+<g id="clust3" class="cluster">
+<title>cluster_01</title>
+<polygon fill="none" stroke="#000000" points="8,-448 8,-577 404.4911,-577 404.4911,-448 8,-448"/>
+<text text-anchor="middle" x="206.2455" y="-560.4" font-family="Times,serif" font-size="14.00" fill="#000000">Legend</text>
+</g>
+<!-- NFTSVG.generateSVG -->
+<g id="node1" class="node">
+<title>NFTSVG.generateSVG</title>
+<ellipse fill="none" stroke="#ffffff" cx="81" cy="-254" rx="63.0996" ry="18"/>
+<text text-anchor="middle" x="81" y="-249.8" font-family="Times,serif" font-size="14.00" fill="#000000">generateSVG</text>
+</g>
+<!-- NFTSVG.generateSVGDefs -->
+<g id="node2" class="node">
+<title>NFTSVG.generateSVGDefs</title>
+<ellipse fill="none" stroke="#000000" cx="369.4911" cy="-119" rx="81.0571" ry="18"/>
+<text text-anchor="middle" x="369.4911" y="-114.8" font-family="Times,serif" font-size="14.00" fill="#000000">generateSVGDefs</text>
+</g>
+<!-- NFTSVG.generateSVG&#45;&gt;NFTSVG.generateSVGDefs -->
+<g id="edge1" class="edge">
+<title>NFTSVG.generateSVG-&gt;NFTSVG.generateSVGDefs</title>
+<path fill="none" stroke="#00ff00" d="M92.1326,-235.9188C108.4839,-211.0956 141.4885,-167.1397 182,-146 211.0707,-130.8303 245.9386,-123.3815 277.6778,-119.9405"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="278.2432,-123.4023 287.8615,-118.9594 277.5719,-116.4346 278.2432,-123.4023"/>
+</g>
+<!-- NFTSVG.generateSVGBorderText -->
+<g id="node3" class="node">
+<title>NFTSVG.generateSVGBorderText</title>
+<ellipse fill="none" stroke="#000000" cx="369.4911" cy="-173" rx="107.6231" ry="18"/>
+<text text-anchor="middle" x="369.4911" y="-168.8" font-family="Times,serif" font-size="14.00" fill="#000000">generateSVGBorderText</text>
+</g>
+<!-- NFTSVG.generateSVG&#45;&gt;NFTSVG.generateSVGBorderText -->
+<g id="edge2" class="edge">
+<title>NFTSVG.generateSVG-&gt;NFTSVG.generateSVGBorderText</title>
+<path fill="none" stroke="#00ff00" d="M106.0477,-237.4162C125.8413,-225.1177 154.6054,-208.9873 182,-200 207.2142,-191.728 235.1609,-185.9882 261.6124,-182.0061"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="262.2661,-185.4483 271.6682,-180.5644 261.2726,-178.5192 262.2661,-185.4483"/>
+</g>
+<!-- NFTSVG.generateSVGCardMantle -->
+<g id="node4" class="node">
+<title>NFTSVG.generateSVGCardMantle</title>
+<ellipse fill="none" stroke="#000000" cx="369.4911" cy="-227" rx="109.3468" ry="18"/>
+<text text-anchor="middle" x="369.4911" y="-222.8" font-family="Times,serif" font-size="14.00" fill="#000000">generateSVGCardMantle</text>
+</g>
+<!-- NFTSVG.generateSVG&#45;&gt;NFTSVG.generateSVGCardMantle -->
+<g id="edge3" class="edge">
+<title>NFTSVG.generateSVG-&gt;NFTSVG.generateSVGCardMantle</title>
+<path fill="none" stroke="#00ff00" d="M141.126,-248.3728C176.7477,-245.0389 222.8898,-240.7205 264.3645,-236.8388"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="264.8895,-240.3051 274.5198,-235.8884 264.2372,-233.3356 264.8895,-240.3051"/>
+</g>
+<!-- NFTSVG.generageSvgCurve -->
+<g id="node5" class="node">
+<title>NFTSVG.generageSvgCurve</title>
+<ellipse fill="none" stroke="#000000" cx="369.4911" cy="-281" rx="84.515" ry="18"/>
+<text text-anchor="middle" x="369.4911" y="-276.8" font-family="Times,serif" font-size="14.00" fill="#000000">generageSvgCurve</text>
+</g>
+<!-- NFTSVG.generateSVG&#45;&gt;NFTSVG.generageSvgCurve -->
+<g id="edge4" class="edge">
+<title>NFTSVG.generateSVG-&gt;NFTSVG.generageSvgCurve</title>
+<path fill="none" stroke="#00ff00" d="M141.126,-259.6272C181.8095,-263.4348 236.216,-268.5267 281.719,-272.7854"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="281.598,-276.2893 291.8806,-273.7364 282.2503,-269.3197 281.598,-276.2893"/>
+</g>
+<!-- NFTSVG.generateSVGPositionDataAndLocationCurve -->
+<g id="node8" class="node">
+<title>NFTSVG.generateSVGPositionDataAndLocationCurve</title>
+<ellipse fill="none" stroke="#000000" cx="369.4911" cy="-335" rx="187.4822" ry="18"/>
+<text text-anchor="middle" x="369.4911" y="-330.8" font-family="Times,serif" font-size="14.00" fill="#000000">generateSVGPositionDataAndLocationCurve</text>
+</g>
+<!-- NFTSVG.generateSVG&#45;&gt;NFTSVG.generateSVGPositionDataAndLocationCurve -->
+<g id="edge5" class="edge">
+<title>NFTSVG.generateSVG-&gt;NFTSVG.generateSVGPositionDataAndLocationCurve</title>
+<path fill="none" stroke="#00ff00" d="M106.0477,-270.5838C125.8413,-282.8823 154.6054,-299.0127 182,-308 196.8793,-312.8814 212.7101,-316.881 228.6237,-320.158"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="228.0477,-323.6117 238.5351,-322.1064 229.398,-316.7432 228.0477,-323.6117"/>
+</g>
+<!-- NFTSVG.generateSVGRareSparkle -->
+<g id="node11" class="node">
+<title>NFTSVG.generateSVGRareSparkle</title>
+<ellipse fill="none" stroke="#000000" cx="369.4911" cy="-389" rx="110.5512" ry="18"/>
+<text text-anchor="middle" x="369.4911" y="-384.8" font-family="Times,serif" font-size="14.00" fill="#000000">generateSVGRareSparkle</text>
+</g>
+<!-- NFTSVG.generateSVG&#45;&gt;NFTSVG.generateSVGRareSparkle -->
+<g id="edge6" class="edge">
+<title>NFTSVG.generateSVG-&gt;NFTSVG.generateSVGRareSparkle</title>
+<path fill="none" stroke="#00ff00" d="M92.1326,-272.0812C108.4839,-296.9044 141.4885,-340.8603 182,-362 202.7915,-372.8495 226.5485,-379.7495 250.0053,-384.0586"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="249.5873,-387.5375 260.0304,-385.7507 250.7524,-380.6351 249.5873,-387.5375"/>
+</g>
+<!-- NFTSVG.getCurve -->
+<g id="node6" class="node">
+<title>NFTSVG.getCurve</title>
+<ellipse fill="none" stroke="#000000" cx="703.2264" cy="-173" rx="46.3682" ry="18"/>
+<text text-anchor="middle" x="703.2264" y="-168.8" font-family="Times,serif" font-size="14.00" fill="#000000">getCurve</text>
+</g>
+<!-- NFTSVG.generageSvgCurve&#45;&gt;NFTSVG.getCurve -->
+<g id="edge7" class="edge">
+<title>NFTSVG.generageSvgCurve-&gt;NFTSVG.getCurve</title>
+<path fill="none" stroke="#00ff00" d="M453.4986,-283.4736C487.8235,-280.9342 526.5279,-273.217 556.9822,-254 581.3761,-238.6072 569.3646,-216.5592 592.9822,-200 608.9154,-188.8286 628.9608,-182.2583 647.5749,-178.4016"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="648.245,-181.8371 657.4403,-176.5742 646.97,-174.9542 648.245,-181.8371"/>
+</g>
+<!-- NFTSVG.generateSVGCurveCircle -->
+<g id="node7" class="node">
+<title>NFTSVG.generateSVGCurveCircle</title>
+<ellipse fill="none" stroke="#000000" cx="703.2264" cy="-227" rx="110.489" ry="18"/>
+<text text-anchor="middle" x="703.2264" y="-222.8" font-family="Times,serif" font-size="14.00" fill="#000000">generateSVGCurveCircle</text>
+</g>
+<!-- NFTSVG.generageSvgCurve&#45;&gt;NFTSVG.generateSVGCurveCircle -->
+<g id="edge8" class="edge">
+<title>NFTSVG.generageSvgCurve-&gt;NFTSVG.generateSVGCurveCircle</title>
+<path fill="none" stroke="#00ff00" d="M441.2637,-271.342C476.2257,-266.4646 518.8517,-260.2629 556.9822,-254 578.0965,-250.532 600.8668,-246.4797 622.008,-242.585"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="622.7217,-246.0124 631.9168,-240.7493 621.4465,-239.1295 622.7217,-246.0124"/>
+</g>
+<!-- NFTSVG.tickToString -->
+<g id="node9" class="node">
+<title>NFTSVG.tickToString</title>
+<ellipse fill="none" stroke="#000000" cx="703.2264" cy="-281" rx="59.7089" ry="18"/>
+<text text-anchor="middle" x="703.2264" y="-276.8" font-family="Times,serif" font-size="14.00" fill="#000000">tickToString</text>
+</g>
+<!-- NFTSVG.generateSVGPositionDataAndLocationCurve&#45;&gt;NFTSVG.tickToString -->
+<g id="edge9" class="edge">
+<title>NFTSVG.generateSVGPositionDataAndLocationCurve-&gt;NFTSVG.tickToString</title>
+<path fill="none" stroke="#00ff00" d="M435.9694,-318.0891C471.8606,-312.0979 516.9046,-305.5827 556.9822,-299 582.2854,-294.844 609.9666,-289.8489 634.3724,-285.8169"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="634.95,-289.269 644.2588,-284.2098 633.8268,-282.3597 634.95,-289.269"/>
+</g>
+<!-- NFTSVG.generateSVGPositionDataAndLocationCurve&#45;&gt;NFTSVG.tickToString -->
+<g id="edge10" class="edge">
+<title>NFTSVG.generateSVGPositionDataAndLocationCurve-&gt;NFTSVG.tickToString</title>
+<path fill="none" stroke="#00ff00" d="M514.9255,-323.5951C529.1485,-321.4695 543.3526,-319.2387 556.9822,-317 590.5978,-311.4787 628.4107,-304.4765 657.1646,-297.7544"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="658.0386,-301.144 666.9356,-295.3912 656.393,-294.3401 658.0386,-301.144"/>
+</g>
+<!-- NFTSVG.rangeLocation -->
+<g id="node10" class="node">
+<title>NFTSVG.rangeLocation</title>
+<ellipse fill="none" stroke="#000000" cx="703.2264" cy="-335" rx="66.6151" ry="18"/>
+<text text-anchor="middle" x="703.2264" y="-330.8" font-family="Times,serif" font-size="14.00" fill="#000000">rangeLocation</text>
+</g>
+<!-- NFTSVG.generateSVGPositionDataAndLocationCurve&#45;&gt;NFTSVG.rangeLocation -->
+<g id="edge11" class="edge">
+<title>NFTSVG.generateSVGPositionDataAndLocationCurve-&gt;NFTSVG.rangeLocation</title>
+<path fill="none" stroke="#00ff00" d="M557.3308,-335C581.532,-335 605.1352,-335 626.0606,-335"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="626.1088,-338.5001 636.1088,-335 626.1088,-331.5001 626.1088,-338.5001"/>
+</g>
+<!-- NFTSVG.isRare -->
+<g id="node12" class="node">
+<title>NFTSVG.isRare</title>
+<ellipse fill="none" stroke="#000000" cx="703.2264" cy="-389" rx="35.9096" ry="18"/>
+<text text-anchor="middle" x="703.2264" y="-384.8" font-family="Times,serif" font-size="14.00" fill="#000000">isRare</text>
+</g>
+<!-- NFTSVG.generateSVGRareSparkle&#45;&gt;NFTSVG.isRare -->
+<g id="edge12" class="edge">
+<title>NFTSVG.generateSVGRareSparkle-&gt;NFTSVG.isRare</title>
+<path fill="none" stroke="#00ff00" d="M480.6201,-389C540.7827,-389 611.8665,-389 657.2318,-389"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="657.3476,-392.5001 667.3475,-389 657.3475,-385.5001 657.3476,-392.5001"/>
+</g>
+<!-- NFTSVG.type -->
+<g id="node13" class="node">
+<title>NFTSVG.type</title>
+<ellipse fill="none" stroke="#000000" cx="933.4712" cy="-389" rx="27.8286" ry="18"/>
+<text text-anchor="middle" x="933.4712" y="-384.8" font-family="Times,serif" font-size="14.00" fill="#000000">type</text>
+</g>
+<!-- NFTSVG.isRare&#45;&gt;NFTSVG.type -->
+<g id="edge13" class="edge">
+<title>NFTSVG.isRare-&gt;NFTSVG.type</title>
+<path fill="none" stroke="#00ff00" d="M738.9495,-389C781.4247,-389 852.0157,-389 895.4682,-389"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="895.6321,-392.5001 905.632,-389 895.632,-385.5001 895.6321,-392.5001"/>
+</g>
+<!-- BitMath.mostSignificantBit -->
+<g id="node14" class="node">
+<title>BitMath.mostSignificantBit</title>
+<ellipse fill="none" stroke="#000000" cx="933.4712" cy="-34" rx="84.001" ry="18"/>
+<text text-anchor="middle" x="933.4712" y="-29.8" font-family="Times,serif" font-size="14.00" fill="#000000">mostSignificantBit</text>
+</g>
+<!-- NFTSVG.isRare&#45;&gt;BitMath.mostSignificantBit -->
+<g id="edge14" class="edge">
+<title>NFTSVG.isRare-&gt;BitMath.mostSignificantBit</title>
+<path fill="none" stroke="#ffa500" d="M738.9342,-390.235C763.6345,-389.0167 795.2251,-382.9541 813.4707,-362 853.5183,-316.0071 808.7106,-140.4387 841.4707,-89 850.9969,-74.0422 866.1795,-62.5991 881.4873,-54.1267"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="883.1997,-57.1815 890.4729,-49.4775 879.9829,-50.9644 883.1997,-57.1815"/>
+</g>
+<!-- key -->
+<g id="node15" class="node">
+<title>key</title>
+<text text-anchor="start" x="65.636" y="-525.4" font-family="Times,serif" font-size="14.00" fill="#000000">Internal Call</text>
+<text text-anchor="start" x="61.744" y="-505.4" font-family="Times,serif" font-size="14.00" fill="#000000">External Call</text>
+<text text-anchor="start" x="39.2054" y="-485.4" font-family="Times,serif" font-size="14.00" fill="#000000">Defined Contract</text>
+<text text-anchor="start" x="25.6027" y="-465.4" font-family="Times,serif" font-size="14.00" fill="#000000">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node16" class="node">
+<title>key2</title>
+<text text-anchor="start" x="357.2502" y="-525.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<text text-anchor="start" x="357.2502" y="-505.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="#d3d3d3" stroke="transparent" points="355.4911,-480 355.4911,-500 383.4911,-500 383.4911,-480 355.4911,-480"/>
+<text text-anchor="start" x="357.2502" y="-485.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="none" stroke="#d3d3d3" points="357.4911,-462 357.4911,-478 381.4911,-478 381.4911,-462 357.4911,-462"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge15" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#00ff00" d="M138,-530C231.17,-530 256.9874,-530 345.2901,-530"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="345.4911,-533.5001 355.4911,-530 345.4911,-526.5001 345.4911,-533.5001"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge16" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#ffa500" d="M138,-510C231.17,-510 256.9874,-510 345.2901,-510"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="345.4911,-513.5001 355.4911,-510 345.4911,-506.5001 345.4911,-513.5001"/>
+</g>
+</g>
+</svg>

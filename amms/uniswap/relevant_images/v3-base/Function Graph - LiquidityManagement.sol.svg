@@ -1,0 +1,202 @@
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0.00 0.00 507.45 825.00">
+<g id="graph0" class="graph" transform="translate(4,821) scale(1)" style="transform: translate(4px, 99%) scale(0.98);">
+<title>G</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-821 503.4532,-821 503.4532,4 -4,4"/>
+<g id="clust1" class="cluster">
+<title>clusterLiquidityManagement</title>
+<polygon fill="#d3d3d3" stroke="#d3d3d3" points="8,-541 8,-672 461.9358,-672 461.9358,-541 8,-541"/>
+<text text-anchor="middle" x="234.9679" y="-655.4" font-family="Times,serif" font-size="14.00" fill="#000000">LiquidityManagement</text>
+</g>
+<g id="clust2" class="cluster">
+<title>clusterCallbackValidation</title>
+<polygon fill="none" stroke="#d3d3d3" points="299.4321,-456 299.4321,-533 452.2683,-533 452.2683,-456 299.4321,-456"/>
+<text text-anchor="middle" x="375.8502" y="-516.4" font-family="Times,serif" font-size="14.00" fill="#000000">CallbackValidation</text>
+</g>
+<g id="clust3" class="cluster">
+<title>clusterPoolAddress</title>
+<polygon fill="none" stroke="#d3d3d3" points="291.918,-317 291.918,-448 459.7823,-448 459.7823,-317 291.918,-317"/>
+<text text-anchor="middle" x="375.8502" y="-431.4" font-family="Times,serif" font-size="14.00" fill="#000000">PoolAddress</text>
+</g>
+<g id="clust4" class="cluster">
+<title>clusterIUniswapV3Pool</title>
+<polygon fill="none" stroke="#d3d3d3" points="320.0338,-178 320.0338,-309 432.6666,-309 432.6666,-178 320.0338,-178"/>
+<text text-anchor="middle" x="376.3502" y="-292.4" font-family="Times,serif" font-size="14.00" fill="#000000">IUniswapV3Pool</text>
+</g>
+<g id="clust5" class="cluster">
+<title>clusterTickMath</title>
+<polygon fill="none" stroke="#d3d3d3" points="280.6436,-93 280.6436,-170 471.0568,-170 471.0568,-93 280.6436,-93"/>
+<text text-anchor="middle" x="375.8502" y="-153.4" font-family="Times,serif" font-size="14.00" fill="#000000">TickMath</text>
+</g>
+<g id="clust6" class="cluster">
+<title>clusterLiquidityAmounts</title>
+<polygon fill="none" stroke="#d3d3d3" points="260.2471,-8 260.2471,-85 491.4532,-85 491.4532,-8 260.2471,-8"/>
+<text text-anchor="middle" x="375.8502" y="-68.4" font-family="Times,serif" font-size="14.00" fill="#000000">LiquidityAmounts</text>
+</g>
+<g id="clust7" class="cluster">
+<title>cluster_01</title>
+<polygon fill="none" stroke="#000000" points="51.1236,-680 51.1236,-809 410.8502,-809 410.8502,-680 51.1236,-680"/>
+<text text-anchor="middle" x="230.9869" y="-792.4" font-family="Times,serif" font-size="14.00" fill="#000000">Legend</text>
+</g>
+<!-- LiquidityManagement.uniswapV3MintCallback -->
+<g id="node1" class="node">
+<title>LiquidityManagement.uniswapV3MintCallback</title>
+<ellipse fill="none" stroke="#0000ff" cx="124.1236" cy="-621" rx="108.2473" ry="18"/>
+<text text-anchor="middle" x="124.1236" y="-616.8" font-family="Times,serif" font-size="14.00" fill="#000000">uniswapV3MintCallback</text>
+</g>
+<!-- LiquidityManagement.pay -->
+<g id="node3" class="node">
+<title>LiquidityManagement.pay</title>
+<ellipse fill="none" stroke="#000000" cx="375.8502" cy="-621" rx="27" ry="18"/>
+<text text-anchor="middle" x="375.8502" y="-616.8" font-family="Times,serif" font-size="14.00" fill="#000000">pay</text>
+</g>
+<!-- LiquidityManagement.uniswapV3MintCallback&#45;&gt;LiquidityManagement.pay -->
+<g id="edge2" class="edge">
+<title>LiquidityManagement.uniswapV3MintCallback-&gt;LiquidityManagement.pay</title>
+<path fill="none" stroke="#00ff00" d="M224.6978,-614.3726C265.2458,-613.9746 309.446,-614.5456 339.5138,-616.0855"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="339.3435,-619.5815 349.5306,-616.6706 339.7518,-612.5934 339.3435,-619.5815"/>
+</g>
+<!-- LiquidityManagement.uniswapV3MintCallback&#45;&gt;LiquidityManagement.pay -->
+<g id="edge3" class="edge">
+<title>LiquidityManagement.uniswapV3MintCallback-&gt;LiquidityManagement.pay</title>
+<path fill="none" stroke="#00ff00" d="M224.6978,-627.6274C265.2458,-628.0254 309.446,-627.4544 339.5138,-625.9145"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="339.7518,-629.4066 349.5306,-625.3294 339.3435,-622.4185 339.7518,-629.4066"/>
+</g>
+<!-- CallbackValidation.verifyCallback -->
+<g id="node5" class="node">
+<title>CallbackValidation.verifyCallback</title>
+<ellipse fill="none" stroke="#000000" cx="375.8502" cy="-482" rx="68.3362" ry="18"/>
+<text text-anchor="middle" x="375.8502" y="-477.8" font-family="Times,serif" font-size="14.00" fill="#000000">verifyCallback</text>
+</g>
+<!-- LiquidityManagement.uniswapV3MintCallback&#45;&gt;CallbackValidation.verifyCallback -->
+<g id="edge1" class="edge">
+<title>LiquidityManagement.uniswapV3MintCallback-&gt;CallbackValidation.verifyCallback</title>
+<path fill="none" stroke="#ffa500" d="M205.4907,-609.0406C215.1371,-605.283 224.3453,-600.3827 232.2471,-594 254.2038,-576.2645 240.1645,-556.8325 260.2471,-537 277.1151,-520.3421 299.9957,-508.0173 320.9503,-499.3067"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="322.407,-502.4943 330.4141,-495.5562 319.828,-495.9867 322.407,-502.4943"/>
+</g>
+<!-- LiquidityManagement.addLiquidity -->
+<g id="node2" class="node">
+<title>LiquidityManagement.addLiquidity</title>
+<ellipse fill="none" stroke="#ffffff" cx="124.1236" cy="-567" rx="60.8564" ry="18"/>
+<text text-anchor="middle" x="124.1236" y="-562.8" font-family="Times,serif" font-size="14.00" fill="#000000">addLiquidity</text>
+</g>
+<!-- LiquidityManagement.IUniswapV3Pool -->
+<g id="node4" class="node">
+<title>LiquidityManagement.IUniswapV3Pool</title>
+<ellipse fill="none" stroke="#000000" cx="375.8502" cy="-567" rx="78.1714" ry="18"/>
+<text text-anchor="middle" x="375.8502" y="-562.8" font-family="Times,serif" font-size="14.00" fill="#000000">IUniswapV3Pool</text>
+</g>
+<!-- LiquidityManagement.addLiquidity&#45;&gt;LiquidityManagement.IUniswapV3Pool -->
+<g id="edge5" class="edge">
+<title>LiquidityManagement.addLiquidity-&gt;LiquidityManagement.IUniswapV3Pool</title>
+<path fill="none" stroke="#00ff00" d="M185.0596,-567C215.6522,-567 253.2923,-567 287.033,-567"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="287.367,-570.5001 297.367,-567 287.3669,-563.5001 287.367,-570.5001"/>
+</g>
+<!-- PoolAddress.PoolKey -->
+<g id="node6" class="node">
+<title>PoolAddress.PoolKey</title>
+<ellipse fill="none" stroke="#000000" cx="375.8502" cy="-397" rx="44.6645" ry="18"/>
+<text text-anchor="middle" x="375.8502" y="-392.8" font-family="Times,serif" font-size="14.00" fill="#000000">PoolKey</text>
+</g>
+<!-- LiquidityManagement.addLiquidity&#45;&gt;PoolAddress.PoolKey -->
+<g id="edge4" class="edge">
+<title>LiquidityManagement.addLiquidity-&gt;PoolAddress.PoolKey</title>
+<path fill="none" stroke="#ffa500" d="M141.8648,-549.3833C166.7717,-525.2915 214.2278,-481.6775 260.2471,-452 283.6185,-436.928 311.7605,-423.4502 334.4264,-413.6088"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="335.9511,-416.7636 343.7752,-409.6197 333.2038,-410.3252 335.9511,-416.7636"/>
+</g>
+<!-- PoolAddress.computeAddress -->
+<g id="node7" class="node">
+<title>PoolAddress.computeAddress</title>
+<ellipse fill="none" stroke="#000000" cx="375.8502" cy="-343" rx="75.8643" ry="18"/>
+<text text-anchor="middle" x="375.8502" y="-338.8" font-family="Times,serif" font-size="14.00" fill="#000000">computeAddress</text>
+</g>
+<!-- LiquidityManagement.addLiquidity&#45;&gt;PoolAddress.computeAddress -->
+<g id="edge6" class="edge">
+<title>LiquidityManagement.addLiquidity-&gt;PoolAddress.computeAddress</title>
+<path fill="none" stroke="#ffa500" d="M131.1935,-548.9748C147.5416,-509.7742 191.8657,-416.5614 260.2471,-370 271.1754,-362.5589 283.8856,-357.1516 296.7985,-353.2262"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="297.9741,-356.5328 306.6864,-350.504 296.1161,-349.7839 297.9741,-356.5328"/>
+</g>
+<!-- IUniswapV3Pool.slot0 -->
+<g id="node8" class="node">
+<title>IUniswapV3Pool.slot0</title>
+<ellipse fill="none" stroke="#000000" cx="375.8502" cy="-258" rx="29.6339" ry="18"/>
+<text text-anchor="middle" x="375.8502" y="-253.8" font-family="Times,serif" font-size="14.00" fill="#000000">slot0</text>
+</g>
+<!-- LiquidityManagement.addLiquidity&#45;&gt;IUniswapV3Pool.slot0 -->
+<g id="edge7" class="edge">
+<title>LiquidityManagement.addLiquidity-&gt;IUniswapV3Pool.slot0</title>
+<path fill="none" stroke="#ffa500" d="M129.4425,-548.8683C143.5865,-503.4867 186.1896,-383.5928 260.2471,-313 282.4463,-291.8394 314.3012,-277.511 338.953,-268.7974"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="340.332,-272.026 348.688,-265.5124 338.0939,-265.3935 340.332,-272.026"/>
+</g>
+<!-- IUniswapV3Pool.mint -->
+<g id="node9" class="node">
+<title>IUniswapV3Pool.mint</title>
+<ellipse fill="none" stroke="#000000" cx="375.8502" cy="-204" rx="28.991" ry="18"/>
+<text text-anchor="middle" x="375.8502" y="-199.8" font-family="Times,serif" font-size="14.00" fill="#000000">mint</text>
+</g>
+<!-- LiquidityManagement.addLiquidity&#45;&gt;IUniswapV3Pool.mint -->
+<g id="edge11" class="edge">
+<title>LiquidityManagement.addLiquidity-&gt;IUniswapV3Pool.mint</title>
+<path fill="none" stroke="#ffa500" d="M125.7757,-548.7235C131.9154,-492.0606 158.6166,-317.9417 260.2471,-231 281.3507,-212.9465 312.2671,-206.4179 336.819,-204.2834"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="337.157,-207.7688 346.9044,-203.6169 336.6954,-200.784 337.157,-207.7688"/>
+</g>
+<!-- TickMath.getSqrtRatioAtTick -->
+<g id="node10" class="node">
+<title>TickMath.getSqrtRatioAtTick</title>
+<ellipse fill="none" stroke="#000000" cx="375.8502" cy="-119" rx="87.4137" ry="18"/>
+<text text-anchor="middle" x="375.8502" y="-114.8" font-family="Times,serif" font-size="14.00" fill="#000000">getSqrtRatioAtTick</text>
+</g>
+<!-- LiquidityManagement.addLiquidity&#45;&gt;TickMath.getSqrtRatioAtTick -->
+<g id="edge8" class="edge">
+<title>LiquidityManagement.addLiquidity-&gt;TickMath.getSqrtRatioAtTick</title>
+<path fill="none" stroke="#ffa500" d="M125.2231,-548.763C130.143,-486.6673 154.7847,-282.8269 260.2471,-165 271.2949,-152.657 285.7084,-142.8392 300.5915,-135.3445"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="302.3293,-138.3952 309.8932,-130.9764 299.3538,-132.0591 302.3293,-138.3952"/>
+</g>
+<!-- LiquidityManagement.addLiquidity&#45;&gt;TickMath.getSqrtRatioAtTick -->
+<g id="edge9" class="edge">
+<title>LiquidityManagement.addLiquidity-&gt;TickMath.getSqrtRatioAtTick</title>
+<path fill="none" stroke="#ffa500" d="M125.8886,-548.8983C132.1776,-488.9736 158.878,-296.2537 260.2471,-183 278.7469,-162.3313 306.6845,-148.7433 330.4609,-139.2016"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="331.9679,-142.3708 340.0159,-135.4802 329.4275,-135.8481 331.9679,-142.3708"/>
+</g>
+<!-- LiquidityAmounts.getLiquidityForAmounts -->
+<g id="node11" class="node">
+<title>LiquidityAmounts.getLiquidityForAmounts</title>
+<ellipse fill="none" stroke="#000000" cx="375.8502" cy="-34" rx="107.7062" ry="18"/>
+<text text-anchor="middle" x="375.8502" y="-29.8" font-family="Times,serif" font-size="14.00" fill="#000000">getLiquidityForAmounts</text>
+</g>
+<!-- LiquidityManagement.addLiquidity&#45;&gt;LiquidityAmounts.getLiquidityForAmounts -->
+<g id="edge10" class="edge">
+<title>LiquidityManagement.addLiquidity-&gt;LiquidityAmounts.getLiquidityForAmounts</title>
+<path fill="none" stroke="#ffa500" d="M127.2289,-548.881C140.9376,-470.6461 198.1152,-162.4553 260.2471,-89 273.5084,-73.3219 292.2549,-61.7966 310.8001,-53.4686"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="312.3052,-56.6323 320.155,-49.5168 309.5812,-50.1841 312.3052,-56.6323"/>
+</g>
+<!-- key -->
+<g id="node12" class="node">
+<title>key</title>
+<text text-anchor="start" x="108.7596" y="-757.4" font-family="Times,serif" font-size="14.00" fill="#000000">Internal Call</text>
+<text text-anchor="start" x="104.8676" y="-737.4" font-family="Times,serif" font-size="14.00" fill="#000000">External Call</text>
+<text text-anchor="start" x="82.329" y="-717.4" font-family="Times,serif" font-size="14.00" fill="#000000">Defined Contract</text>
+<text text-anchor="start" x="68.7263" y="-697.4" font-family="Times,serif" font-size="14.00" fill="#000000">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node13" class="node">
+<title>key2</title>
+<text text-anchor="start" x="363.6093" y="-757.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<text text-anchor="start" x="363.6093" y="-737.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="#d3d3d3" stroke="transparent" points="361.8502,-712 361.8502,-732 389.8502,-732 389.8502,-712 361.8502,-712"/>
+<text text-anchor="start" x="363.6093" y="-717.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="none" stroke="#d3d3d3" points="363.8502,-694 363.8502,-710 387.8502,-710 387.8502,-694 363.8502,-694"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge12" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#00ff00" d="M181.1236,-762C257.9951,-762 279.6903,-762 351.8202,-762"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="351.8502,-765.5001 361.8502,-762 351.8502,-758.5001 351.8502,-765.5001"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge13" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#ffa500" d="M181.1236,-742C257.9951,-742 279.6903,-742 351.8202,-742"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="351.8502,-745.5001 361.8502,-742 351.8502,-738.5001 351.8502,-745.5001"/>
+</g>
+</g>
+</svg>

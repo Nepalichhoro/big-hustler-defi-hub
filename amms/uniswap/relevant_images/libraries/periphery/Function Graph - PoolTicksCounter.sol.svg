@@ -1,0 +1,158 @@
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0.00 0.00 452.70 431.00">
+<g id="graph0" class="graph" transform="translate(4,427) scale(1)" style="transform: translate(4px, 99%) scale(0.98);">
+<title>G</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-427 448.6964,-427 448.6964,4 -4,4"/>
+<g id="clust1" class="cluster">
+<title>clusterPoolTicksCounter</title>
+<polygon fill="#d3d3d3" stroke="#d3d3d3" points="8,-147 8,-278 436.6964,-278 436.6964,-147 8,-147"/>
+<text text-anchor="middle" x="222.3482" y="-261.4" font-family="Times,serif" font-size="14.00" fill="#000000">PoolTicksCounter  (lib)</text>
+</g>
+<g id="clust2" class="cluster">
+<title>clusterIUniswapV3Pool</title>
+<polygon fill="none" stroke="#d3d3d3" points="299.9246,-8 299.9246,-139 429.1843,-139 429.1843,-8 299.9246,-8"/>
+<text text-anchor="middle" x="364.5545" y="-122.4" font-family="Times,serif" font-size="14.00" fill="#000000">IUniswapV3Pool</text>
+</g>
+<g id="clust3" class="cluster">
+<title>cluster_01</title>
+<polygon fill="none" stroke="#000000" points="67.2062,-286 67.2062,-415 399.5545,-415 399.5545,-286 67.2062,-286"/>
+<text text-anchor="middle" x="233.3804" y="-398.4" font-family="Times,serif" font-size="14.00" fill="#000000">Legend</text>
+</g>
+<!-- PoolTicksCounter.countInitializedTicksCrossed -->
+<g id="node1" class="node">
+<title>PoolTicksCounter.countInitializedTicksCrossed</title>
+<ellipse fill="none" stroke="#ffffff" cx="140.2062" cy="-173" rx="124.4128" ry="18"/>
+<text text-anchor="middle" x="140.2062" y="-168.8" font-family="Times,serif" font-size="14.00" fill="#000000">countInitializedTicksCrossed</text>
+</g>
+<!-- PoolTicksCounter.countOneBits -->
+<g id="node2" class="node">
+<title>PoolTicksCounter.countOneBits</title>
+<ellipse fill="none" stroke="#000000" cx="364.5545" cy="-173" rx="64.2843" ry="18"/>
+<text text-anchor="middle" x="364.5545" y="-168.8" font-family="Times,serif" font-size="14.00" fill="#000000">countOneBits</text>
+</g>
+<!-- PoolTicksCounter.countInitializedTicksCrossed&#45;&gt;PoolTicksCounter.countOneBits -->
+<g id="edge12" class="edge">
+<title>PoolTicksCounter.countInitializedTicksCrossed-&gt;PoolTicksCounter.countOneBits</title>
+<path fill="none" stroke="#00ff00" d="M264.5187,-173C273.2874,-173 281.9559,-173 290.3066,-173"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="290.3205,-176.5001 300.3204,-173 290.3204,-169.5001 290.3205,-176.5001"/>
+</g>
+<!-- PoolTicksCounter.type -->
+<g id="node3" class="node">
+<title>PoolTicksCounter.type</title>
+<ellipse fill="none" stroke="#000000" cx="364.5545" cy="-227" rx="27.8286" ry="18"/>
+<text text-anchor="middle" x="364.5545" y="-222.8" font-family="Times,serif" font-size="14.00" fill="#000000">type</text>
+</g>
+<!-- PoolTicksCounter.countInitializedTicksCrossed&#45;&gt;PoolTicksCounter.type -->
+<g id="edge9" class="edge">
+<title>PoolTicksCounter.countInitializedTicksCrossed-&gt;PoolTicksCounter.type</title>
+<path fill="none" stroke="#00ff00" d="M240.569,-183.7238C275.0735,-191.6377 311.0854,-201.6345 335.3503,-210.5238"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="334.4025,-213.91 344.9917,-214.2565 336.9298,-207.3821 334.4025,-213.91"/>
+</g>
+<!-- PoolTicksCounter.countInitializedTicksCrossed&#45;&gt;PoolTicksCounter.type -->
+<g id="edge10" class="edge">
+<title>PoolTicksCounter.countInitializedTicksCrossed-&gt;PoolTicksCounter.type</title>
+<path fill="none" stroke="#00ff00" d="M204.4954,-188.4742C244.8613,-198.1902 295.4114,-210.3575 328.7784,-218.3888"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="328.0102,-221.8038 338.5517,-220.7412 329.6484,-214.9982 328.0102,-221.8038"/>
+</g>
+<!-- PoolTicksCounter.countInitializedTicksCrossed&#45;&gt;PoolTicksCounter.type -->
+<g id="edge13" class="edge">
+<title>PoolTicksCounter.countInitializedTicksCrossed-&gt;PoolTicksCounter.type</title>
+<path fill="none" stroke="#00ff00" d="M172.3499,-190.5381C213.2049,-205.0983 283.6132,-222.2421 326.9275,-228.3344"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="326.6986,-231.8331 337.0573,-229.6084 327.5722,-224.8879 326.6986,-231.8331"/>
+</g>
+<!-- IUniswapV3Pool.tickSpacing -->
+<g id="node4" class="node">
+<title>IUniswapV3Pool.tickSpacing</title>
+<ellipse fill="none" stroke="#000000" cx="364.5545" cy="-88" rx="56.76" ry="18"/>
+<text text-anchor="middle" x="364.5545" y="-83.8" font-family="Times,serif" font-size="14.00" fill="#000000">tickSpacing</text>
+</g>
+<!-- PoolTicksCounter.countInitializedTicksCrossed&#45;&gt;IUniswapV3Pool.tickSpacing -->
+<g id="edge1" class="edge">
+<title>PoolTicksCounter.countInitializedTicksCrossed-&gt;IUniswapV3Pool.tickSpacing</title>
+<path fill="none" stroke="#ffa500" d="M149.5606,-154.8885C176.1824,-126.1484 253.9389,-91.6392 308.2426,-79.6204"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="308.9756,-83.0432 318.0917,-77.6444 307.5986,-76.1799 308.9756,-83.0432"/>
+</g>
+<!-- PoolTicksCounter.countInitializedTicksCrossed&#45;&gt;IUniswapV3Pool.tickSpacing -->
+<g id="edge2" class="edge">
+<title>PoolTicksCounter.countInitializedTicksCrossed-&gt;IUniswapV3Pool.tickSpacing</title>
+<path fill="none" stroke="#ffa500" d="M157.438,-155.0464C187.2915,-135.3278 250.0999,-109.1311 298.7678,-94.2998"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="300.0055,-97.584 308.6098,-91.4021 298.0284,-90.869 300.0055,-97.584"/>
+</g>
+<!-- PoolTicksCounter.countInitializedTicksCrossed&#45;&gt;IUniswapV3Pool.tickSpacing -->
+<g id="edge3" class="edge">
+<title>PoolTicksCounter.countInitializedTicksCrossed-&gt;IUniswapV3Pool.tickSpacing</title>
+<path fill="none" stroke="#ffa500" d="M173.3096,-155.5026C209.3818,-139.803 267.6496,-117.4208 310.4019,-102.644"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="311.7592,-105.8791 320.0922,-99.3361 309.4977,-99.2544 311.7592,-105.8791"/>
+</g>
+<!-- PoolTicksCounter.countInitializedTicksCrossed&#45;&gt;IUniswapV3Pool.tickSpacing -->
+<g id="edge4" class="edge">
+<title>PoolTicksCounter.countInitializedTicksCrossed-&gt;IUniswapV3Pool.tickSpacing</title>
+<path fill="none" stroke="#ffa500" d="M198.2732,-156.9969C238.6223,-142.9266 291.2531,-122.7278 326.3894,-107.6821"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="328.0367,-110.7824 335.811,-103.5844 325.2448,-104.3632 328.0367,-110.7824"/>
+</g>
+<!-- PoolTicksCounter.countInitializedTicksCrossed&#45;&gt;IUniswapV3Pool.tickSpacing -->
+<g id="edge6" class="edge">
+<title>PoolTicksCounter.countInitializedTicksCrossed-&gt;IUniswapV3Pool.tickSpacing</title>
+<path fill="none" stroke="#ffa500" d="M226.6242,-160.0263C267.2138,-146.1921 312.5595,-126.8462 339.81,-110.6466"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="341.7269,-113.5756 348.3247,-105.2859 337.9974,-107.6519 341.7269,-113.5756"/>
+</g>
+<!-- PoolTicksCounter.countInitializedTicksCrossed&#45;&gt;IUniswapV3Pool.tickSpacing -->
+<g id="edge8" class="edge">
+<title>PoolTicksCounter.countInitializedTicksCrossed-&gt;IUniswapV3Pool.tickSpacing</title>
+<path fill="none" stroke="#ffa500" d="M251.0658,-164.746C288.8793,-150.5379 326.8919,-131.1403 347.9131,-113.0661"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="350.5406,-115.3961 355.3459,-105.9536 345.701,-110.3385 350.5406,-115.3961"/>
+</g>
+<!-- IUniswapV3Pool.tickBitmap -->
+<g id="node5" class="node">
+<title>IUniswapV3Pool.tickBitmap</title>
+<ellipse fill="none" stroke="#000000" cx="364.5545" cy="-34" rx="53.9078" ry="18"/>
+<text text-anchor="middle" x="364.5545" y="-29.8" font-family="Times,serif" font-size="14.00" fill="#000000">tickBitmap</text>
+</g>
+<!-- PoolTicksCounter.countInitializedTicksCrossed&#45;&gt;IUniswapV3Pool.tickBitmap -->
+<g id="edge5" class="edge">
+<title>PoolTicksCounter.countInitializedTicksCrossed-&gt;IUniswapV3Pool.tickBitmap</title>
+<path fill="none" stroke="#ffa500" d="M150.8994,-154.974C175.8449,-126.1612 240.3043,-75.853 299.9246,-43 300.6036,-42.6259 301.2888,-42.2536 301.9796,-41.8837"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="303.8517,-44.8598 311.2112,-37.2383 300.7052,-38.6069 303.8517,-44.8598"/>
+</g>
+<!-- PoolTicksCounter.countInitializedTicksCrossed&#45;&gt;IUniswapV3Pool.tickBitmap -->
+<g id="edge7" class="edge">
+<title>PoolTicksCounter.countInitializedTicksCrossed-&gt;IUniswapV3Pool.tickBitmap</title>
+<path fill="none" stroke="#ffa500" d="M162.2109,-155.2502C192.1224,-131.6774 247.8681,-89.6851 299.9246,-61 305.9354,-57.6878 312.4371,-54.5238 318.921,-51.6036"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="320.5698,-54.7035 328.3489,-47.5107 317.7822,-48.2824 320.5698,-54.7035"/>
+</g>
+<!-- PoolTicksCounter.countInitializedTicksCrossed&#45;&gt;IUniswapV3Pool.tickBitmap -->
+<g id="edge11" class="edge">
+<title>PoolTicksCounter.countInitializedTicksCrossed-&gt;IUniswapV3Pool.tickBitmap</title>
+<path fill="none" stroke="#ffa500" d="M180.6432,-155.7568C212.0148,-135.0319 257.2116,-102.5365 299.9246,-79 313.8083,-71.3496 330.311,-64.4894 343.1654,-57.2218"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="345.1591,-60.1033 351.7909,-51.8407 341.454,-54.1642 345.1591,-60.1033"/>
+</g>
+<!-- key -->
+<g id="node6" class="node">
+<title>key</title>
+<text text-anchor="start" x="124.8422" y="-363.4" font-family="Times,serif" font-size="14.00" fill="#000000">Internal Call</text>
+<text text-anchor="start" x="120.9502" y="-343.4" font-family="Times,serif" font-size="14.00" fill="#000000">External Call</text>
+<text text-anchor="start" x="98.4116" y="-323.4" font-family="Times,serif" font-size="14.00" fill="#000000">Defined Contract</text>
+<text text-anchor="start" x="84.8089" y="-303.4" font-family="Times,serif" font-size="14.00" fill="#000000">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node7" class="node">
+<title>key2</title>
+<text text-anchor="start" x="352.3136" y="-363.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<text text-anchor="start" x="352.3136" y="-343.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="#d3d3d3" stroke="transparent" points="350.5545,-318 350.5545,-338 378.5545,-338 378.5545,-318 350.5545,-318"/>
+<text text-anchor="start" x="352.3136" y="-323.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="none" stroke="#d3d3d3" points="352.5545,-300 352.5545,-316 376.5545,-316 376.5545,-300 352.5545,-300"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge14" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#00ff00" d="M197.2062,-368C261.9,-368 280.5374,-368 340.5536,-368"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="340.5545,-371.5001 350.5545,-368 340.5544,-364.5001 340.5545,-371.5001"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge15" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#ffa500" d="M197.2062,-348C261.9,-348 280.5374,-348 340.5536,-348"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="340.5545,-351.5001 350.5545,-348 340.5544,-344.5001 340.5545,-351.5001"/>
+</g>
+</g>
+</svg>

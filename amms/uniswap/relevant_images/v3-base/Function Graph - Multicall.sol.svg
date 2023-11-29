@@ -1,0 +1,75 @@
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0.00 0.00 320.30 292.00">
+<g id="graph0" class="graph" transform="translate(4,288) scale(1)" style="transform: translate(4px, 99%) scale(0.98);">
+<title>G</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-288 316.2968,-288 316.2968,4 -4,4"/>
+<g id="clust1" class="cluster">
+<title>clusterMulticall</title>
+<polygon fill="#d3d3d3" stroke="#d3d3d3" points="27.6311,-8 27.6311,-139 304.2968,-139 304.2968,-8 27.6311,-8"/>
+<text text-anchor="middle" x="165.964" y="-122.4" font-family="Times,serif" font-size="14.00" fill="#000000">Multicall</text>
+</g>
+<g id="clust2" class="cluster">
+<title>cluster_01</title>
+<polygon fill="none" stroke="#000000" points="8,-147 8,-276 274.1484,-276 274.1484,-147 8,-147"/>
+<text text-anchor="middle" x="141.0742" y="-259.4" font-family="Times,serif" font-size="14.00" fill="#000000">Legend</text>
+</g>
+<!-- Multicall.multicall -->
+<g id="node1" class="node">
+<title>Multicall.multicall</title>
+<ellipse fill="none" stroke="#00ff00" cx="81" cy="-61" rx="45.2381" ry="18"/>
+<text text-anchor="middle" x="81" y="-56.8" font-family="Times,serif" font-size="14.00" fill="#000000">multicall</text>
+</g>
+<!-- Multicall.delegatecall -->
+<g id="node2" class="node">
+<title>Multicall.delegatecall</title>
+<ellipse fill="none" stroke="#000000" cx="239.1484" cy="-34" rx="57.2972" ry="18"/>
+<text text-anchor="middle" x="239.1484" y="-29.8" font-family="Times,serif" font-size="14.00" fill="#000000">delegatecall</text>
+</g>
+<!-- Multicall.multicall&#45;&gt;Multicall.delegatecall -->
+<g id="edge1" class="edge">
+<title>Multicall.multicall-&gt;Multicall.delegatecall</title>
+<path fill="none" stroke="#00ff00" d="M122.9657,-53.8354C140.1081,-50.9087 160.2597,-47.4683 178.9236,-44.2819"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="179.548,-47.726 188.8164,-42.593 178.37,-40.8259 179.548,-47.726"/>
+</g>
+<!-- Multicall.address -->
+<g id="node3" class="node">
+<title>Multicall.address</title>
+<ellipse fill="none" stroke="#000000" cx="239.1484" cy="-88" rx="39.9857" ry="18"/>
+<text text-anchor="middle" x="239.1484" y="-83.8" font-family="Times,serif" font-size="14.00" fill="#000000">address</text>
+</g>
+<!-- Multicall.multicall&#45;&gt;Multicall.address -->
+<g id="edge2" class="edge">
+<title>Multicall.multicall-&gt;Multicall.address</title>
+<path fill="none" stroke="#00ff00" d="M122.9657,-68.1646C144.058,-71.7656 169.7059,-76.1444 191.533,-79.8708"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="191.1361,-83.3536 201.5825,-81.5865 192.3142,-76.4535 191.1361,-83.3536"/>
+</g>
+<!-- key -->
+<g id="node4" class="node">
+<title>key</title>
+<text text-anchor="start" x="65.636" y="-224.4" font-family="Times,serif" font-size="14.00" fill="#000000">Internal Call</text>
+<text text-anchor="start" x="61.744" y="-204.4" font-family="Times,serif" font-size="14.00" fill="#000000">External Call</text>
+<text text-anchor="start" x="39.2054" y="-184.4" font-family="Times,serif" font-size="14.00" fill="#000000">Defined Contract</text>
+<text text-anchor="start" x="25.6027" y="-164.4" font-family="Times,serif" font-size="14.00" fill="#000000">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node5" class="node">
+<title>key2</title>
+<text text-anchor="start" x="226.9075" y="-224.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<text text-anchor="start" x="226.9075" y="-204.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="#d3d3d3" stroke="transparent" points="225.1484,-179 225.1484,-199 253.1484,-199 253.1484,-179 225.1484,-179"/>
+<text text-anchor="start" x="226.9075" y="-184.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="none" stroke="#d3d3d3" points="227.1484,-161 227.1484,-177 251.1484,-177 251.1484,-161 227.1484,-161"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge3" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#00ff00" d="M138,-229C173.1014,-229 184.3449,-229 214.9729,-229"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="215.1485,-232.5001 225.1484,-229 215.1484,-225.5001 215.1485,-232.5001"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge4" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#ffa500" d="M138,-209C173.1014,-209 184.3449,-209 214.9729,-209"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="215.1485,-212.5001 225.1484,-209 215.1484,-205.5001 215.1485,-212.5001"/>
+</g>
+</g>
+</svg>

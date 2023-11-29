@@ -1,0 +1,212 @@
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0.00 0.00 389.12 647.00">
+<g id="graph0" class="graph" transform="translate(4,643) scale(1)" style="transform: translate(4px, 99%) scale(0.98);">
+<title>G</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-643 385.119,-643 385.119,4 -4,4"/>
+<g id="clust1" class="cluster">
+<title>clusterPeripheryPayments</title>
+<polygon fill="#d3d3d3" stroke="#d3d3d3" points="8,-201 8,-494 339.8788,-494 339.8788,-201 8,-201"/>
+<text text-anchor="middle" x="173.9394" y="-477.4" font-family="Times,serif" font-size="14.00" fill="#000000">PeripheryPayments</text>
+</g>
+<g id="clust2" class="cluster">
+<title>clusterTransferHelper</title>
+<polygon fill="none" stroke="#d3d3d3" points="196.7083,-8 196.7083,-193 373.119,-193 373.119,-8 196.7083,-8"/>
+<text text-anchor="middle" x="284.9136" y="-176.4" font-family="Times,serif" font-size="14.00" fill="#000000">TransferHelper</text>
+</g>
+<g id="clust3" class="cluster">
+<title>cluster_01</title>
+<polygon fill="none" stroke="#000000" points="19.3541,-502 19.3541,-631 319.9136,-631 319.9136,-502 19.3541,-502"/>
+<text text-anchor="middle" x="169.6339" y="-614.4" font-family="Times,serif" font-size="14.00" fill="#000000">Legend</text>
+</g>
+<!-- PeripheryPayments.&lt;Receive Ether&gt; -->
+<g id="node1" class="node">
+<title>PeripheryPayments.&lt;Receive Ether&gt;</title>
+<ellipse fill="none" stroke="#0000ff" cx="92.3541" cy="-443" rx="76.2086" ry="18"/>
+<text text-anchor="middle" x="92.3541" y="-438.8" font-family="Times,serif" font-size="14.00" fill="#000000">&lt;Receive Ether&gt;</text>
+</g>
+<!-- PeripheryPayments.unwrapWETH9 -->
+<g id="node2" class="node">
+<title>PeripheryPayments.unwrapWETH9</title>
+<ellipse fill="none" stroke="#00ff00" cx="92.3541" cy="-389" rx="72.9179" ry="18"/>
+<text text-anchor="middle" x="92.3541" y="-384.8" font-family="Times,serif" font-size="14.00" fill="#000000">unwrapWETH9</text>
+</g>
+<!-- PeripheryPayments.IWETH9 -->
+<g id="node6" class="node">
+<title>PeripheryPayments.IWETH9</title>
+<ellipse fill="none" stroke="#000000" cx="284.9136" cy="-375" rx="46.9304" ry="18"/>
+<text text-anchor="middle" x="284.9136" y="-370.8" font-family="Times,serif" font-size="14.00" fill="#000000">IWETH9</text>
+</g>
+<!-- PeripheryPayments.unwrapWETH9&#45;&gt;PeripheryPayments.IWETH9 -->
+<g id="edge1" class="edge">
+<title>PeripheryPayments.unwrapWETH9-&gt;PeripheryPayments.IWETH9</title>
+<path fill="none" stroke="#00ff00" d="M151.437,-378.4237C175.8142,-376.0056 203.9507,-373.9806 228.0873,-372.9128"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="228.3098,-376.4069 238.164,-372.5154 228.0339,-369.4123 228.3098,-376.4069"/>
+</g>
+<!-- PeripheryPayments.unwrapWETH9&#45;&gt;PeripheryPayments.IWETH9 -->
+<g id="edge3" class="edge">
+<title>PeripheryPayments.unwrapWETH9-&gt;PeripheryPayments.IWETH9</title>
+<path fill="none" stroke="#00ff00" d="M164.8782,-390.2911C187.6913,-388.9966 212.4023,-387.0297 233.4401,-384.7955"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="233.8979,-388.2662 243.4482,-383.6791 233.1218,-381.3094 233.8979,-388.2662"/>
+</g>
+<!-- PeripheryPayments.address -->
+<g id="node7" class="node">
+<title>PeripheryPayments.address</title>
+<ellipse fill="none" stroke="#000000" cx="284.9136" cy="-308" rx="39.9857" ry="18"/>
+<text text-anchor="middle" x="284.9136" y="-303.8" font-family="Times,serif" font-size="14.00" fill="#000000">address</text>
+</g>
+<!-- PeripheryPayments.unwrapWETH9&#45;&gt;PeripheryPayments.address -->
+<g id="edge2" class="edge">
+<title>PeripheryPayments.unwrapWETH9-&gt;PeripheryPayments.address</title>
+<path fill="none" stroke="#00ff00" d="M136.3196,-374.4993C147.0171,-370.6848 158.3557,-366.3986 168.7083,-362 181.5137,-356.5592 184.1482,-353.9853 196.7083,-348 213.0495,-340.2128 231.2456,-331.9013 246.8466,-324.8835"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="248.4918,-327.9817 256.1853,-320.6974 245.6285,-321.5941 248.4918,-327.9817"/>
+</g>
+<!-- TransferHelper.safeTransferETH -->
+<g id="node9" class="node">
+<title>TransferHelper.safeTransferETH</title>
+<ellipse fill="none" stroke="#000000" cx="284.9136" cy="-88" rx="78.1037" ry="18"/>
+<text text-anchor="middle" x="284.9136" y="-83.8" font-family="Times,serif" font-size="14.00" fill="#000000">safeTransferETH</text>
+</g>
+<!-- PeripheryPayments.unwrapWETH9&#45;&gt;TransferHelper.safeTransferETH -->
+<g id="edge4" class="edge">
+<title>PeripheryPayments.unwrapWETH9-&gt;TransferHelper.safeTransferETH</title>
+<path fill="none" stroke="#ffa500" d="M148.4757,-377.5527C156.2398,-373.7592 163.3695,-368.7126 168.7083,-362 237.479,-275.5326 126.1011,-199.9744 196.7083,-115 200.6423,-110.2655 205.3835,-106.344 210.6007,-103.0981"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="212.5674,-106.0175 219.772,-98.2492 209.2956,-99.8291 212.5674,-106.0175"/>
+</g>
+<!-- PeripheryPayments.sweepToken -->
+<g id="node3" class="node">
+<title>PeripheryPayments.sweepToken</title>
+<ellipse fill="none" stroke="#00ff00" cx="92.3541" cy="-227" rx="59.6743" ry="18"/>
+<text text-anchor="middle" x="92.3541" y="-222.8" font-family="Times,serif" font-size="14.00" fill="#000000">sweepToken</text>
+</g>
+<!-- PeripheryPayments.sweepToken&#45;&gt;PeripheryPayments.address -->
+<g id="edge6" class="edge">
+<title>PeripheryPayments.sweepToken-&gt;PeripheryPayments.address</title>
+<path fill="none" stroke="#00ff00" d="M132.6479,-240.4429C144.3635,-244.5681 157.1222,-249.272 168.7083,-254 195.9226,-265.1055 225.9996,-279.1318 248.7351,-290.1057"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="247.4753,-293.3847 257.9996,-294.6045 250.533,-287.0878 247.4753,-293.3847"/>
+</g>
+<!-- PeripheryPayments.IERC20 -->
+<g id="node8" class="node">
+<title>PeripheryPayments.IERC20</title>
+<ellipse fill="none" stroke="#000000" cx="284.9136" cy="-227" rx="42.8771" ry="18"/>
+<text text-anchor="middle" x="284.9136" y="-222.8" font-family="Times,serif" font-size="14.00" fill="#000000">IERC20</text>
+</g>
+<!-- PeripheryPayments.sweepToken&#45;&gt;PeripheryPayments.IERC20 -->
+<g id="edge5" class="edge">
+<title>PeripheryPayments.sweepToken-&gt;PeripheryPayments.IERC20</title>
+<path fill="none" stroke="#00ff00" d="M152.2256,-227C177.7287,-227 207.2287,-227 231.9277,-227"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="232.1934,-230.5001 242.1934,-227 232.1934,-223.5001 232.1934,-230.5001"/>
+</g>
+<!-- TransferHelper.safeTransfer -->
+<g id="node10" class="node">
+<title>TransferHelper.safeTransfer</title>
+<ellipse fill="none" stroke="#000000" cx="284.9136" cy="-34" rx="59.0641" ry="18"/>
+<text text-anchor="middle" x="284.9136" y="-29.8" font-family="Times,serif" font-size="14.00" fill="#000000">safeTransfer</text>
+</g>
+<!-- PeripheryPayments.sweepToken&#45;&gt;TransferHelper.safeTransfer -->
+<g id="edge7" class="edge">
+<title>PeripheryPayments.sweepToken-&gt;TransferHelper.safeTransfer</title>
+<path fill="none" stroke="#ffa500" d="M98.7247,-209.0435C111.7187,-175.0049 144.5385,-100.9334 196.7083,-61 204.72,-54.8675 214.1303,-50.1181 223.7657,-46.4426"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="225.1172,-49.6789 233.4326,-43.1135 222.8379,-43.0604 225.1172,-49.6789"/>
+</g>
+<!-- PeripheryPayments.refundETH -->
+<g id="node4" class="node">
+<title>PeripheryPayments.refundETH</title>
+<ellipse fill="none" stroke="#0000ff" cx="92.3541" cy="-281" rx="55.0169" ry="18"/>
+<text text-anchor="middle" x="92.3541" y="-276.8" font-family="Times,serif" font-size="14.00" fill="#000000">refundETH</text>
+</g>
+<!-- PeripheryPayments.refundETH&#45;&gt;PeripheryPayments.address -->
+<g id="edge8" class="edge">
+<title>PeripheryPayments.refundETH-&gt;PeripheryPayments.address</title>
+<path fill="none" stroke="#00ff00" d="M147.2763,-282.5381C177.1756,-285.8277 213.6449,-291.0796 241.53,-296.1692"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="240.9108,-299.614 251.387,-298.033 242.2114,-292.7359 240.9108,-299.614"/>
+</g>
+<!-- PeripheryPayments.refundETH&#45;&gt;PeripheryPayments.address -->
+<g id="edge10" class="edge">
+<title>PeripheryPayments.refundETH-&gt;PeripheryPayments.address</title>
+<path fill="none" stroke="#00ff00" d="M134.6121,-292.6246C164.0538,-298.0388 203.4602,-303.6697 234.5368,-306.9521"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="234.4313,-310.459 244.73,-307.9716 235.128,-303.4937 234.4313,-310.459"/>
+</g>
+<!-- PeripheryPayments.refundETH&#45;&gt;TransferHelper.safeTransferETH -->
+<g id="edge9" class="edge">
+<title>PeripheryPayments.refundETH-&gt;TransferHelper.safeTransferETH</title>
+<path fill="none" stroke="#ffa500" d="M140.5442,-272.3073C151.1137,-268.3169 161.3351,-262.4946 168.7083,-254 210.0169,-206.4084 154.3897,-161.6958 196.7083,-115 201.0134,-110.2496 206.1289,-106.3247 211.6961,-103.0832"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="213.3974,-106.1455 220.7649,-98.5316 210.2574,-99.8892 213.3974,-106.1455"/>
+</g>
+<!-- PeripheryPayments.pay -->
+<g id="node5" class="node">
+<title>PeripheryPayments.pay</title>
+<ellipse fill="none" stroke="#ffffff" cx="92.3541" cy="-335" rx="27" ry="18"/>
+<text text-anchor="middle" x="92.3541" y="-330.8" font-family="Times,serif" font-size="14.00" fill="#000000">pay</text>
+</g>
+<!-- PeripheryPayments.pay&#45;&gt;PeripheryPayments.IWETH9 -->
+<g id="edge12" class="edge">
+<title>PeripheryPayments.pay-&gt;PeripheryPayments.IWETH9</title>
+<path fill="none" stroke="#00ff00" d="M119.5348,-335.7733C150.9955,-340.1603 203.2608,-350.7129 240.616,-360.0123"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="240.1718,-363.5112 250.7271,-362.5958 241.9048,-356.729 240.1718,-363.5112"/>
+</g>
+<!-- PeripheryPayments.pay&#45;&gt;PeripheryPayments.IWETH9 -->
+<g id="edge13" class="edge">
+<title>PeripheryPayments.pay-&gt;PeripheryPayments.IWETH9</title>
+<path fill="none" stroke="#00ff00" d="M115.5813,-344.4094C143.3769,-352.3502 190.8787,-362.7583 228.5093,-369.4899"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="228.3849,-373.0207 238.8367,-371.2859 229.5843,-366.1242 228.3849,-373.0207"/>
+</g>
+<!-- PeripheryPayments.pay&#45;&gt;PeripheryPayments.address -->
+<g id="edge11" class="edge">
+<title>PeripheryPayments.pay-&gt;PeripheryPayments.address</title>
+<path fill="none" stroke="#00ff00" d="M116.7419,-326.9073C146.1583,-320.5795 196.3767,-313.0877 234.2967,-309.0732"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="235.0373,-312.5167 244.6385,-308.037 234.3393,-305.5515 235.0373,-312.5167"/>
+</g>
+<!-- PeripheryPayments.pay&#45;&gt;PeripheryPayments.address -->
+<g id="edge14" class="edge">
+<title>PeripheryPayments.pay-&gt;PeripheryPayments.address</title>
+<path fill="none" stroke="#00ff00" d="M119.5348,-336.0617C151.185,-333.785 203.8913,-326.6897 241.2895,-319.8747"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="242.2252,-323.2599 251.4016,-317.9641 240.9256,-316.3816 242.2252,-323.2599"/>
+</g>
+<!-- PeripheryPayments.pay&#45;&gt;TransferHelper.safeTransfer -->
+<g id="edge15" class="edge">
+<title>PeripheryPayments.pay-&gt;TransferHelper.safeTransfer</title>
+<path fill="none" stroke="#ffa500" d="M119.4839,-332.5628C136.3057,-329.5518 156.893,-322.8557 168.7083,-308 237.479,-221.5326 126.1011,-145.9744 196.7083,-61 202.8612,-53.5951 210.9885,-48.179 219.8236,-44.2261"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="221.152,-47.4653 229.2339,-40.6144 218.6437,-40.9301 221.152,-47.4653"/>
+</g>
+<!-- TransferHelper.safeTransferFrom -->
+<g id="node11" class="node">
+<title>TransferHelper.safeTransferFrom</title>
+<ellipse fill="none" stroke="#000000" cx="284.9136" cy="-142" rx="80.4112" ry="18"/>
+<text text-anchor="middle" x="284.9136" y="-137.8" font-family="Times,serif" font-size="14.00" fill="#000000">safeTransferFrom</text>
+</g>
+<!-- PeripheryPayments.pay&#45;&gt;TransferHelper.safeTransferFrom -->
+<g id="edge16" class="edge">
+<title>PeripheryPayments.pay-&gt;TransferHelper.safeTransferFrom</title>
+<path fill="none" stroke="#ffa500" d="M119.2026,-331.9368C135.6929,-328.6709 156.0181,-321.926 168.7083,-308 202.9776,-270.3934 166.7264,-238.1063 196.7083,-197 207.0121,-182.8731 222.1515,-171.5611 236.9901,-162.9569"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="239.0515,-165.8187 246.1444,-157.9485 235.6917,-159.6777 239.0515,-165.8187"/>
+</g>
+<!-- key -->
+<g id="node12" class="node">
+<title>key</title>
+<text text-anchor="start" x="76.9901" y="-579.4" font-family="Times,serif" font-size="14.00" fill="#000000">Internal Call</text>
+<text text-anchor="start" x="73.0981" y="-559.4" font-family="Times,serif" font-size="14.00" fill="#000000">External Call</text>
+<text text-anchor="start" x="50.5595" y="-539.4" font-family="Times,serif" font-size="14.00" fill="#000000">Defined Contract</text>
+<text text-anchor="start" x="36.9568" y="-519.4" font-family="Times,serif" font-size="14.00" fill="#000000">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node13" class="node">
+<title>key2</title>
+<text text-anchor="start" x="272.6727" y="-579.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<text text-anchor="start" x="272.6727" y="-559.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="#d3d3d3" stroke="transparent" points="270.9136,-534 270.9136,-554 298.9136,-554 298.9136,-534 270.9136,-534"/>
+<text text-anchor="start" x="272.6727" y="-539.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="none" stroke="#d3d3d3" points="272.9136,-516 272.9136,-532 296.9136,-532 296.9136,-516 272.9136,-516"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge17" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#00ff00" d="M149.3541,-584C199.7929,-584 214.9147,-584 260.6629,-584"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="260.9137,-587.5001 270.9136,-584 260.9136,-580.5001 260.9137,-587.5001"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge18" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#ffa500" d="M149.3541,-564C199.7929,-564 214.9147,-564 260.6629,-564"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="260.9137,-567.5001 270.9136,-564 260.9136,-560.5001 260.9137,-567.5001"/>
+</g>
+</g>
+</svg>

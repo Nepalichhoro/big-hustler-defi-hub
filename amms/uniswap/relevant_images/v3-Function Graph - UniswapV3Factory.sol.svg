@@ -1,0 +1,171 @@
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0.00 0.00 416.21 454.00">
+<g id="graph0" class="graph" transform="translate(36.109186012841974,436.8095946758935) scale(0.9176398823113682)" style="transform: translate(4px, 99%) scale(0.98);">
+<title>G</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-450 412.2086,-450 412.2086,4 -4,4"/>
+<g id="clust1" class="cluster">
+<title>clusterUniswapV3Factory</title>
+<polygon fill="#d3d3d3" stroke="#d3d3d3" points="8,-8 8,-301 400.2086,-301 400.2086,-8 8,-8"/>
+<text text-anchor="middle" x="204.1043" y="-284.4" font-family="Times,serif" font-size="14.00" fill="#000000">UniswapV3Factory</text>
+</g>
+<g id="clust2" class="cluster">
+<title>cluster_01</title>
+<polygon fill="none" stroke="#000000" points="24.8316,-309 24.8316,-438 338.9359,-438 338.9359,-309 24.8316,-309"/>
+<text text-anchor="middle" x="181.8837" y="-421.4" font-family="Times,serif" font-size="14.00" fill="#000000">Legend</text>
+</g>
+<!-- UniswapV3Factory.&lt;Constructor&gt; -->
+<g id="node1" class="node">
+<title>UniswapV3Factory.&lt;Constructor&gt;</title>
+<ellipse fill="none" stroke="#00ff00" cx="97.8316" cy="-88" rx="67.5419" ry="18"/>
+<text text-anchor="middle" x="97.8316" y="-83.8" font-family="Times,serif" font-size="14.00" fill="#000000">&lt;Constructor&gt;</text>
+</g>
+<!-- UniswapV3Factory.OwnerChanged -->
+<g id="node5" class="node">
+<title>UniswapV3Factory.OwnerChanged</title>
+<ellipse fill="none" stroke="#000000" cx="303.9359" cy="-88" rx="71.7737" ry="18"/>
+<text text-anchor="middle" x="303.9359" y="-83.8" font-family="Times,serif" font-size="14.00" fill="#000000">OwnerChanged</text>
+</g>
+<!-- UniswapV3Factory.&lt;Constructor&gt;&#45;&gt;UniswapV3Factory.OwnerChanged -->
+<g id="edge1" class="edge">
+<title>UniswapV3Factory.&lt;Constructor&gt;-&gt;UniswapV3Factory.OwnerChanged</title>
+<path fill="none" stroke="#00ff00" d="M165.6033,-88C183.7038,-88 203.4557,-88 222.2205,-88"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="222.2269,-91.5001 232.2269,-88 222.2269,-84.5001 222.2269,-91.5001"/>
+</g>
+<!-- UniswapV3Factory.address -->
+<g id="node6" class="node">
+<title>UniswapV3Factory.address</title>
+<ellipse fill="none" stroke="#000000" cx="303.9359" cy="-142" rx="39.9857" ry="18"/>
+<text text-anchor="middle" x="303.9359" y="-137.8" font-family="Times,serif" font-size="14.00" fill="#000000">address</text>
+</g>
+<!-- UniswapV3Factory.&lt;Constructor&gt;&#45;&gt;UniswapV3Factory.address -->
+<g id="edge2" class="edge">
+<title>UniswapV3Factory.&lt;Constructor&gt;-&gt;UniswapV3Factory.address</title>
+<path fill="none" stroke="#00ff00" d="M146.1539,-100.6606C180.3349,-109.6161 225.8326,-121.5367 259.1863,-130.2755"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="258.561,-133.7297 269.1216,-132.8785 260.3352,-126.9583 258.561,-133.7297"/>
+</g>
+<!-- UniswapV3Factory.FeeAmountEnabled -->
+<g id="node7" class="node">
+<title>UniswapV3Factory.FeeAmountEnabled</title>
+<ellipse fill="none" stroke="#000000" cx="303.9359" cy="-34" rx="88.0461" ry="18"/>
+<text text-anchor="middle" x="303.9359" y="-29.8" font-family="Times,serif" font-size="14.00" fill="#000000">FeeAmountEnabled</text>
+</g>
+<!-- UniswapV3Factory.&lt;Constructor&gt;&#45;&gt;UniswapV3Factory.FeeAmountEnabled -->
+<g id="edge3" class="edge">
+<title>UniswapV3Factory.&lt;Constructor&gt;-&gt;UniswapV3Factory.FeeAmountEnabled</title>
+<path fill="none" stroke="#00ff00" d="M124.7761,-71.4779C147.6187,-62.3801 181.7334,-52.1291 214.0837,-44.1405"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="215.151,-47.4836 224.0524,-41.7377 213.5106,-40.6784 215.151,-47.4836"/>
+</g>
+<!-- UniswapV3Factory.&lt;Constructor&gt;&#45;&gt;UniswapV3Factory.FeeAmountEnabled -->
+<g id="edge4" class="edge">
+<title>UniswapV3Factory.&lt;Constructor&gt;-&gt;UniswapV3Factory.FeeAmountEnabled</title>
+<path fill="none" stroke="#00ff00" d="M146.1539,-75.3394C173.9471,-68.0575 209.2224,-58.8152 239.3675,-50.9171"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="240.5892,-54.2152 249.3756,-48.295 238.8151,-47.4438 240.5892,-54.2152"/>
+</g>
+<!-- UniswapV3Factory.&lt;Constructor&gt;&#45;&gt;UniswapV3Factory.FeeAmountEnabled -->
+<g id="edge5" class="edge">
+<title>UniswapV3Factory.&lt;Constructor&gt;-&gt;UniswapV3Factory.FeeAmountEnabled</title>
+<path fill="none" stroke="#00ff00" d="M163.3275,-83.5092C197.1737,-76.204 237.2815,-65.0536 265.9819,-54.6873"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="267.4999,-57.8558 275.6289,-51.0609 265.0368,-51.3035 267.4999,-57.8558"/>
+</g>
+<!-- UniswapV3Factory.createPool -->
+<g id="node2" class="node">
+<title>UniswapV3Factory.createPool</title>
+<ellipse fill="none" stroke="#0000ff" cx="97.8316" cy="-196" rx="51.5823" ry="18"/>
+<text text-anchor="middle" x="97.8316" y="-191.8" font-family="Times,serif" font-size="14.00" fill="#000000">createPool</text>
+</g>
+<!-- UniswapV3Factory.createPool&#45;&gt;UniswapV3Factory.address -->
+<g id="edge6" class="edge">
+<title>UniswapV3Factory.createPool-&gt;UniswapV3Factory.address</title>
+<path fill="none" stroke="#00ff00" d="M123.104,-180.15C155.5764,-166.975 212.6824,-151.1705 254.0486,-143.3145"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="254.713,-146.7513 263.9372,-141.5393 253.4761,-139.8614 254.713,-146.7513"/>
+</g>
+<!-- UniswapV3Factory.createPool&#45;&gt;UniswapV3Factory.address -->
+<g id="edge7" class="edge">
+<title>UniswapV3Factory.createPool-&gt;UniswapV3Factory.address</title>
+<path fill="none" stroke="#00ff00" d="M139.5399,-185.0723C174.2265,-175.9843 223.4918,-163.0766 259.0358,-153.764"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="260.347,-157.0386 269.1334,-151.1184 258.5728,-150.2672 260.347,-157.0386"/>
+</g>
+<!-- UniswapV3Factory.createPool&#45;&gt;UniswapV3Factory.address -->
+<g id="edge9" class="edge">
+<title>UniswapV3Factory.createPool-&gt;UniswapV3Factory.address</title>
+<path fill="none" stroke="#00ff00" d="M149.5744,-194.3298C187.8288,-186.9305 238.7478,-173.0136 271.4414,-160.6724"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="272.9581,-163.8363 280.9684,-156.9019 270.3821,-157.3275 272.9581,-163.8363"/>
+</g>
+<!-- UniswapV3Factory.deploy -->
+<g id="node8" class="node">
+<title>UniswapV3Factory.deploy</title>
+<ellipse fill="none" stroke="#000000" cx="303.9359" cy="-196" rx="37.1424" ry="18"/>
+<text text-anchor="middle" x="303.9359" y="-191.8" font-family="Times,serif" font-size="14.00" fill="#000000">deploy</text>
+</g>
+<!-- UniswapV3Factory.createPool&#45;&gt;UniswapV3Factory.deploy -->
+<g id="edge8" class="edge">
+<title>UniswapV3Factory.createPool-&gt;UniswapV3Factory.deploy</title>
+<path fill="none" stroke="#00ff00" d="M149.8404,-196C182.5181,-196 224.3567,-196 256.1902,-196"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="256.5747,-199.5001 266.5746,-196 256.5746,-192.5001 256.5747,-199.5001"/>
+</g>
+<!-- UniswapV3Factory.PoolCreated -->
+<g id="node9" class="node">
+<title>UniswapV3Factory.PoolCreated</title>
+<ellipse fill="none" stroke="#000000" cx="303.9359" cy="-250" rx="58.5463" ry="18"/>
+<text text-anchor="middle" x="303.9359" y="-245.8" font-family="Times,serif" font-size="14.00" fill="#000000">PoolCreated</text>
+</g>
+<!-- UniswapV3Factory.createPool&#45;&gt;UniswapV3Factory.PoolCreated -->
+<g id="edge10" class="edge">
+<title>UniswapV3Factory.createPool-&gt;UniswapV3Factory.PoolCreated</title>
+<path fill="none" stroke="#00ff00" d="M139.5399,-206.9277C171.1219,-215.2023 214.7895,-226.6434 249.1821,-235.6543"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="248.5148,-239.0976 259.0754,-238.2464 250.289,-232.3261 248.5148,-239.0976"/>
+</g>
+<!-- UniswapV3Factory.setOwner -->
+<g id="node3" class="node">
+<title>UniswapV3Factory.setOwner</title>
+<ellipse fill="none" stroke="#0000ff" cx="97.8316" cy="-142" rx="48.0703" ry="18"/>
+<text text-anchor="middle" x="97.8316" y="-137.8" font-family="Times,serif" font-size="14.00" fill="#000000">setOwner</text>
+</g>
+<!-- UniswapV3Factory.setOwner&#45;&gt;UniswapV3Factory.OwnerChanged -->
+<g id="edge11" class="edge">
+<title>UniswapV3Factory.setOwner-&gt;UniswapV3Factory.OwnerChanged</title>
+<path fill="none" stroke="#00ff00" d="M137.5706,-131.5883C167.8069,-123.6662 209.916,-112.6335 244.2033,-103.6501"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="245.3231,-106.975 254.1095,-101.0547 243.5489,-100.2035 245.3231,-106.975"/>
+</g>
+<!-- UniswapV3Factory.enableFeeAmount -->
+<g id="node4" class="node">
+<title>UniswapV3Factory.enableFeeAmount</title>
+<ellipse fill="none" stroke="#00ff00" cx="97.8316" cy="-34" rx="81.6635" ry="18"/>
+<text text-anchor="middle" x="97.8316" y="-29.8" font-family="Times,serif" font-size="14.00" fill="#000000">enableFeeAmount</text>
+</g>
+<!-- UniswapV3Factory.enableFeeAmount&#45;&gt;UniswapV3Factory.FeeAmountEnabled -->
+<g id="edge12" class="edge">
+<title>UniswapV3Factory.enableFeeAmount-&gt;UniswapV3Factory.FeeAmountEnabled</title>
+<path fill="none" stroke="#00ff00" d="M179.8817,-34C188.1817,-34 196.6716,-34 205.1233,-34"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="205.3985,-37.5001 215.3984,-34 205.3984,-30.5001 205.3985,-37.5001"/>
+</g>
+<!-- key -->
+<g id="node10" class="node">
+<title>key</title>
+<text text-anchor="start" x="82.4676" y="-386.4" font-family="Times,serif" font-size="14.00" fill="#000000">Internal Call</text>
+<text text-anchor="start" x="78.5756" y="-366.4" font-family="Times,serif" font-size="14.00" fill="#000000">External Call</text>
+<text text-anchor="start" x="56.037" y="-346.4" font-family="Times,serif" font-size="14.00" fill="#000000">Defined Contract</text>
+<text text-anchor="start" x="42.4343" y="-326.4" font-family="Times,serif" font-size="14.00" fill="#000000">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node11" class="node">
+<title>key2</title>
+<text text-anchor="start" x="291.695" y="-386.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<text text-anchor="start" x="291.695" y="-366.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="#d3d3d3" stroke="transparent" points="289.9359,-341 289.9359,-361 317.9359,-361 317.9359,-341 289.9359,-341"/>
+<text text-anchor="start" x="291.695" y="-346.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="none" stroke="#d3d3d3" points="291.9359,-323 291.9359,-339 315.9359,-339 315.9359,-323 291.9359,-323"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge13" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#00ff00" d="M154.8316,-391C211.3596,-391 227.9757,-391 279.8266,-391"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="279.9359,-394.5001 289.9359,-391 279.9359,-387.5001 279.9359,-394.5001"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge14" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#ffa500" d="M154.8316,-371C211.3596,-371 227.9757,-371 279.8266,-371"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="279.9359,-374.5001 289.9359,-371 279.9359,-367.5001 279.9359,-374.5001"/>
+</g>
+</g>
+</svg>

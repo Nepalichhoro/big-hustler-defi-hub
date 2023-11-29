@@ -1,0 +1,297 @@
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0.00 0.00 1019.11 655.00">
+<g id="graph0" class="graph" transform="translate(4,651) scale(1)" style="transform: translate(4px, 99%) scale(0.98);">
+<title>G</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-651 1015.112,-651 1015.112,4 -4,4"/>
+<g id="clust1" class="cluster">
+<title>clusterPositionValue</title>
+<polygon fill="#d3d3d3" stroke="#d3d3d3" points="44.7973,-371 44.7973,-502 757.3312,-502 757.3312,-371 44.7973,-371"/>
+<text text-anchor="middle" x="401.0642" y="-485.4" font-family="Times,serif" font-size="14.00" fill="#000000">PositionValue  (lib)</text>
+</g>
+<g id="clust2" class="cluster">
+<title>clusterINonfungiblePositionManager</title>
+<polygon fill="none" stroke="#d3d3d3" points="561.7172,-8 561.7172,-139 748.5424,-139 748.5424,-8 561.7172,-8"/>
+<text text-anchor="middle" x="655.1298" y="-122.4" font-family="Times,serif" font-size="14.00" fill="#000000">INonfungiblePositionManager</text>
+</g>
+<g id="clust3" class="cluster">
+<title>clusterLiquidityAmounts</title>
+<polygon fill="none" stroke="#d3d3d3" points="300.7223,-256 300.7223,-333 531.9284,-333 531.9284,-256 300.7223,-256"/>
+<text text-anchor="middle" x="416.3254" y="-316.4" font-family="Times,serif" font-size="14.00" fill="#000000">LiquidityAmounts</text>
+</g>
+<g id="clust4" class="cluster">
+<title>clusterTickMath</title>
+<polygon fill="none" stroke="#d3d3d3" points="321.1187,-171 321.1187,-248 511.532,-248 511.532,-171 321.1187,-171"/>
+<text text-anchor="middle" x="416.3254" y="-231.4" font-family="Times,serif" font-size="14.00" fill="#000000">TickMath</text>
+</g>
+<g id="clust5" class="cluster">
+<title>clusterPoolAddress</title>
+<polygon fill="none" stroke="#d3d3d3" points="570.6977,-232 570.6977,-363 738.5619,-363 738.5619,-232 570.6977,-232"/>
+<text text-anchor="middle" x="654.6298" y="-346.4" font-family="Times,serif" font-size="14.00" fill="#000000">PoolAddress</text>
+</g>
+<g id="clust6" class="cluster">
+<title>clusterFullMath</title>
+<polygon fill="none" stroke="#d3d3d3" points="606.0855,-147 606.0855,-224 703.1741,-224 703.1741,-147 606.0855,-147"/>
+<text text-anchor="middle" x="654.6298" y="-207.4" font-family="Times,serif" font-size="14.00" fill="#000000">FullMath</text>
+</g>
+<g id="clust7" class="cluster">
+<title>clusterIUniswapV3Pool</title>
+<polygon fill="none" stroke="#d3d3d3" points="777.3312,-263 777.3312,-502 1003.112,-502 1003.112,-263 777.3312,-263"/>
+<text text-anchor="middle" x="890.2216" y="-485.4" font-family="Times,serif" font-size="14.00" fill="#000000">IUniswapV3Pool</text>
+</g>
+<g id="clust8" class="cluster">
+<title>cluster_01</title>
+<polygon fill="none" stroke="#000000" points="8,-510 8,-639 262.3612,-639 262.3612,-510 8,-510"/>
+<text text-anchor="middle" x="135.1806" y="-622.4" font-family="Times,serif" font-size="14.00" fill="#000000">Legend</text>
+</g>
+<!-- PositionValue.total -->
+<g id="node1" class="node">
+<title>PositionValue.total</title>
+<ellipse fill="none" stroke="#ffffff" cx="81" cy="-424" rx="28.4069" ry="18"/>
+<text text-anchor="middle" x="81" y="-419.8" font-family="Times,serif" font-size="14.00" fill="#000000">total</text>
+</g>
+<!-- PositionValue.principal -->
+<g id="node2" class="node">
+<title>PositionValue.principal</title>
+<ellipse fill="none" stroke="#000000" cx="227.3612" cy="-397" rx="45.2227" ry="18"/>
+<text text-anchor="middle" x="227.3612" y="-392.8" font-family="Times,serif" font-size="14.00" fill="#000000">principal</text>
+</g>
+<!-- PositionValue.total&#45;&gt;PositionValue.principal -->
+<g id="edge1" class="edge">
+<title>PositionValue.total-&gt;PositionValue.principal</title>
+<path fill="none" stroke="#00ff00" d="M108.1864,-418.9848C127.2697,-415.4644 153.3704,-410.6495 176.2816,-406.4229"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="177.0112,-409.8475 186.2103,-404.5913 175.7412,-402.9636 177.0112,-409.8475"/>
+</g>
+<!-- PositionValue.fees -->
+<g id="node3" class="node">
+<title>PositionValue.fees</title>
+<ellipse fill="none" stroke="#000000" cx="227.3612" cy="-451" rx="27" ry="18"/>
+<text text-anchor="middle" x="227.3612" y="-446.8" font-family="Times,serif" font-size="14.00" fill="#000000">fees</text>
+</g>
+<!-- PositionValue.total&#45;&gt;PositionValue.fees -->
+<g id="edge2" class="edge">
+<title>PositionValue.total-&gt;PositionValue.fees</title>
+<path fill="none" stroke="#00ff00" d="M108.1864,-429.0152C131.5824,-433.3312 165.5258,-439.5929 191.2083,-444.3307"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="190.8351,-447.8208 201.3041,-446.1931 192.105,-440.937 190.8351,-447.8208"/>
+</g>
+<!-- INonfungiblePositionManager.positions -->
+<g id="node7" class="node">
+<title>INonfungiblePositionManager.positions</title>
+<ellipse fill="none" stroke="#000000" cx="654.6298" cy="-34" rx="45.8253" ry="18"/>
+<text text-anchor="middle" x="654.6298" y="-29.8" font-family="Times,serif" font-size="14.00" fill="#000000">positions</text>
+</g>
+<!-- PositionValue.principal&#45;&gt;INonfungiblePositionManager.positions -->
+<g id="edge3" class="edge">
+<title>PositionValue.principal-&gt;INonfungiblePositionManager.positions</title>
+<path fill="none" stroke="#ffa500" d="M258.6783,-383.8189C271.5162,-378.8533 286.6423,-373.5535 300.7223,-370 351.0443,-357.2999 495.9835,-374.4373 531.9284,-337 574.6249,-292.5308 520.3514,-108.2668 559.9284,-61 569.6487,-49.3911 583.9773,-42.583 598.5626,-38.6434"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="599.6724,-41.9805 608.6476,-36.3505 598.1204,-35.1547 599.6724,-41.9805"/>
+</g>
+<!-- LiquidityAmounts.getAmountsForLiquidity -->
+<g id="node9" class="node">
+<title>LiquidityAmounts.getAmountsForLiquidity</title>
+<ellipse fill="none" stroke="#000000" cx="416.3254" cy="-282" rx="107.7062" ry="18"/>
+<text text-anchor="middle" x="416.3254" y="-277.8" font-family="Times,serif" font-size="14.00" fill="#000000">getAmountsForLiquidity</text>
+</g>
+<!-- PositionValue.principal&#45;&gt;LiquidityAmounts.getAmountsForLiquidity -->
+<g id="edge4" class="edge">
+<title>PositionValue.principal-&gt;LiquidityAmounts.getAmountsForLiquidity</title>
+<path fill="none" stroke="#ffa500" d="M245.1162,-380.4084C259.4232,-367.5652 280.4309,-349.858 300.7223,-337 321.1542,-324.0529 345.107,-312.1739 365.8943,-302.7947"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="367.4774,-305.9214 375.1985,-298.6664 364.6383,-299.523 367.4774,-305.9214"/>
+</g>
+<!-- TickMath.getSqrtRatioAtTick -->
+<g id="node10" class="node">
+<title>TickMath.getSqrtRatioAtTick</title>
+<ellipse fill="none" stroke="#000000" cx="416.3254" cy="-197" rx="87.4137" ry="18"/>
+<text text-anchor="middle" x="416.3254" y="-192.8" font-family="Times,serif" font-size="14.00" fill="#000000">getSqrtRatioAtTick</text>
+</g>
+<!-- PositionValue.principal&#45;&gt;TickMath.getSqrtRatioAtTick -->
+<g id="edge5" class="edge">
+<title>PositionValue.principal-&gt;TickMath.getSqrtRatioAtTick</title>
+<path fill="none" stroke="#ffa500" d="M230.917,-378.7316C238.9459,-346.7589 260.9479,-281.8188 300.7223,-243 313.0213,-230.9964 328.4374,-221.2263 343.9654,-213.6837"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="345.4644,-216.8468 353.0983,-209.5 342.5491,-210.4827 345.4644,-216.8468"/>
+</g>
+<!-- PositionValue.principal&#45;&gt;TickMath.getSqrtRatioAtTick -->
+<g id="edge6" class="edge">
+<title>PositionValue.principal-&gt;TickMath.getSqrtRatioAtTick</title>
+<path fill="none" stroke="#ffa500" d="M234.135,-379.1188C244.0817,-350.5803 265.3897,-295.4837 300.7223,-261 320.9929,-241.2164 349.7304,-227.4998 373.4814,-217.6022"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="375.0452,-220.7442 382.9793,-213.7228 372.3983,-214.2639 375.0452,-220.7442"/>
+</g>
+<!-- PositionValue._fees -->
+<g id="node4" class="node">
+<title>PositionValue._fees</title>
+<ellipse fill="none" stroke="#000000" cx="416.3254" cy="-397" rx="31.3179" ry="18"/>
+<text text-anchor="middle" x="416.3254" y="-392.8" font-family="Times,serif" font-size="14.00" fill="#000000">_fees</text>
+</g>
+<!-- PositionValue.fees&#45;&gt;PositionValue._fees -->
+<g id="edge8" class="edge">
+<title>PositionValue.fees-&gt;PositionValue._fees</title>
+<path fill="none" stroke="#00ff00" d="M252.4541,-443.8292C284.5725,-434.6508 340.5337,-418.6589 378.0013,-407.9518"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="379.3901,-411.1951 388.0435,-405.0821 377.4667,-404.4645 379.3901,-411.1951"/>
+</g>
+<!-- PositionValue.fees&#45;&gt;INonfungiblePositionManager.positions -->
+<g id="edge7" class="edge">
+<title>PositionValue.fees-&gt;INonfungiblePositionManager.positions</title>
+<path fill="none" stroke="#ffa500" d="M251.3704,-441.9807C259.4405,-437.7477 267.6683,-431.864 272.7223,-424 334.8419,-327.3422 231.594,-258.7761 300.7223,-167 371.8695,-72.5436 518.1563,-45.1645 598.5859,-37.2322"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="599.3694,-40.6752 609.0082,-36.2771 598.7305,-33.7044 599.3694,-40.6752"/>
+</g>
+<!-- PositionValue._getFeeGrowthInside -->
+<g id="node5" class="node">
+<title>PositionValue._getFeeGrowthInside</title>
+<ellipse fill="none" stroke="#000000" cx="654.6298" cy="-397" rx="94.9032" ry="18"/>
+<text text-anchor="middle" x="654.6298" y="-392.8" font-family="Times,serif" font-size="14.00" fill="#000000">_getFeeGrowthInside</text>
+</g>
+<!-- PositionValue._fees&#45;&gt;PositionValue._getFeeGrowthInside -->
+<g id="edge9" class="edge">
+<title>PositionValue._fees-&gt;PositionValue._getFeeGrowthInside</title>
+<path fill="none" stroke="#00ff00" d="M447.9704,-397C474.067,-397 512.6451,-397 549.4256,-397"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="549.7401,-400.5001 559.7401,-397 549.7401,-393.5001 549.7401,-400.5001"/>
+</g>
+<!-- PositionValue.IUniswapV3Pool -->
+<g id="node6" class="node">
+<title>PositionValue.IUniswapV3Pool</title>
+<ellipse fill="none" stroke="#000000" cx="654.6298" cy="-451" rx="78.1714" ry="18"/>
+<text text-anchor="middle" x="654.6298" y="-446.8" font-family="Times,serif" font-size="14.00" fill="#000000">IUniswapV3Pool</text>
+</g>
+<!-- PositionValue._fees&#45;&gt;PositionValue.IUniswapV3Pool -->
+<g id="edge10" class="edge">
+<title>PositionValue._fees-&gt;PositionValue.IUniswapV3Pool</title>
+<path fill="none" stroke="#00ff00" d="M445.5462,-403.6215C481.052,-411.6671 542.0293,-425.4846 588.9995,-436.1281"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="588.2694,-439.5513 598.7956,-438.3479 589.8164,-432.7244 588.2694,-439.5513"/>
+</g>
+<!-- INonfungiblePositionManager.factory -->
+<g id="node8" class="node">
+<title>INonfungiblePositionManager.factory</title>
+<ellipse fill="none" stroke="#000000" cx="654.6298" cy="-88" rx="38.2607" ry="18"/>
+<text text-anchor="middle" x="654.6298" y="-83.8" font-family="Times,serif" font-size="14.00" fill="#000000">factory</text>
+</g>
+<!-- PositionValue._fees&#45;&gt;INonfungiblePositionManager.factory -->
+<g id="edge12" class="edge">
+<title>PositionValue._fees-&gt;INonfungiblePositionManager.factory</title>
+<path fill="none" stroke="#ffa500" d="M447.8082,-397.3007C474.3491,-395.733 511.2211,-388.9406 531.9284,-365 596.9862,-289.7839 505.009,-225.9086 559.9284,-143 572.4706,-124.0658 593.9273,-110.8264 613.2484,-102.0899"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="614.6756,-105.2864 622.5133,-98.1575 611.9406,-98.8427 614.6756,-105.2864"/>
+</g>
+<!-- PoolAddress.computeAddress -->
+<g id="node11" class="node">
+<title>PoolAddress.computeAddress</title>
+<ellipse fill="none" stroke="#000000" cx="654.6298" cy="-312" rx="75.8643" ry="18"/>
+<text text-anchor="middle" x="654.6298" y="-307.8" font-family="Times,serif" font-size="14.00" fill="#000000">computeAddress</text>
+</g>
+<!-- PositionValue._fees&#45;&gt;PoolAddress.computeAddress -->
+<g id="edge11" class="edge">
+<title>PositionValue._fees-&gt;PoolAddress.computeAddress</title>
+<path fill="none" stroke="#ffa500" d="M445.6494,-390.0712C469.2253,-384.2175 503.0572,-375.1768 531.9284,-365 558.857,-355.5079 588.2463,-342.8962 611.5096,-332.3567"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="613.1134,-335.472 620.7537,-328.132 610.2037,-329.1054 613.1134,-335.472"/>
+</g>
+<!-- PoolAddress.PoolKey -->
+<g id="node12" class="node">
+<title>PoolAddress.PoolKey</title>
+<ellipse fill="none" stroke="#000000" cx="654.6298" cy="-258" rx="44.6645" ry="18"/>
+<text text-anchor="middle" x="654.6298" y="-253.8" font-family="Times,serif" font-size="14.00" fill="#000000">PoolKey</text>
+</g>
+<!-- PositionValue._fees&#45;&gt;PoolAddress.PoolKey -->
+<g id="edge13" class="edge">
+<title>PositionValue._fees-&gt;PoolAddress.PoolKey</title>
+<path fill="none" stroke="#ffa500" d="M447.8962,-396.0363C473.5869,-393.6096 509.1931,-386.2688 531.9284,-365 559.4379,-339.265 532.5181,-310.8406 559.9284,-285 571.0466,-274.5185 585.9443,-268.0647 600.6274,-264.1039"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="601.7716,-267.4307 610.7092,-261.7412 600.1744,-260.6153 601.7716,-267.4307"/>
+</g>
+<!-- FullMath.mulDiv -->
+<g id="node13" class="node">
+<title>FullMath.mulDiv</title>
+<ellipse fill="none" stroke="#000000" cx="654.6298" cy="-173" rx="40.5886" ry="18"/>
+<text text-anchor="middle" x="654.6298" y="-168.8" font-family="Times,serif" font-size="14.00" fill="#000000">mulDiv</text>
+</g>
+<!-- PositionValue._fees&#45;&gt;FullMath.mulDiv -->
+<g id="edge14" class="edge">
+<title>PositionValue._fees-&gt;FullMath.mulDiv</title>
+<path fill="none" stroke="#ffa500" d="M445.5676,-390.0369C471.9227,-386.3897 509.8275,-379.6679 531.9284,-356 574.3441,-310.5772 523.6609,-269.4677 559.9284,-219 571.5369,-202.8463 589.4747,-190.7098 606.6293,-182.6193"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="608.2519,-185.7307 616.0339,-178.5411 605.4669,-179.3085 608.2519,-185.7307"/>
+</g>
+<!-- PositionValue._fees&#45;&gt;FullMath.mulDiv -->
+<g id="edge15" class="edge">
+<title>PositionValue._fees-&gt;FullMath.mulDiv</title>
+<path fill="none" stroke="#ffa500" d="M445.3137,-403.9988C471.6787,-404.4328 509.7564,-397.744 531.9284,-374 574.3441,-328.5772 523.6609,-287.4677 559.9284,-237 574.9384,-216.1131 600.53,-201.9424 621.3282,-191.8942"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="622.9494,-194.9992 630.4915,-187.5583 619.9554,-188.6718 622.9494,-194.9992"/>
+</g>
+<!-- IUniswapV3Pool.slot0 -->
+<g id="node14" class="node">
+<title>IUniswapV3Pool.slot0</title>
+<ellipse fill="none" stroke="#000000" cx="890.2216" cy="-451" rx="29.6339" ry="18"/>
+<text text-anchor="middle" x="890.2216" y="-446.8" font-family="Times,serif" font-size="14.00" fill="#000000">slot0</text>
+</g>
+<!-- PositionValue._getFeeGrowthInside&#45;&gt;IUniswapV3Pool.slot0 -->
+<g id="edge16" class="edge">
+<title>PositionValue._getFeeGrowthInside-&gt;IUniswapV3Pool.slot0</title>
+<path fill="none" stroke="#ffa500" d="M715.3005,-410.9063C758.5436,-420.8181 815.3387,-433.8361 852.2997,-442.3079"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="851.6416,-445.7478 862.1708,-444.5705 853.2056,-438.9247 851.6416,-445.7478"/>
+</g>
+<!-- IUniswapV3Pool.ticks -->
+<g id="node15" class="node">
+<title>IUniswapV3Pool.ticks</title>
+<ellipse fill="none" stroke="#000000" cx="890.2216" cy="-397" rx="29.0509" ry="18"/>
+<text text-anchor="middle" x="890.2216" y="-392.8" font-family="Times,serif" font-size="14.00" fill="#000000">ticks</text>
+</g>
+<!-- PositionValue._getFeeGrowthInside&#45;&gt;IUniswapV3Pool.ticks -->
+<g id="edge17" class="edge">
+<title>PositionValue._getFeeGrowthInside-&gt;IUniswapV3Pool.ticks</title>
+<path fill="none" stroke="#ffa500" d="M743.0258,-390.4404C780.4698,-389.946 822.1479,-390.4144 851.5694,-391.8459"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="851.6447,-395.3554 861.8239,-392.4168 852.0339,-388.3662 851.6447,-395.3554"/>
+</g>
+<!-- PositionValue._getFeeGrowthInside&#45;&gt;IUniswapV3Pool.ticks -->
+<g id="edge18" class="edge">
+<title>PositionValue._getFeeGrowthInside-&gt;IUniswapV3Pool.ticks</title>
+<path fill="none" stroke="#ffa500" d="M743.0258,-403.5596C780.4698,-404.054 822.1479,-403.5856 851.5694,-402.1541"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="852.0339,-405.6338 861.8239,-401.5832 851.6447,-398.6446 852.0339,-405.6338"/>
+</g>
+<!-- IUniswapV3Pool.feeGrowthGlobal0X128 -->
+<g id="node16" class="node">
+<title>IUniswapV3Pool.feeGrowthGlobal0X128</title>
+<ellipse fill="none" stroke="#000000" cx="890.2216" cy="-343" rx="104.781" ry="18"/>
+<text text-anchor="middle" x="890.2216" y="-338.8" font-family="Times,serif" font-size="14.00" fill="#000000">feeGrowthGlobal0X128</text>
+</g>
+<!-- PositionValue._getFeeGrowthInside&#45;&gt;IUniswapV3Pool.feeGrowthGlobal0X128 -->
+<g id="edge19" class="edge">
+<title>PositionValue._getFeeGrowthInside-&gt;IUniswapV3Pool.feeGrowthGlobal0X128</title>
+<path fill="none" stroke="#ffa500" d="M715.3005,-383.0937C746.4363,-375.957 784.5978,-367.21 817.3228,-359.7091"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="818.3252,-363.0702 827.2905,-357.4244 816.7612,-356.2472 818.3252,-363.0702"/>
+</g>
+<!-- IUniswapV3Pool.feeGrowthGlobal1X128 -->
+<g id="node17" class="node">
+<title>IUniswapV3Pool.feeGrowthGlobal1X128</title>
+<ellipse fill="none" stroke="#000000" cx="890.2216" cy="-289" rx="104.781" ry="18"/>
+<text text-anchor="middle" x="890.2216" y="-284.8" font-family="Times,serif" font-size="14.00" fill="#000000">feeGrowthGlobal1X128</text>
+</g>
+<!-- PositionValue._getFeeGrowthInside&#45;&gt;IUniswapV3Pool.feeGrowthGlobal1X128 -->
+<g id="edge20" class="edge">
+<title>PositionValue._getFeeGrowthInside-&gt;IUniswapV3Pool.feeGrowthGlobal1X128</title>
+<path fill="none" stroke="#ffa500" d="M726.4781,-385.224C737.7514,-380.9074 748.5572,-375.0216 757.3312,-367 775.3004,-350.5715 758.9613,-331.9793 777.3312,-316 782.9235,-311.1354 789.2393,-307.1113 795.9552,-303.7866"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="797.5796,-306.896 805.3308,-299.6732 794.7672,-300.4858 797.5796,-306.896"/>
+</g>
+<!-- key -->
+<g id="node18" class="node">
+<title>key</title>
+<text text-anchor="start" x="65.636" y="-587.4" font-family="Times,serif" font-size="14.00" fill="#000000">Internal Call</text>
+<text text-anchor="start" x="61.744" y="-567.4" font-family="Times,serif" font-size="14.00" fill="#000000">External Call</text>
+<text text-anchor="start" x="39.2054" y="-547.4" font-family="Times,serif" font-size="14.00" fill="#000000">Defined Contract</text>
+<text text-anchor="start" x="25.6027" y="-527.4" font-family="Times,serif" font-size="14.00" fill="#000000">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node19" class="node">
+<title>key2</title>
+<text text-anchor="start" x="215.1203" y="-587.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<text text-anchor="start" x="215.1203" y="-567.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="#d3d3d3" stroke="transparent" points="213.3612,-542 213.3612,-562 241.3612,-562 241.3612,-542 213.3612,-542"/>
+<text text-anchor="start" x="215.1203" y="-547.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="none" stroke="#d3d3d3" points="215.3612,-524 215.3612,-540 239.3612,-540 239.3612,-524 215.3612,-524"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge21" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#00ff00" d="M138,-592C167.8305,-592 177.7351,-592 203.2068,-592"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="203.3612,-595.5001 213.3612,-592 203.3611,-588.5001 203.3612,-595.5001"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge22" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#ffa500" d="M138,-572C167.8305,-572 177.7351,-572 203.2068,-572"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="203.3612,-575.5001 213.3612,-572 203.3611,-568.5001 203.3612,-575.5001"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,122 @@
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0.00 0.00 542.82 431.00">
+<g id="graph0" class="graph" transform="translate(4,427) scale(1)" style="transform: translate(4px, 99%) scale(0.98);">
+<title>G</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-427 538.8189,-427 538.8189,4 -4,4"/>
+<g id="clust1" class="cluster">
+<title>clusterTickBitmap</title>
+<polygon fill="#d3d3d3" stroke="#d3d3d3" points="8,-147 8,-278 484.9754,-278 484.9754,-147 8,-147"/>
+<text text-anchor="middle" x="246.4877" y="-261.4" font-family="Times,serif" font-size="14.00" fill="#000000">TickBitmap  (lib)</text>
+</g>
+<g id="clust2" class="cluster">
+<title>clusterBitMath</title>
+<polygon fill="none" stroke="#d3d3d3" points="342.8179,-8 342.8179,-139 526.8189,-139 526.8189,-8 342.8179,-8"/>
+<text text-anchor="middle" x="434.8184" y="-122.4" font-family="Times,serif" font-size="14.00" fill="#000000">BitMath</text>
+</g>
+<g id="clust3" class="cluster">
+<title>cluster_01</title>
+<polygon fill="none" stroke="#000000" points="92.4089,-286 92.4089,-415 469.8184,-415 469.8184,-286 92.4089,-286"/>
+<text text-anchor="middle" x="281.1137" y="-398.4" font-family="Times,serif" font-size="14.00" fill="#000000">Legend</text>
+</g>
+<!-- TickBitmap.position -->
+<g id="node1" class="node">
+<title>TickBitmap.position</title>
+<ellipse fill="none" stroke="#000000" cx="434.8184" cy="-227" rx="42.3145" ry="18"/>
+<text text-anchor="middle" x="434.8184" y="-222.8" font-family="Times,serif" font-size="14.00" fill="#000000">position</text>
+</g>
+<!-- TickBitmap.flipTick -->
+<g id="node2" class="node">
+<title>TickBitmap.flipTick</title>
+<ellipse fill="none" stroke="#ffffff" cx="165.4089" cy="-227" rx="42.2913" ry="18"/>
+<text text-anchor="middle" x="165.4089" y="-222.8" font-family="Times,serif" font-size="14.00" fill="#000000">flipTick</text>
+</g>
+<!-- TickBitmap.flipTick&#45;&gt;TickBitmap.position -->
+<g id="edge1" class="edge">
+<title>TickBitmap.flipTick-&gt;TickBitmap.position</title>
+<path fill="none" stroke="#00ff00" d="M207.8005,-227C254.9353,-227 331.1252,-227 382.0761,-227"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="382.2296,-230.5001 392.2296,-227 382.2295,-223.5001 382.2296,-230.5001"/>
+</g>
+<!-- TickBitmap.nextInitializedTickWithinOneWord -->
+<g id="node3" class="node">
+<title>TickBitmap.nextInitializedTickWithinOneWord</title>
+<ellipse fill="none" stroke="#ffffff" cx="165.4089" cy="-173" rx="149.3179" ry="18"/>
+<text text-anchor="middle" x="165.4089" y="-168.8" font-family="Times,serif" font-size="14.00" fill="#000000">nextInitializedTickWithinOneWord</text>
+</g>
+<!-- TickBitmap.nextInitializedTickWithinOneWord&#45;&gt;TickBitmap.position -->
+<g id="edge2" class="edge">
+<title>TickBitmap.nextInitializedTickWithinOneWord-&gt;TickBitmap.position</title>
+<path fill="none" stroke="#00ff00" d="M281.3269,-184.486C292.6563,-186.5952 303.9678,-188.8 314.8179,-191 342.6526,-196.6438 373.955,-203.711 397.609,-210.4613"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="396.6627,-213.8313 407.2457,-213.3298 398.6598,-207.1222 396.6627,-213.8313"/>
+</g>
+<!-- TickBitmap.nextInitializedTickWithinOneWord&#45;&gt;TickBitmap.position -->
+<g id="edge4" class="edge">
+<title>TickBitmap.nextInitializedTickWithinOneWord-&gt;TickBitmap.position</title>
+<path fill="none" stroke="#00ff00" d="M218.0638,-189.9293C246.7291,-195.9672 282.7843,-202.5049 314.8179,-209 337.1197,-213.5219 361.6476,-218.9576 382.684,-223.1137"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="382.2242,-226.5893 392.7054,-225.0415 383.5467,-219.7154 382.2242,-226.5893"/>
+</g>
+<!-- TickBitmap.type -->
+<g id="node4" class="node">
+<title>TickBitmap.type</title>
+<ellipse fill="none" stroke="#000000" cx="434.8184" cy="-173" rx="27.8286" ry="18"/>
+<text text-anchor="middle" x="434.8184" y="-168.8" font-family="Times,serif" font-size="14.00" fill="#000000">type</text>
+</g>
+<!-- TickBitmap.nextInitializedTickWithinOneWord&#45;&gt;TickBitmap.type -->
+<g id="edge6" class="edge">
+<title>TickBitmap.nextInitializedTickWithinOneWord-&gt;TickBitmap.type</title>
+<path fill="none" stroke="#00ff00" d="M315.0826,-173C345.4745,-173 374.8372,-173 396.8792,-173"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="397.0842,-176.5001 407.0841,-173 397.0841,-169.5001 397.0842,-176.5001"/>
+</g>
+<!-- BitMath.mostSignificantBit -->
+<g id="node5" class="node">
+<title>BitMath.mostSignificantBit</title>
+<ellipse fill="none" stroke="#000000" cx="434.8184" cy="-88" rx="84.001" ry="18"/>
+<text text-anchor="middle" x="434.8184" y="-83.8" font-family="Times,serif" font-size="14.00" fill="#000000">mostSignificantBit</text>
+</g>
+<!-- TickBitmap.nextInitializedTickWithinOneWord&#45;&gt;BitMath.mostSignificantBit -->
+<g id="edge3" class="edge">
+<title>TickBitmap.nextInitializedTickWithinOneWord-&gt;BitMath.mostSignificantBit</title>
+<path fill="none" stroke="#ffa500" d="M218.9577,-156.1051C264.8018,-141.6411 330.6398,-120.8689 377.5305,-106.0746"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="378.7514,-109.3596 387.2349,-103.0128 376.6451,-102.6839 378.7514,-109.3596"/>
+</g>
+<!-- BitMath.leastSignificantBit -->
+<g id="node6" class="node">
+<title>BitMath.leastSignificantBit</title>
+<ellipse fill="none" stroke="#000000" cx="434.8184" cy="-34" rx="82.8341" ry="18"/>
+<text text-anchor="middle" x="434.8184" y="-29.8" font-family="Times,serif" font-size="14.00" fill="#000000">leastSignificantBit</text>
+</g>
+<!-- TickBitmap.nextInitializedTickWithinOneWord&#45;&gt;BitMath.leastSignificantBit -->
+<g id="edge5" class="edge">
+<title>TickBitmap.nextInitializedTickWithinOneWord-&gt;BitMath.leastSignificantBit</title>
+<path fill="none" stroke="#ffa500" d="M188.8802,-155.168C221.7463,-130.9217 284.0633,-87.5412 342.8179,-61 351.3747,-57.1346 360.6272,-53.6618 369.8534,-50.5962"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="370.9604,-53.917 379.4283,-47.5496 368.8378,-47.2465 370.9604,-53.917"/>
+</g>
+<!-- key -->
+<g id="node7" class="node">
+<title>key</title>
+<text text-anchor="start" x="150.0449" y="-363.4" font-family="Times,serif" font-size="14.00" fill="#000000">Internal Call</text>
+<text text-anchor="start" x="146.1529" y="-343.4" font-family="Times,serif" font-size="14.00" fill="#000000">External Call</text>
+<text text-anchor="start" x="123.6143" y="-323.4" font-family="Times,serif" font-size="14.00" fill="#000000">Defined Contract</text>
+<text text-anchor="start" x="110.0116" y="-303.4" font-family="Times,serif" font-size="14.00" fill="#000000">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node8" class="node">
+<title>key2</title>
+<text text-anchor="start" x="422.5775" y="-363.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<text text-anchor="start" x="422.5775" y="-343.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="#d3d3d3" stroke="transparent" points="420.8184,-318 420.8184,-338 448.8184,-338 448.8184,-318 420.8184,-318"/>
+<text text-anchor="start" x="422.5775" y="-323.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="none" stroke="#d3d3d3" points="422.8184,-300 422.8184,-316 446.8184,-316 446.8184,-300 422.8184,-300"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge7" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#00ff00" d="M222.4089,-368C307.1463,-368 330.8132,-368 410.7794,-368"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="410.8184,-371.5001 420.8184,-368 410.8184,-364.5001 410.8184,-371.5001"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge8" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#ffa500" d="M222.4089,-348C307.1463,-348 330.8132,-348 410.7794,-348"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="410.8184,-351.5001 420.8184,-348 410.8184,-344.5001 410.8184,-351.5001"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,57 @@
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0.00 0.00 317.28 292.00">
+<g id="graph0" class="graph" transform="translate(4,288) scale(1)" style="transform: translate(4px, 99%) scale(0.98);">
+<title>G</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-288 313.2782,-288 313.2782,4 -4,4"/>
+<g id="clust1" class="cluster">
+<title>clusterHexStrings</title>
+<polygon fill="#d3d3d3" stroke="#d3d3d3" points="8,-8 8,-139 211.2782,-139 211.2782,-8 8,-8"/>
+<text text-anchor="middle" x="109.6391" y="-122.4" font-family="Times,serif" font-size="14.00" fill="#000000">HexStrings  (lib)</text>
+</g>
+<g id="clust2" class="cluster">
+<title>cluster_01</title>
+<polygon fill="none" stroke="#000000" points="36.6391,-147 36.6391,-276 301.2782,-276 301.2782,-147 36.6391,-147"/>
+<text text-anchor="middle" x="168.9587" y="-259.4" font-family="Times,serif" font-size="14.00" fill="#000000">Legend</text>
+</g>
+<!-- HexStrings.toHexString -->
+<g id="node1" class="node">
+<title>HexStrings.toHexString</title>
+<ellipse fill="none" stroke="#ffffff" cx="109.6391" cy="-88" rx="58.4861" ry="18"/>
+<text text-anchor="middle" x="109.6391" y="-83.8" font-family="Times,serif" font-size="14.00" fill="#000000">toHexString</text>
+</g>
+<!-- HexStrings.toHexStringNoPrefix -->
+<g id="node2" class="node">
+<title>HexStrings.toHexStringNoPrefix</title>
+<ellipse fill="none" stroke="#ffffff" cx="109.6391" cy="-34" rx="93.7784" ry="18"/>
+<text text-anchor="middle" x="109.6391" y="-29.8" font-family="Times,serif" font-size="14.00" fill="#000000">toHexStringNoPrefix</text>
+</g>
+<!-- key -->
+<g id="node3" class="node">
+<title>key</title>
+<text text-anchor="start" x="94.2751" y="-224.4" font-family="Times,serif" font-size="14.00" fill="#000000">Internal Call</text>
+<text text-anchor="start" x="90.3831" y="-204.4" font-family="Times,serif" font-size="14.00" fill="#000000">External Call</text>
+<text text-anchor="start" x="67.8445" y="-184.4" font-family="Times,serif" font-size="14.00" fill="#000000">Defined Contract</text>
+<text text-anchor="start" x="54.2418" y="-164.4" font-family="Times,serif" font-size="14.00" fill="#000000">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node4" class="node">
+<title>key2</title>
+<text text-anchor="start" x="254.0373" y="-224.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<text text-anchor="start" x="254.0373" y="-204.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="#d3d3d3" stroke="transparent" points="252.2782,-179 252.2782,-199 280.2782,-199 280.2782,-179 252.2782,-179"/>
+<text text-anchor="start" x="254.0373" y="-184.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="none" stroke="#d3d3d3" points="254.2782,-161 254.2782,-177 278.2782,-177 278.2782,-161 254.2782,-161"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge1" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#00ff00" d="M166.6391,-229C200.984,-229 212.0857,-229 241.8909,-229"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="242.2783,-232.5001 252.2782,-229 242.2782,-225.5001 242.2783,-232.5001"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge2" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#ffa500" d="M166.6391,-209C200.984,-209 212.0857,-209 241.8909,-209"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="242.2783,-212.5001 252.2782,-209 242.2782,-205.5001 242.2783,-212.5001"/>
+</g>
+</g>
+</svg>

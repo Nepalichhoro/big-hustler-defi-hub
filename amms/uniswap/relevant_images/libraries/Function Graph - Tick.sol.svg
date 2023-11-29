@@ -1,0 +1,104 @@
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0.00 0.00 470.93 539.00">
+<g id="graph0" class="graph" transform="translate(4,535) scale(1)" style="transform: translate(4px, 99%) scale(0.98);">
+<title>G</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-535 466.9307,-535 466.9307,4 -4,4"/>
+<g id="clust1" class="cluster">
+<title>clusterTick</title>
+<polygon fill="#d3d3d3" stroke="#d3d3d3" points="8,-93 8,-386 436.7022,-386 436.7022,-93 8,-93"/>
+<text text-anchor="middle" x="222.3511" y="-369.4" font-family="Times,serif" font-size="14.00" fill="#000000">Tick  (lib)</text>
+</g>
+<g id="clust2" class="cluster">
+<title>clusterLiquidityMath</title>
+<polygon fill="none" stroke="#d3d3d3" points="347.1461,-8 347.1461,-85 454.9307,-85 454.9307,-8 347.1461,-8"/>
+<text text-anchor="middle" x="401.0384" y="-68.4" font-family="Times,serif" font-size="14.00" fill="#000000">LiquidityMath</text>
+</g>
+<g id="clust3" class="cluster">
+<title>cluster_01</title>
+<polygon fill="none" stroke="#000000" points="94.5731,-394 94.5731,-523 436.0384,-523 436.0384,-394 94.5731,-394"/>
+<text text-anchor="middle" x="265.3057" y="-506.4" font-family="Times,serif" font-size="14.00" fill="#000000">Legend</text>
+</g>
+<!-- Tick.tickSpacingToMaxLiquidityPerTick -->
+<g id="node1" class="node">
+<title>Tick.tickSpacingToMaxLiquidityPerTick</title>
+<ellipse fill="none" stroke="#ffffff" cx="167.5731" cy="-335" rx="151.6461" ry="18"/>
+<text text-anchor="middle" x="167.5731" y="-330.8" font-family="Times,serif" font-size="14.00" fill="#000000">tickSpacingToMaxLiquidityPerTick</text>
+</g>
+<!-- Tick.type -->
+<g id="node6" class="node">
+<title>Tick.type</title>
+<ellipse fill="none" stroke="#000000" cx="401.0384" cy="-335" rx="27.8286" ry="18"/>
+<text text-anchor="middle" x="401.0384" y="-330.8" font-family="Times,serif" font-size="14.00" fill="#000000">type</text>
+</g>
+<!-- Tick.tickSpacingToMaxLiquidityPerTick&#45;&gt;Tick.type -->
+<g id="edge1" class="edge">
+<title>Tick.tickSpacingToMaxLiquidityPerTick-&gt;Tick.type</title>
+<path fill="none" stroke="#00ff00" d="M319.3836,-335C335.4413,-335 350.5229,-335 363.2489,-335"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="363.3545,-338.5001 373.3545,-335 363.3544,-331.5001 363.3545,-338.5001"/>
+</g>
+<!-- Tick.getFeeGrowthInside -->
+<g id="node2" class="node">
+<title>Tick.getFeeGrowthInside</title>
+<ellipse fill="none" stroke="#ffffff" cx="167.5731" cy="-281" rx="89.746" ry="18"/>
+<text text-anchor="middle" x="167.5731" y="-276.8" font-family="Times,serif" font-size="14.00" fill="#000000">getFeeGrowthInside</text>
+</g>
+<!-- Tick.update -->
+<g id="node3" class="node">
+<title>Tick.update</title>
+<ellipse fill="none" stroke="#ffffff" cx="167.5731" cy="-227" rx="36.5594" ry="18"/>
+<text text-anchor="middle" x="167.5731" y="-222.8" font-family="Times,serif" font-size="14.00" fill="#000000">update</text>
+</g>
+<!-- LiquidityMath.addDelta -->
+<g id="node7" class="node">
+<title>LiquidityMath.addDelta</title>
+<ellipse fill="none" stroke="#000000" cx="401.0384" cy="-34" rx="45.7848" ry="18"/>
+<text text-anchor="middle" x="401.0384" y="-29.8" font-family="Times,serif" font-size="14.00" fill="#000000">addDelta</text>
+</g>
+<!-- Tick.update&#45;&gt;LiquidityMath.addDelta -->
+<g id="edge2" class="edge">
+<title>Tick.update-&gt;LiquidityMath.addDelta</title>
+<path fill="none" stroke="#ffa500" d="M203.6186,-230.8148C237.7504,-232.3246 288.2453,-228.7866 319.1461,-200 356.3738,-165.3194 322.2567,-133.3752 347.1461,-89 353.7512,-77.2237 363.5331,-66.1786 372.957,-57.1208"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="375.3765,-59.6508 380.3704,-50.3067 370.6394,-54.4971 375.3765,-59.6508"/>
+</g>
+<!-- Tick.clear -->
+<g id="node4" class="node">
+<title>Tick.clear</title>
+<ellipse fill="none" stroke="#ffffff" cx="167.5731" cy="-173" rx="29.5916" ry="18"/>
+<text text-anchor="middle" x="167.5731" y="-168.8" font-family="Times,serif" font-size="14.00" fill="#000000">clear</text>
+</g>
+<!-- Tick.cross -->
+<g id="node5" class="node">
+<title>Tick.cross</title>
+<ellipse fill="none" stroke="#ffffff" cx="167.5731" cy="-119" rx="30.7558" ry="18"/>
+<text text-anchor="middle" x="167.5731" y="-114.8" font-family="Times,serif" font-size="14.00" fill="#000000">cross</text>
+</g>
+<!-- key -->
+<g id="node8" class="node">
+<title>key</title>
+<text text-anchor="start" x="152.2091" y="-471.4" font-family="Times,serif" font-size="14.00" fill="#000000">Internal Call</text>
+<text text-anchor="start" x="148.3171" y="-451.4" font-family="Times,serif" font-size="14.00" fill="#000000">External Call</text>
+<text text-anchor="start" x="125.7785" y="-431.4" font-family="Times,serif" font-size="14.00" fill="#000000">Defined Contract</text>
+<text text-anchor="start" x="112.1758" y="-411.4" font-family="Times,serif" font-size="14.00" fill="#000000">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node9" class="node">
+<title>key2</title>
+<text text-anchor="start" x="388.7975" y="-471.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<text text-anchor="start" x="388.7975" y="-451.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="#d3d3d3" stroke="transparent" points="387.0384,-426 387.0384,-446 415.0384,-446 415.0384,-426 387.0384,-426"/>
+<text text-anchor="start" x="388.7975" y="-431.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="none" stroke="#d3d3d3" points="389.0384,-408 389.0384,-424 413.0384,-424 413.0384,-408 389.0384,-408"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge3" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#00ff00" d="M224.5731,-476C293.2542,-476 312.9396,-476 376.836,-476"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="377.0384,-479.5001 387.0384,-476 377.0384,-472.5001 377.0384,-479.5001"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge4" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#ffa500" d="M224.5731,-456C293.2542,-456 312.9396,-456 376.836,-456"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="377.0384,-459.5001 387.0384,-456 377.0384,-452.5001 377.0384,-459.5001"/>
+</g>
+</g>
+</svg>

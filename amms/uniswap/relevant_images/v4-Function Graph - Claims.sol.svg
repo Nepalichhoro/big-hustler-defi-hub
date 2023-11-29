@@ -1,0 +1,147 @@
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0.00 0.00 379.29 508.00">
+<g id="graph0" class="graph" transform="translate(25.165685345513793,482.03021328136316) scale(0.9330329915368076)" style="transform: translate(4px, 99%) scale(0.98);">
+<title>G</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-504 375.2911,-504 375.2911,4 -4,4"/>
+<g id="clust1" class="cluster">
+<title>clusterClaims</title>
+<polygon fill="#d3d3d3" stroke="#d3d3d3" points="22.2899,-8 22.2899,-355 363.2911,-355 363.2911,-8 22.2899,-8"/>
+<text text-anchor="middle" x="192.7905" y="-338.4" font-family="Times,serif" font-size="14.00" fill="#000000">Claims</text>
+</g>
+<g id="clust2" class="cluster">
+<title>cluster_01</title>
+<polygon fill="none" stroke="#000000" points="8,-363 8,-492 303.6456,-492 303.6456,-363 8,-363"/>
+<text text-anchor="middle" x="155.8228" y="-475.4" font-family="Times,serif" font-size="14.00" fill="#000000">Legend</text>
+</g>
+<!-- Claims.balanceOf -->
+<g id="node1" class="node">
+<title>Claims.balanceOf</title>
+<ellipse fill="none" stroke="#00ff00" cx="81" cy="-290" rx="50.9211" ry="18"/>
+<text text-anchor="middle" x="81" y="-285.8" font-family="Times,serif" font-size="14.00" fill="#000000">balanceOf</text>
+</g>
+<!-- Claims.transfer -->
+<g id="node2" class="node">
+<title>Claims.transfer</title>
+<ellipse fill="none" stroke="#00ff00" cx="81" cy="-209" rx="40.5441" ry="18"/>
+<text text-anchor="middle" x="81" y="-204.8" font-family="Times,serif" font-size="14.00" fill="#000000">transfer</text>
+</g>
+<!-- Claims.address -->
+<g id="node5" class="node">
+<title>Claims.address</title>
+<ellipse fill="none" stroke="#000000" cx="268.6456" cy="-196" rx="39.9857" ry="18"/>
+<text text-anchor="middle" x="268.6456" y="-191.8" font-family="Times,serif" font-size="14.00" fill="#000000">address</text>
+</g>
+<!-- Claims.transfer&#45;&gt;Claims.address -->
+<g id="edge1" class="edge">
+<title>Claims.transfer-&gt;Claims.address</title>
+<path fill="none" stroke="#00ff00" d="M121.2547,-206.2112C149.8931,-204.2271 188.5453,-201.5493 219.0827,-199.4337"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="219.3674,-202.9225 229.1015,-198.7396 218.8835,-195.9392 219.3674,-202.9225"/>
+</g>
+<!-- Claims.InvalidAddress -->
+<g id="node6" class="node">
+<title>Claims.InvalidAddress</title>
+<ellipse fill="none" stroke="#000000" cx="268.6456" cy="-250" rx="70.0635" ry="18"/>
+<text text-anchor="middle" x="268.6456" y="-245.8" font-family="Times,serif" font-size="14.00" fill="#000000">InvalidAddress</text>
+</g>
+<!-- Claims.transfer&#45;&gt;Claims.InvalidAddress -->
+<g id="edge2" class="edge">
+<title>Claims.transfer-&gt;Claims.InvalidAddress</title>
+<path fill="none" stroke="#00ff00" d="M117.6254,-217.0025C142.4314,-222.4226 175.8635,-229.7274 204.9662,-236.0862"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="204.5417,-239.576 215.0583,-238.2913 206.0359,-232.7373 204.5417,-239.576"/>
+</g>
+<!-- Claims.InsufficientBalance -->
+<g id="node7" class="node">
+<title>Claims.InsufficientBalance</title>
+<ellipse fill="none" stroke="#000000" cx="268.6456" cy="-142" rx="86.7914" ry="18"/>
+<text text-anchor="middle" x="268.6456" y="-137.8" font-family="Times,serif" font-size="14.00" fill="#000000">InsufficientBalance</text>
+</g>
+<!-- Claims.transfer&#45;&gt;Claims.InsufficientBalance -->
+<g id="edge3" class="edge">
+<title>Claims.transfer-&gt;Claims.InsufficientBalance</title>
+<path fill="none" stroke="#00ff00" d="M110.8298,-196.5043C130.8221,-188.2987 157.8154,-177.5436 182,-169 190.7281,-165.9167 200.0134,-162.8265 209.1406,-159.8951"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="210.4747,-163.1439 218.9486,-156.7843 208.3584,-156.4714 210.4747,-163.1439"/>
+</g>
+<!-- Claims.Transfer -->
+<g id="node8" class="node">
+<title>Claims.Transfer</title>
+<ellipse fill="none" stroke="#000000" cx="268.6456" cy="-304" rx="43.9769" ry="18"/>
+<text text-anchor="middle" x="268.6456" y="-299.8" font-family="Times,serif" font-size="14.00" fill="#000000">Transfer</text>
+</g>
+<!-- Claims.transfer&#45;&gt;Claims.Transfer -->
+<g id="edge4" class="edge">
+<title>Claims.transfer-&gt;Claims.Transfer</title>
+<path fill="none" stroke="#00ff00" d="M100.8325,-224.9145C120.4719,-240.0367 151.8872,-262.5533 182,-277 194.2259,-282.8654 208.0241,-287.8386 220.9556,-291.8566"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="220.052,-295.2394 230.6351,-294.7419 222.0517,-288.5311 220.052,-295.2394"/>
+</g>
+<!-- Claims._mint -->
+<g id="node3" class="node">
+<title>Claims._mint</title>
+<ellipse fill="none" stroke="#ffffff" cx="81" cy="-34" rx="33.646" ry="18"/>
+<text text-anchor="middle" x="81" y="-29.8" font-family="Times,serif" font-size="14.00" fill="#000000">_mint</text>
+</g>
+<!-- Claims.Mint -->
+<g id="node9" class="node">
+<title>Claims.Mint</title>
+<ellipse fill="none" stroke="#000000" cx="268.6456" cy="-34" rx="29.6339" ry="18"/>
+<text text-anchor="middle" x="268.6456" y="-29.8" font-family="Times,serif" font-size="14.00" fill="#000000">Mint</text>
+</g>
+<!-- Claims._mint&#45;&gt;Claims.Mint -->
+<g id="edge5" class="edge">
+<title>Claims._mint-&gt;Claims.Mint</title>
+<path fill="none" stroke="#00ff00" d="M114.9812,-34C146.9492,-34 194.825,-34 228.6268,-34"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="228.632,-37.5001 238.632,-34 228.632,-30.5001 228.632,-37.5001"/>
+</g>
+<!-- Claims._burn -->
+<g id="node4" class="node">
+<title>Claims._burn</title>
+<ellipse fill="none" stroke="#ffffff" cx="81" cy="-115" rx="33.6305" ry="18"/>
+<text text-anchor="middle" x="81" y="-110.8" font-family="Times,serif" font-size="14.00" fill="#000000">_burn</text>
+</g>
+<!-- Claims._burn&#45;&gt;Claims.InsufficientBalance -->
+<g id="edge6" class="edge">
+<title>Claims._burn-&gt;Claims.InsufficientBalance</title>
+<path fill="none" stroke="#00ff00" d="M113.6854,-119.703C133.9863,-122.6241 161.0511,-126.5184 186.877,-130.2345"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="186.6809,-133.7422 197.0774,-131.7022 187.6779,-126.8136 186.6809,-133.7422"/>
+</g>
+<!-- Claims.Burn -->
+<g id="node10" class="node">
+<title>Claims.Burn</title>
+<ellipse fill="none" stroke="#000000" cx="268.6456" cy="-88" rx="30.1977" ry="18"/>
+<text text-anchor="middle" x="268.6456" y="-83.8" font-family="Times,serif" font-size="14.00" fill="#000000">Burn</text>
+</g>
+<!-- Claims._burn&#45;&gt;Claims.Burn -->
+<g id="edge7" class="edge">
+<title>Claims._burn-&gt;Claims.Burn</title>
+<path fill="none" stroke="#00ff00" d="M113.6854,-110.297C145.754,-105.6827 194.7011,-98.6397 228.9805,-93.7073"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="229.7135,-97.138 239.1131,-92.2494 228.7165,-90.2094 229.7135,-97.138"/>
+</g>
+<!-- key -->
+<g id="node11" class="node">
+<title>key</title>
+<text text-anchor="start" x="65.636" y="-440.4" font-family="Times,serif" font-size="14.00" fill="#000000">Internal Call</text>
+<text text-anchor="start" x="61.744" y="-420.4" font-family="Times,serif" font-size="14.00" fill="#000000">External Call</text>
+<text text-anchor="start" x="39.2054" y="-400.4" font-family="Times,serif" font-size="14.00" fill="#000000">Defined Contract</text>
+<text text-anchor="start" x="25.6027" y="-380.4" font-family="Times,serif" font-size="14.00" fill="#000000">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node12" class="node">
+<title>key2</title>
+<text text-anchor="start" x="256.4047" y="-440.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<text text-anchor="start" x="256.4047" y="-420.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="#d3d3d3" stroke="transparent" points="254.6456,-395 254.6456,-415 282.6456,-415 282.6456,-395 254.6456,-395"/>
+<text text-anchor="start" x="256.4047" y="-400.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="none" stroke="#d3d3d3" points="256.6456,-377 256.6456,-393 280.6456,-393 280.6456,-377 256.6456,-377"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge8" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#00ff00" d="M138,-445C186.2986,-445 200.8494,-445 244.534,-445"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="244.6456,-448.5001 254.6456,-445 244.6455,-441.5001 244.6456,-448.5001"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge9" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#ffa500" d="M138,-425C186.2986,-425 200.8494,-425 244.534,-425"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="244.6456,-428.5001 254.6456,-425 244.6455,-421.5001 244.6456,-428.5001"/>
+</g>
+</g>
+</svg>

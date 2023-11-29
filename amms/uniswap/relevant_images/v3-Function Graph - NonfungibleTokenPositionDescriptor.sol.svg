@@ -1,0 +1,303 @@
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0.00 0.00 649.50 1180.00">
+<g id="graph0" class="graph" transform="translate(4,1176) scale(1)" style="transform: translate(4px, 99%) scale(0.98);">
+<title>G</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-1176 645.5011,-1176 645.5011,4 -4,4"/>
+<g id="clust1" class="cluster">
+<title>clusterNonfungibleTokenPositionDescriptor</title>
+<polygon fill="#d3d3d3" stroke="#d3d3d3" points="8,-734 8,-1027 633.5011,-1027 633.5011,-734 8,-734"/>
+<text text-anchor="middle" x="320.7506" y="-1010.4" font-family="Times,serif" font-size="14.00" fill="#000000">NonfungibleTokenPositionDescriptor</text>
+</g>
+<g id="clust2" class="cluster">
+<title>clusterINonfungiblePositionManager</title>
+<polygon fill="none" stroke="#d3d3d3" points="212.4381,-595 212.4381,-726 399.2632,-726 399.2632,-595 212.4381,-595"/>
+<text text-anchor="middle" x="305.8506" y="-709.4" font-family="Times,serif" font-size="14.00" fill="#000000">INonfungiblePositionManager</text>
+</g>
+<g id="clust3" class="cluster">
+<title>clusterPoolAddress</title>
+<polygon fill="none" stroke="#d3d3d3" points="221.4185,-456 221.4185,-587 389.2828,-587 389.2828,-456 221.4185,-456"/>
+<text text-anchor="middle" x="305.3506" y="-570.4" font-family="Times,serif" font-size="14.00" fill="#000000">PoolAddress</text>
+</g>
+<g id="clust4" class="cluster">
+<title>clusterChainId</title>
+<polygon fill="none" stroke="#d3d3d3" points="270.3506,-371 270.3506,-448 340.3506,-448 340.3506,-371 270.3506,-371"/>
+<text text-anchor="middle" x="305.3506" y="-431.4" font-family="Times,serif" font-size="14.00" fill="#000000">ChainId</text>
+</g>
+<g id="clust5" class="cluster">
+<title>clusterIUniswapV3Pool</title>
+<polygon fill="none" stroke="#d3d3d3" points="240.7208,-232 240.7208,-363 369.9805,-363 369.9805,-232 240.7208,-232"/>
+<text text-anchor="middle" x="305.3506" y="-346.4" font-family="Times,serif" font-size="14.00" fill="#000000">IUniswapV3Pool</text>
+</g>
+<g id="clust6" class="cluster">
+<title>clusterNFTDescriptor</title>
+<polygon fill="none" stroke="#d3d3d3" points="179.0419,-93 179.0419,-224 431.6594,-224 431.6594,-93 179.0419,-93"/>
+<text text-anchor="middle" x="305.3506" y="-207.4" font-family="Times,serif" font-size="14.00" fill="#000000">NFTDescriptor</text>
+</g>
+<g id="clust7" class="cluster">
+<title>clusterSafeERC20Namer</title>
+<polygon fill="none" stroke="#d3d3d3" points="234.8088,-8 234.8088,-85 375.8925,-85 375.8925,-8 234.8088,-8"/>
+<text text-anchor="middle" x="305.3506" y="-68.4" font-family="Times,serif" font-size="14.00" fill="#000000">SafeERC20Namer</text>
+</g>
+<g id="clust8" class="cluster">
+<title>cluster_01</title>
+<polygon fill="none" stroke="#000000" points="10.5209,-1035 10.5209,-1164 340.3506,-1164 340.3506,-1035 10.5209,-1035"/>
+<text text-anchor="middle" x="175.4358" y="-1147.4" font-family="Times,serif" font-size="14.00" fill="#000000">Legend</text>
+</g>
+<!-- NonfungibleTokenPositionDescriptor.&lt;Constructor&gt; -->
+<g id="node1" class="node">
+<title>NonfungibleTokenPositionDescriptor.&lt;Constructor&gt;</title>
+<ellipse fill="none" stroke="#00ff00" cx="83.5209" cy="-895" rx="67.5419" ry="18"/>
+<text text-anchor="middle" x="83.5209" y="-890.8" font-family="Times,serif" font-size="14.00" fill="#000000">&lt;Constructor&gt;</text>
+</g>
+<!-- NonfungibleTokenPositionDescriptor.nativeCurrencyLabel -->
+<g id="node2" class="node">
+<title>NonfungibleTokenPositionDescriptor.nativeCurrencyLabel</title>
+<ellipse fill="none" stroke="#000000" cx="305.3506" cy="-760" rx="92.5958" ry="18"/>
+<text text-anchor="middle" x="305.3506" y="-755.8" font-family="Times,serif" font-size="14.00" fill="#000000">nativeCurrencyLabel</text>
+</g>
+<!-- NonfungibleTokenPositionDescriptor.tokenURI -->
+<g id="node3" class="node">
+<title>NonfungibleTokenPositionDescriptor.tokenURI</title>
+<ellipse fill="none" stroke="#0000ff" cx="83.5209" cy="-760" rx="49.2376" ry="18"/>
+<text text-anchor="middle" x="83.5209" y="-755.8" font-family="Times,serif" font-size="14.00" fill="#000000">tokenURI</text>
+</g>
+<!-- NonfungibleTokenPositionDescriptor.tokenURI&#45;&gt;NonfungibleTokenPositionDescriptor.nativeCurrencyLabel -->
+<g id="edge11" class="edge">
+<title>NonfungibleTokenPositionDescriptor.tokenURI-&gt;NonfungibleTokenPositionDescriptor.nativeCurrencyLabel</title>
+<path fill="none" stroke="#00ff00" d="M130.2943,-754.3748C153.276,-753.4613 181.8555,-753.1043 209.2137,-753.3035"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="209.1912,-756.8034 219.2252,-753.4021 209.2602,-749.8037 209.1912,-756.8034"/>
+</g>
+<!-- NonfungibleTokenPositionDescriptor.tokenURI&#45;&gt;NonfungibleTokenPositionDescriptor.nativeCurrencyLabel -->
+<g id="edge13" class="edge">
+<title>NonfungibleTokenPositionDescriptor.tokenURI-&gt;NonfungibleTokenPositionDescriptor.nativeCurrencyLabel</title>
+<path fill="none" stroke="#00ff00" d="M130.2943,-765.6252C153.276,-766.5387 181.8555,-766.8957 209.2137,-766.6965"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="209.2602,-770.1963 219.2252,-766.5979 209.1912,-763.1966 209.2602,-770.1963"/>
+</g>
+<!-- NonfungibleTokenPositionDescriptor.flipRatio -->
+<g id="node4" class="node">
+<title>NonfungibleTokenPositionDescriptor.flipRatio</title>
+<ellipse fill="none" stroke="#000000" cx="305.3506" cy="-814" rx="45.2401" ry="18"/>
+<text text-anchor="middle" x="305.3506" y="-809.8" font-family="Times,serif" font-size="14.00" fill="#000000">flipRatio</text>
+</g>
+<!-- NonfungibleTokenPositionDescriptor.tokenURI&#45;&gt;NonfungibleTokenPositionDescriptor.flipRatio -->
+<g id="edge6" class="edge">
+<title>NonfungibleTokenPositionDescriptor.tokenURI-&gt;NonfungibleTokenPositionDescriptor.flipRatio</title>
+<path fill="none" stroke="#00ff00" d="M121.9452,-771.4755C139.3143,-776.5039 160.1406,-782.3137 179.0419,-787 203.7839,-793.1344 231.4583,-799.1447 254.5822,-803.9316"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="254.0252,-807.3902 264.5248,-805.9728 255.4329,-800.5332 254.0252,-807.3902"/>
+</g>
+<!-- NonfungibleTokenPositionDescriptor.IUniswapV3Pool -->
+<g id="node6" class="node">
+<title>NonfungibleTokenPositionDescriptor.IUniswapV3Pool</title>
+<ellipse fill="none" stroke="#000000" cx="305.3506" cy="-868" rx="78.1714" ry="18"/>
+<text text-anchor="middle" x="305.3506" y="-863.8" font-family="Times,serif" font-size="14.00" fill="#000000">IUniswapV3Pool</text>
+</g>
+<!-- NonfungibleTokenPositionDescriptor.tokenURI&#45;&gt;NonfungibleTokenPositionDescriptor.IUniswapV3Pool -->
+<g id="edge2" class="edge">
+<title>NonfungibleTokenPositionDescriptor.tokenURI-&gt;NonfungibleTokenPositionDescriptor.IUniswapV3Pool</title>
+<path fill="none" stroke="#00ff00" d="M98.9451,-777.4281C116.4717,-796.0973 146.8466,-825.1707 179.0419,-841 193.6234,-848.1692 210.0699,-853.4431 226.1573,-857.3202"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="225.5834,-860.7785 236.1077,-859.5583 227.1195,-853.9491 225.5834,-860.7785"/>
+</g>
+<!-- NonfungibleTokenPositionDescriptor.IERC20Metadata -->
+<g id="node7" class="node">
+<title>NonfungibleTokenPositionDescriptor.IERC20Metadata</title>
+<ellipse fill="none" stroke="#000000" cx="305.3506" cy="-922" rx="78.7298" ry="18"/>
+<text text-anchor="middle" x="305.3506" y="-917.8" font-family="Times,serif" font-size="14.00" fill="#000000">IERC20Metadata</text>
+</g>
+<!-- NonfungibleTokenPositionDescriptor.tokenURI&#45;&gt;NonfungibleTokenPositionDescriptor.IERC20Metadata -->
+<g id="edge15" class="edge">
+<title>NonfungibleTokenPositionDescriptor.tokenURI-&gt;NonfungibleTokenPositionDescriptor.IERC20Metadata</title>
+<path fill="none" stroke="#00ff00" d="M97.0422,-777.4322C117.7213,-808.7689 157.1079,-871.5415 179.0419,-886 195.9392,-897.1384 216.6211,-903.779 236.319,-908.1031"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="235.6993,-911.5486 246.1956,-910.1069 237.0912,-904.6884 235.6993,-911.5486"/>
+</g>
+<!-- NonfungibleTokenPositionDescriptor.tokenURI&#45;&gt;NonfungibleTokenPositionDescriptor.IERC20Metadata -->
+<g id="edge16" class="edge">
+<title>NonfungibleTokenPositionDescriptor.tokenURI-&gt;NonfungibleTokenPositionDescriptor.IERC20Metadata</title>
+<path fill="none" stroke="#00ff00" d="M91.2466,-777.9343C109.3545,-813.2134 154.8306,-888.0404 179.0419,-904 190.4918,-911.5475 203.6794,-917.0299 217.1211,-920.8803"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="216.376,-924.3024 226.9325,-923.4017 218.1184,-917.5227 216.376,-924.3024"/>
+</g>
+<!-- NonfungibleTokenPositionDescriptor.address -->
+<g id="node8" class="node">
+<title>NonfungibleTokenPositionDescriptor.address</title>
+<ellipse fill="none" stroke="#000000" cx="305.3506" cy="-976" rx="39.9857" ry="18"/>
+<text text-anchor="middle" x="305.3506" y="-971.8" font-family="Times,serif" font-size="14.00" fill="#000000">address</text>
+</g>
+<!-- NonfungibleTokenPositionDescriptor.tokenURI&#45;&gt;NonfungibleTokenPositionDescriptor.address -->
+<g id="edge18" class="edge">
+<title>NonfungibleTokenPositionDescriptor.tokenURI-&gt;NonfungibleTokenPositionDescriptor.address</title>
+<path fill="none" stroke="#00ff00" d="M96.2933,-777.6292C110.951,-798.4439 135.0244,-834.4809 151.0419,-868 167.4649,-902.3678 150.5133,-923.7614 179.0419,-949 199.6338,-967.2172 229.4739,-974.1779 254.9803,-976.4857"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="255.0238,-979.9969 265.2406,-977.1919 255.5045,-973.0135 255.0238,-979.9969"/>
+</g>
+<!-- INonfungiblePositionManager.positions -->
+<g id="node9" class="node">
+<title>INonfungiblePositionManager.positions</title>
+<ellipse fill="none" stroke="#000000" cx="305.3506" cy="-675" rx="45.8253" ry="18"/>
+<text text-anchor="middle" x="305.3506" y="-670.8" font-family="Times,serif" font-size="14.00" fill="#000000">positions</text>
+</g>
+<!-- NonfungibleTokenPositionDescriptor.tokenURI&#45;&gt;INonfungiblePositionManager.positions -->
+<g id="edge1" class="edge">
+<title>NonfungibleTokenPositionDescriptor.tokenURI-&gt;INonfungiblePositionManager.positions</title>
+<path fill="none" stroke="#ffa500" d="M117.6957,-746.905C156.7074,-731.9567 220.5624,-707.4889 262.776,-691.3136"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="264.1392,-694.5395 272.2248,-687.6931 261.6345,-688.0029 264.1392,-694.5395"/>
+</g>
+<!-- INonfungiblePositionManager.factory -->
+<g id="node10" class="node">
+<title>INonfungiblePositionManager.factory</title>
+<ellipse fill="none" stroke="#000000" cx="305.3506" cy="-621" rx="38.2607" ry="18"/>
+<text text-anchor="middle" x="305.3506" y="-616.8" font-family="Times,serif" font-size="14.00" fill="#000000">factory</text>
+</g>
+<!-- NonfungibleTokenPositionDescriptor.tokenURI&#45;&gt;INonfungiblePositionManager.factory -->
+<g id="edge4" class="edge">
+<title>NonfungibleTokenPositionDescriptor.tokenURI-&gt;INonfungiblePositionManager.factory</title>
+<path fill="none" stroke="#ffa500" d="M93.5835,-742.0555C108.7046,-716.8495 139.7502,-671.4255 179.0419,-648 202.4677,-634.0337 232.1445,-627.2437 256.8451,-623.9636"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="257.5693,-627.4027 267.0936,-622.762 256.7541,-620.4504 257.5693,-627.4027"/>
+</g>
+<!-- PoolAddress.computeAddress -->
+<g id="node11" class="node">
+<title>PoolAddress.computeAddress</title>
+<ellipse fill="none" stroke="#000000" cx="305.3506" cy="-536" rx="75.8643" ry="18"/>
+<text text-anchor="middle" x="305.3506" y="-531.8" font-family="Times,serif" font-size="14.00" fill="#000000">computeAddress</text>
+</g>
+<!-- NonfungibleTokenPositionDescriptor.tokenURI&#45;&gt;PoolAddress.computeAddress -->
+<g id="edge3" class="edge">
+<title>NonfungibleTokenPositionDescriptor.tokenURI-&gt;PoolAddress.computeAddress</title>
+<path fill="none" stroke="#ffa500" d="M89.3413,-741.9813C101.1231,-708.1058 130.8492,-634.4345 179.0419,-591 197.8521,-574.047 222.7078,-561.7092 245.3911,-553.0689"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="246.7545,-556.2974 254.9555,-549.5896 244.3615,-549.7191 246.7545,-556.2974"/>
+</g>
+<!-- PoolAddress.PoolKey -->
+<g id="node12" class="node">
+<title>PoolAddress.PoolKey</title>
+<ellipse fill="none" stroke="#000000" cx="305.3506" cy="-482" rx="44.6645" ry="18"/>
+<text text-anchor="middle" x="305.3506" y="-477.8" font-family="Times,serif" font-size="14.00" fill="#000000">PoolKey</text>
+</g>
+<!-- NonfungibleTokenPositionDescriptor.tokenURI&#45;&gt;PoolAddress.PoolKey -->
+<g id="edge5" class="edge">
+<title>NonfungibleTokenPositionDescriptor.tokenURI-&gt;PoolAddress.PoolKey</title>
+<path fill="none" stroke="#ffa500" d="M84.7148,-741.8331C88.7946,-695.3484 106.3093,-571.3736 179.0419,-509 198.5533,-492.2675 225.9149,-485.106 250.1851,-482.2992"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="250.7346,-485.7632 260.3654,-481.3477 250.0831,-478.7936 250.7346,-485.7632"/>
+</g>
+<!-- ChainId.get -->
+<g id="node13" class="node">
+<title>ChainId.get</title>
+<ellipse fill="none" stroke="#000000" cx="305.3506" cy="-397" rx="27" ry="18"/>
+<text text-anchor="middle" x="305.3506" y="-392.8" font-family="Times,serif" font-size="14.00" fill="#000000">get</text>
+</g>
+<!-- NonfungibleTokenPositionDescriptor.tokenURI&#45;&gt;ChainId.get -->
+<g id="edge7" class="edge">
+<title>NonfungibleTokenPositionDescriptor.tokenURI-&gt;ChainId.get</title>
+<path fill="none" stroke="#ffa500" d="M87.0795,-741.8682C98.9921,-682.7357 138.9818,-496.7261 179.0419,-452 202.5626,-425.7397 240.8716,-411.486 269.1418,-404.1185"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="270.1678,-407.471 279.057,-401.7062 268.513,-400.6694 270.1678,-407.471"/>
+</g>
+<!-- IUniswapV3Pool.slot0 -->
+<g id="node14" class="node">
+<title>IUniswapV3Pool.slot0</title>
+<ellipse fill="none" stroke="#000000" cx="305.3506" cy="-312" rx="29.6339" ry="18"/>
+<text text-anchor="middle" x="305.3506" y="-307.8" font-family="Times,serif" font-size="14.00" fill="#000000">slot0</text>
+</g>
+<!-- NonfungibleTokenPositionDescriptor.tokenURI&#45;&gt;IUniswapV3Pool.slot0 -->
+<g id="edge8" class="edge">
+<title>NonfungibleTokenPositionDescriptor.tokenURI-&gt;IUniswapV3Pool.slot0</title>
+<path fill="none" stroke="#ffa500" d="M85.7676,-741.9075C94.6733,-672.7401 129.4402,-425.976 179.0419,-367 201.185,-340.672 238.3193,-326.5666 266.6087,-319.2603"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="267.6795,-322.6028 276.5868,-316.8661 266.0462,-315.796 267.6795,-322.6028"/>
+</g>
+<!-- IUniswapV3Pool.tickSpacing -->
+<g id="node15" class="node">
+<title>IUniswapV3Pool.tickSpacing</title>
+<ellipse fill="none" stroke="#000000" cx="305.3506" cy="-258" rx="56.76" ry="18"/>
+<text text-anchor="middle" x="305.3506" y="-253.8" font-family="Times,serif" font-size="14.00" fill="#000000">tickSpacing</text>
+</g>
+<!-- NonfungibleTokenPositionDescriptor.tokenURI&#45;&gt;IUniswapV3Pool.tickSpacing -->
+<g id="edge17" class="edge">
+<title>NonfungibleTokenPositionDescriptor.tokenURI-&gt;IUniswapV3Pool.tickSpacing</title>
+<path fill="none" stroke="#ffa500" d="M84.5709,-741.947C89.5136,-663.3309 113.0526,-351.7955 179.0419,-285 194.6196,-269.232 216.9985,-261.6152 238.6041,-258.2059"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="239.3137,-261.6432 248.7809,-256.8869 238.414,-254.7013 239.3137,-261.6432"/>
+</g>
+<!-- NFTDescriptor.constructTokenURI -->
+<g id="node16" class="node">
+<title>NFTDescriptor.constructTokenURI</title>
+<ellipse fill="none" stroke="#000000" cx="305.3506" cy="-173" rx="87.9626" ry="18"/>
+<text text-anchor="middle" x="305.3506" y="-168.8" font-family="Times,serif" font-size="14.00" fill="#000000">constructTokenURI</text>
+</g>
+<!-- NonfungibleTokenPositionDescriptor.tokenURI&#45;&gt;NFTDescriptor.constructTokenURI -->
+<g id="edge9" class="edge">
+<title>NonfungibleTokenPositionDescriptor.tokenURI-&gt;NFTDescriptor.constructTokenURI</title>
+<path fill="none" stroke="#ffa500" d="M84.5203,-741.8513C89.4535,-658.2417 113.6506,-310.7273 179.0419,-228 193.1897,-210.1014 214.3314,-197.9051 235.2905,-189.6466"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="236.7021,-192.8567 244.8817,-186.1229 234.2881,-186.2861 236.7021,-192.8567"/>
+</g>
+<!-- NFTDescriptor.ConstructTokenURIParams -->
+<g id="node17" class="node">
+<title>NFTDescriptor.ConstructTokenURIParams</title>
+<ellipse fill="none" stroke="#000000" cx="305.3506" cy="-119" rx="118.1178" ry="18"/>
+<text text-anchor="middle" x="305.3506" y="-114.8" font-family="Times,serif" font-size="14.00" fill="#000000">ConstructTokenURIParams</text>
+</g>
+<!-- NonfungibleTokenPositionDescriptor.tokenURI&#45;&gt;NFTDescriptor.ConstructTokenURIParams -->
+<g id="edge10" class="edge">
+<title>NonfungibleTokenPositionDescriptor.tokenURI-&gt;NFTDescriptor.ConstructTokenURIParams</title>
+<path fill="none" stroke="#ffa500" d="M83.6786,-741.8779C84.8582,-649.8419 94.8382,-235.0793 179.0419,-146 183.8544,-140.9088 189.3735,-136.6582 195.355,-133.1187"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="197.1486,-136.1315 204.4211,-128.4268 193.9312,-129.9146 197.1486,-136.1315"/>
+</g>
+<!-- SafeERC20Namer.tokenSymbol -->
+<g id="node18" class="node">
+<title>SafeERC20Namer.tokenSymbol</title>
+<ellipse fill="none" stroke="#000000" cx="305.3506" cy="-34" rx="62.5837" ry="18"/>
+<text text-anchor="middle" x="305.3506" y="-29.8" font-family="Times,serif" font-size="14.00" fill="#000000">tokenSymbol</text>
+</g>
+<!-- NonfungibleTokenPositionDescriptor.tokenURI&#45;&gt;SafeERC20Namer.tokenSymbol -->
+<g id="edge12" class="edge">
+<title>NonfungibleTokenPositionDescriptor.tokenURI-&gt;SafeERC20Namer.tokenSymbol</title>
+<path fill="none" stroke="#ffa500" d="M83.735,-741.8187C85.2618,-644.4846 96.9785,-187.7789 179.0419,-80 192.863,-61.8479 213.9214,-49.587 234.9047,-41.8129"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="236.1694,-45.0798 244.5141,-38.5516 233.9197,-38.4511 236.1694,-45.0798"/>
+</g>
+<!-- NonfungibleTokenPositionDescriptor.tokenURI&#45;&gt;SafeERC20Namer.tokenSymbol -->
+<g id="edge14" class="edge">
+<title>NonfungibleTokenPositionDescriptor.tokenURI-&gt;SafeERC20Namer.tokenSymbol</title>
+<path fill="none" stroke="#ffa500" d="M83.8241,-741.9986C85.6901,-646.7218 98.4041,-203.9065 179.0419,-98 197.6239,-73.5951 229.2883,-59.839 256.2634,-51.0555"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="257.4512,-54.3515 265.9566,-48.034 255.368,-47.6686 257.4512,-54.3515"/>
+</g>
+<!-- NonfungibleTokenPositionDescriptor.tokenRatioPriority -->
+<g id="node5" class="node">
+<title>NonfungibleTokenPositionDescriptor.tokenRatioPriority</title>
+<ellipse fill="none" stroke="#000000" cx="542.5802" cy="-814" rx="82.8418" ry="18"/>
+<text text-anchor="middle" x="542.5802" y="-809.8" font-family="Times,serif" font-size="14.00" fill="#000000">tokenRatioPriority</text>
+</g>
+<!-- NonfungibleTokenPositionDescriptor.flipRatio&#45;&gt;NonfungibleTokenPositionDescriptor.tokenRatioPriority -->
+<g id="edge19" class="edge">
+<title>NonfungibleTokenPositionDescriptor.flipRatio-&gt;NonfungibleTokenPositionDescriptor.tokenRatioPriority</title>
+<path fill="none" stroke="#00ff00" d="M348.8622,-808.6359C378.4508,-807.3558 418.6313,-806.9625 454.7287,-807.456"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="454.7342,-810.9564 464.7895,-807.6187 454.8474,-803.9573 454.7342,-810.9564"/>
+</g>
+<!-- NonfungibleTokenPositionDescriptor.flipRatio&#45;&gt;NonfungibleTokenPositionDescriptor.tokenRatioPriority -->
+<g id="edge20" class="edge">
+<title>NonfungibleTokenPositionDescriptor.flipRatio-&gt;NonfungibleTokenPositionDescriptor.tokenRatioPriority</title>
+<path fill="none" stroke="#00ff00" d="M348.8622,-819.3641C378.4508,-820.6442 418.6313,-821.0375 454.7287,-820.544"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="454.8474,-824.0427 464.7895,-820.3813 454.7342,-817.0436 454.8474,-824.0427"/>
+</g>
+<!-- key -->
+<g id="node19" class="node">
+<title>key</title>
+<text text-anchor="start" x="68.1569" y="-1112.4" font-family="Times,serif" font-size="14.00" fill="#000000">Internal Call</text>
+<text text-anchor="start" x="64.2649" y="-1092.4" font-family="Times,serif" font-size="14.00" fill="#000000">External Call</text>
+<text text-anchor="start" x="41.7263" y="-1072.4" font-family="Times,serif" font-size="14.00" fill="#000000">Defined Contract</text>
+<text text-anchor="start" x="28.1236" y="-1052.4" font-family="Times,serif" font-size="14.00" fill="#000000">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node20" class="node">
+<title>key2</title>
+<text text-anchor="start" x="293.1097" y="-1112.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<text text-anchor="start" x="293.1097" y="-1092.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="#d3d3d3" stroke="transparent" points="291.3506,-1067 291.3506,-1087 319.3506,-1087 319.3506,-1067 291.3506,-1067"/>
+<text text-anchor="start" x="293.1097" y="-1072.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="none" stroke="#d3d3d3" points="293.3506,-1049 293.3506,-1065 317.3506,-1065 317.3506,-1049 293.3506,-1049"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge21" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#00ff00" d="M140.5209,-1117C204.0213,-1117 222.4079,-1117 281.1501,-1117"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="281.3507,-1120.5001 291.3506,-1117 281.3506,-1113.5001 281.3507,-1120.5001"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge22" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#ffa500" d="M140.5209,-1097C204.0213,-1097 222.4079,-1097 281.1501,-1097"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="281.3507,-1100.5001 291.3506,-1097 281.3506,-1093.5001 281.3507,-1100.5001"/>
+</g>
+</g>
+</svg>

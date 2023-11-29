@@ -1,0 +1,165 @@
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0.00 0.00 743.51 440.00">
+<g id="graph0" class="graph" transform="translate(4,436) scale(1)" style="transform: translate(4px, 99%) scale(0.98);">
+<title>G</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-436 739.5076,-436 739.5076,4 -4,4"/>
+<g id="clust1" class="cluster">
+<title>clusterSelfPermit</title>
+<polygon fill="#d3d3d3" stroke="#d3d3d3" points="8,-8 8,-287 727.5076,-287 727.5076,-8 8,-8"/>
+<text text-anchor="middle" x="367.7538" y="-270.4" font-family="Times,serif" font-size="14.00" fill="#000000">SelfPermit</text>
+</g>
+<g id="clust2" class="cluster">
+<title>cluster_01</title>
+<polygon fill="none" stroke="#000000" points="73.0825,-295 73.0825,-424 431.1452,-424 431.1452,-295 73.0825,-295"/>
+<text text-anchor="middle" x="252.1139" y="-407.4" font-family="Times,serif" font-size="14.00" fill="#000000">Legend</text>
+</g>
+<!-- SelfPermit.selfPermit -->
+<g id="node1" class="node">
+<title>SelfPermit.selfPermit</title>
+<ellipse fill="none" stroke="#00ff00" cx="396.1452" cy="-236" rx="50.9541" ry="18"/>
+<text text-anchor="middle" x="396.1452" y="-231.8" font-family="Times,serif" font-size="14.00" fill="#000000">selfPermit</text>
+</g>
+<!-- SelfPermit.IERC20Permit -->
+<g id="node5" class="node">
+<title>SelfPermit.IERC20Permit</title>
+<ellipse fill="none" stroke="#000000" cx="617.8165" cy="-236" rx="68.3748" ry="18"/>
+<text text-anchor="middle" x="617.8165" y="-231.8" font-family="Times,serif" font-size="14.00" fill="#000000">IERC20Permit</text>
+</g>
+<!-- SelfPermit.selfPermit&#45;&gt;SelfPermit.IERC20Permit -->
+<g id="edge1" class="edge">
+<title>SelfPermit.selfPermit-&gt;SelfPermit.IERC20Permit</title>
+<path fill="none" stroke="#00ff00" d="M447.0011,-236C474.2182,-236 508.3407,-236 538.9176,-236"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="539.1361,-239.5001 549.1361,-236 539.1361,-232.5001 539.1361,-239.5001"/>
+</g>
+<!-- SelfPermit.address -->
+<g id="node6" class="node">
+<title>SelfPermit.address</title>
+<ellipse fill="none" stroke="#000000" cx="617.8165" cy="-162" rx="39.9857" ry="18"/>
+<text text-anchor="middle" x="617.8165" y="-157.8" font-family="Times,serif" font-size="14.00" fill="#000000">address</text>
+</g>
+<!-- SelfPermit.selfPermit&#45;&gt;SelfPermit.address -->
+<g id="edge2" class="edge">
+<title>SelfPermit.selfPermit-&gt;SelfPermit.address</title>
+<path fill="none" stroke="#00ff00" d="M433.248,-223.6141C472.6445,-210.4624 534.787,-189.7175 575.9196,-175.9863"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="577.2639,-179.2275 585.641,-172.7411 575.0473,-172.5877 577.2639,-179.2275"/>
+</g>
+<!-- SelfPermit.selfPermitIfNecessary -->
+<g id="node2" class="node">
+<title>SelfPermit.selfPermitIfNecessary</title>
+<ellipse fill="none" stroke="#0000ff" cx="146.0825" cy="-199" rx="96.6579" ry="18"/>
+<text text-anchor="middle" x="146.0825" y="-194.8" font-family="Times,serif" font-size="14.00" fill="#000000">selfPermitIfNecessary</text>
+</g>
+<!-- SelfPermit.selfPermitIfNecessary&#45;&gt;SelfPermit.selfPermit -->
+<g id="edge5" class="edge">
+<title>SelfPermit.selfPermitIfNecessary-&gt;SelfPermit.selfPermit</title>
+<path fill="none" stroke="#00ff00" d="M222.1281,-210.2519C259.7931,-215.8249 304.5029,-222.4403 339.1719,-227.5701"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="338.7241,-231.0418 349.1287,-229.0433 339.7487,-224.1172 338.7241,-231.0418"/>
+</g>
+<!-- SelfPermit.selfPermitIfNecessary&#45;&gt;SelfPermit.address -->
+<g id="edge4" class="edge">
+<title>SelfPermit.selfPermitIfNecessary-&gt;SelfPermit.address</title>
+<path fill="none" stroke="#00ff00" d="M242.8556,-200.2775C309.7054,-200.1394 400.5582,-197.9313 480.1255,-189 511.2506,-185.5062 545.8433,-178.7112 572.5692,-172.8123"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="573.4131,-176.21 582.4033,-170.6041 571.8794,-169.3801 573.4131,-176.21"/>
+</g>
+<!-- SelfPermit.IERC20 -->
+<g id="node7" class="node">
+<title>SelfPermit.IERC20</title>
+<ellipse fill="none" stroke="#000000" cx="396.1452" cy="-162" rx="42.8771" ry="18"/>
+<text text-anchor="middle" x="396.1452" y="-157.8" font-family="Times,serif" font-size="14.00" fill="#000000">IERC20</text>
+</g>
+<!-- SelfPermit.selfPermitIfNecessary&#45;&gt;SelfPermit.IERC20 -->
+<g id="edge3" class="edge">
+<title>SelfPermit.selfPermitIfNecessary-&gt;SelfPermit.IERC20</title>
+<path fill="none" stroke="#00ff00" d="M222.1281,-187.7481C262.1471,-181.8267 310.1191,-174.7287 345.5505,-169.4861"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="346.2767,-172.9169 355.6567,-167.9908 345.2521,-165.9923 346.2767,-172.9169"/>
+</g>
+<!-- SelfPermit.selfPermitAllowed -->
+<g id="node3" class="node">
+<title>SelfPermit.selfPermitAllowed</title>
+<ellipse fill="none" stroke="#00ff00" cx="396.1452" cy="-88" rx="83.9605" ry="18"/>
+<text text-anchor="middle" x="396.1452" y="-83.8" font-family="Times,serif" font-size="14.00" fill="#000000">selfPermitAllowed</text>
+</g>
+<!-- SelfPermit.selfPermitAllowed&#45;&gt;SelfPermit.address -->
+<g id="edge7" class="edge">
+<title>SelfPermit.selfPermitAllowed-&gt;SelfPermit.address</title>
+<path fill="none" stroke="#00ff00" d="M441.5386,-103.1536C480.8396,-116.2733 537.2438,-135.1026 575.5891,-147.9033"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="574.8175,-151.3355 585.4112,-151.1822 577.0341,-144.6957 574.8175,-151.3355"/>
+</g>
+<!-- SelfPermit.IERC20PermitAllowed -->
+<g id="node8" class="node">
+<title>SelfPermit.IERC20PermitAllowed</title>
+<ellipse fill="none" stroke="#000000" cx="617.8165" cy="-88" rx="101.8825" ry="18"/>
+<text text-anchor="middle" x="617.8165" y="-83.8" font-family="Times,serif" font-size="14.00" fill="#000000">IERC20PermitAllowed</text>
+</g>
+<!-- SelfPermit.selfPermitAllowed&#45;&gt;SelfPermit.IERC20PermitAllowed -->
+<g id="edge6" class="edge">
+<title>SelfPermit.selfPermitAllowed-&gt;SelfPermit.IERC20PermitAllowed</title>
+<path fill="none" stroke="#00ff00" d="M480.2657,-88C488.6287,-88 497.2075,-88 505.7958,-88"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="505.8697,-91.5001 515.8697,-88 505.8696,-84.5001 505.8697,-91.5001"/>
+</g>
+<!-- SelfPermit.selfPermitAllowedIfNecessary -->
+<g id="node4" class="node">
+<title>SelfPermit.selfPermitAllowedIfNecessary</title>
+<ellipse fill="none" stroke="#0000ff" cx="146.0825" cy="-106" rx="130.165" ry="18"/>
+<text text-anchor="middle" x="146.0825" y="-101.8" font-family="Times,serif" font-size="14.00" fill="#000000">selfPermitAllowedIfNecessary</text>
+</g>
+<!-- SelfPermit.selfPermitAllowedIfNecessary&#45;&gt;SelfPermit.selfPermitAllowed -->
+<g id="edge11" class="edge">
+<title>SelfPermit.selfPermitAllowedIfNecessary-&gt;SelfPermit.selfPermitAllowed</title>
+<path fill="none" stroke="#00ff00" d="M261.5982,-97.685C276.5297,-96.6102 291.6433,-95.5222 306.0806,-94.483"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="306.7384,-97.9448 316.4613,-93.7358 306.2358,-90.9629 306.7384,-97.9448"/>
+</g>
+<!-- SelfPermit.selfPermitAllowedIfNecessary&#45;&gt;SelfPermit.address -->
+<g id="edge9" class="edge">
+<title>SelfPermit.selfPermitAllowedIfNecessary-&gt;SelfPermit.address</title>
+<path fill="none" stroke="#00ff00" d="M265.476,-113.2521C329.3434,-117.9152 409.2268,-125.0004 480.1255,-135 511.0322,-139.3591 545.4938,-146.1184 572.2093,-151.7833"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="571.5337,-155.218 582.0454,-153.8936 573.0021,-148.3737 571.5337,-155.218"/>
+</g>
+<!-- SelfPermit.selfPermitAllowedIfNecessary&#45;&gt;SelfPermit.IERC20 -->
+<g id="edge8" class="edge">
+<title>SelfPermit.selfPermitAllowedIfNecessary-&gt;SelfPermit.IERC20</title>
+<path fill="none" stroke="#00ff00" d="M214.744,-121.3763C257.0356,-130.8473 310.2099,-142.7553 348.0298,-151.2248"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="347.7448,-154.7476 358.268,-153.5176 349.2746,-147.9168 347.7448,-154.7476"/>
+</g>
+<!-- SelfPermit.type -->
+<g id="node9" class="node">
+<title>SelfPermit.type</title>
+<ellipse fill="none" stroke="#000000" cx="396.1452" cy="-34" rx="27.8286" ry="18"/>
+<text text-anchor="middle" x="396.1452" y="-29.8" font-family="Times,serif" font-size="14.00" fill="#000000">type</text>
+</g>
+<!-- SelfPermit.selfPermitAllowedIfNecessary&#45;&gt;SelfPermit.type -->
+<g id="edge10" class="edge">
+<title>SelfPermit.selfPermitAllowedIfNecessary-&gt;SelfPermit.type</title>
+<path fill="none" stroke="#00ff00" d="M202.5132,-89.752C251.1165,-75.7578 319.7508,-55.9961 360.9081,-44.1457"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="362.1098,-47.442 370.7509,-41.3117 360.1729,-40.7153 362.1098,-47.442"/>
+</g>
+<!-- key -->
+<g id="node10" class="node">
+<title>key</title>
+<text text-anchor="start" x="130.7185" y="-372.4" font-family="Times,serif" font-size="14.00" fill="#000000">Internal Call</text>
+<text text-anchor="start" x="126.8265" y="-352.4" font-family="Times,serif" font-size="14.00" fill="#000000">External Call</text>
+<text text-anchor="start" x="104.2879" y="-332.4" font-family="Times,serif" font-size="14.00" fill="#000000">Defined Contract</text>
+<text text-anchor="start" x="90.6852" y="-312.4" font-family="Times,serif" font-size="14.00" fill="#000000">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node11" class="node">
+<title>key2</title>
+<text text-anchor="start" x="383.9043" y="-372.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<text text-anchor="start" x="383.9043" y="-352.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="#d3d3d3" stroke="transparent" points="382.1452,-327 382.1452,-347 410.1452,-347 410.1452,-327 382.1452,-327"/>
+<text text-anchor="start" x="383.9043" y="-332.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+<polygon fill="none" stroke="#d3d3d3" points="384.1452,-309 384.1452,-325 408.1452,-325 408.1452,-309 384.1452,-309"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge12" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#00ff00" d="M203.0825,-377C279.0909,-377 300.6538,-377 371.7706,-377"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="372.1453,-380.5001 382.1452,-377 372.1452,-373.5001 372.1453,-380.5001"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge13" class="edge">
+<title>key:e-&gt;key2:w</title>
+<path fill="none" stroke="#ffa500" d="M203.0825,-357C279.0909,-357 300.6538,-357 371.7706,-357"/>
+<polygon fill="#ffa500" stroke="#ffa500" points="372.1453,-360.5001 382.1452,-357 372.1452,-353.5001 372.1453,-360.5001"/>
+</g>
+</g>
+</svg>
